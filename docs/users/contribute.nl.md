@@ -41,7 +41,8 @@ extra_javascript:
     error_phone: `Het telefoonnummer is ongeldig`,
     error_request: `Fout: kan de server niet bereiken. Controleer uw verbinding en probeer het opnieuw.`,
     need_help: `Hebt u hulp nodig?`,
-    email_us: `Schrijf een email naar <strong>support@meteo-parapente.com</strong>`
+    email_us: `Schrijf een email naar <strong>support@meteo-parapente.com</strong>`,
+    payment_declined: `De betaling is niet gelukt. Gelieve opnieuw te proberen.`
   };
 </script>
 <div id="app">

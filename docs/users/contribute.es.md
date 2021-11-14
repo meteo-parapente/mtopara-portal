@@ -41,7 +41,8 @@ extra_javascript:
     error_phone: `El número de teléfono no es válido`,
     error_request: `Error: no se puede alcanzar el servidor. Compruebe su conexión e inténtelo de nuevo`,
     need_help: `¿Necesita ayuda?`,
-    email_us: `Escriba un correo electrónico a <strong>support@meteo-parapente.com</strong>`
+    email_us: `Escriba un correo electrónico a <strong>support@meteo-parapente.com</strong>`,
+    payment_declined: `El pago falló. Por favor, inténtalo de nuevo.`
   };
 </script>
 <div id="app">

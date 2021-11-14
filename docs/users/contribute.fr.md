@@ -41,7 +41,8 @@ extra_javascript:
     error_phone: `Le numéro portable est invalide`,
     error_request: `Erreur de communication avec le serveur. Vérifiez votre connexion et ressayez.`,
     need_help: `Besoin d'aide ?`,
-    email_us: `Envoyez un email à  <strong>support@meteo-parapente.com</strong>`
+    email_us: `Envoyez un email à  <strong>support@meteo-parapente.com</strong>`,
+    payment_declined: `Le paiement n'a pas abouti. Vous n'avez pas été débité. Veuillez réessayer.`
   };
 </script>
 <div id="app">

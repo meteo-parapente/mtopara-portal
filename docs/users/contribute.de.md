@@ -41,7 +41,8 @@ extra_javascript:
     error_phone: `Telefonnummer ist nicht gültig`,
     error_request: `Fehler: Server nicht erreichbar. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut`,
     need_help: `Brauchen Sie Hilfe?`,
-    email_us: `Schreiben Sie eine E-Mail an <strong>support@meteo-parapente.com</strong>`
+    email_us: `Schreiben Sie eine E-Mail an <strong>support@meteo-parapente.com</strong>`,
+    payment_declined: `Die Zahlung war nicht erfolgreich. Bitte versuchen Sie es erneut.`
   };
 </script>
 
