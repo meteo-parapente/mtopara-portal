@@ -9,6 +9,7 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
+title: Word lid van de club
 ---
 
 # Word lid van de Bijdragersclub van Meteo-Parapente
@@ -20,6 +21,8 @@ extra_javascript:
 - Krijg gratis toegang tot lokale weertrainingen en gebruikers meetups
  
 - Ontmoet me één keer per maand om nieuwe functies en verbeteringen te bespreken
+
+- 👋 <a href="/nl/about-us/" target="_blank">Ontdek wie we zijn</a>
 
 <script>
   const mp_form_locale = {

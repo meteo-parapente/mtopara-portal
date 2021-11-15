@@ -9,6 +9,7 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
+title: Werden Sie Mitglied im Club
 ---
 
 # Werden Sie Mitglied im Club der Meteo Parapente Beitragszahler
@@ -20,6 +21,8 @@ extra_javascript:
 - Erhalten Sie freien Eintritt zu lokalen Wettertrainings und Nutzertreffen
  
 - Treffen Sie mich einmal im Monat, um neue Funktionen und Verbesserungen zu besprechen
+
+- 👋 <a href="/de/about-us/" target="_blank">Entdecken Sie, wer wir sind</a>
 
 <script>
   const mp_form_locale = {

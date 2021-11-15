@@ -9,6 +9,7 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
+title: Rejoignez le club
 ---
 
 # Rejoignez le club des contributeurs !</span>
@@ -20,6 +21,8 @@ extra_javascript:
 - Participez gratuitement aux formations météo organisées dans les clubs
  
 - Rencontrez-moi une fois par mois pour échanger nos idées et améliorer le site
+
+- 👋 <a href="/fr/about-us/" target="_blank">Découvrez qui nous sommes</a>
 
 <script>
   const mp_form_locale = {
