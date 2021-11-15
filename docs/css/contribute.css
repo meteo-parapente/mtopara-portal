@@ -1,7 +1,7 @@
 .mp-form {
-  display: block;
+  /*display: block;*/
   /*text-align: center;*/
-  max-width: 700px;
+  /*max-width: 700px;*/
 }
 .mp-form input[type="text"], .mp-form input[type="email"], .mp-form input[type="tel"], .mp-form input[type="password"], .mp-form select, .mp-form div.vti__dropdown {
   display: block;
@@ -14,7 +14,7 @@
   transition: color 125ms,background-color 125ms,border-color 125ms;
   /*border: unset;*/
   outline: unset;
-  max-width: 400px;
+  max-width: 350px;
   width: 100%;%;
   background-color: white;
 }
@@ -62,7 +62,7 @@ div.vti__dropdown {
 }
 input.vti__input {
   margin-left: 2px;
-  max-width: 322px !important;
+  max-width: 278px !important;
   flex-grow: unset;
 }
 
@@ -90,7 +90,7 @@ ul.vti__dropdown-list {
 
 .vti__dropdown-list {
   max-height: 50vh;
-  max-width: 400px;
+  max-width: 350px;
   border: .1rem solid var(--md-typeset-kbd-border-color);
   display: relative;
   box-shadow: 1px 1px 16px 5px rgba(0,0,0,0.82);
@@ -117,21 +117,21 @@ ul.vti__dropdown-list {
   color: white;
 }
 
-div.mp-inline {
+label.mp-inline {
   display: inline-block;
 }
 
-.choice {
+/*.choice {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
   margin-top: 20px;
-}
+}*/
 .choice label {
   border: .1rem solid var(--md-typeset-kbd-border-color);
   border-radius: .1rem;
   color: var(--md-code-fg-color);
-  padding: 5px;
+  /*padding: 5px;*/
   background-color: white;
   user-select: none;
   padding: .625em;
@@ -140,7 +140,12 @@ div.mp-inline {
   /*margin-top: 20px;*/
   /*margin-right: 10px;*/
   cursor: pointer;
-  flex-grow: 2;
+  /*flex-grow: 2;*/
+  max-width: 350px;
+  width: 100%;
+  margin-top: 4px;
+  margin-right: 4px;
+  display: inline-block !important;
 }
 
 .choice label.small {
