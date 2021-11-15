@@ -1,6 +1,8 @@
-# Willkommen
+---
+title: Willkommen
+---
 
-## Willkommen beim Hilfeportal von Meteo-Parapente
+# Willkommen beim Hilfeportal von Meteo-Parapente
 
 Auf diesem Portal finden Sie alle Informationen über Meteo-Parapente, wie Sie es nutzen können und wie Sie uns kontaktieren können.
 

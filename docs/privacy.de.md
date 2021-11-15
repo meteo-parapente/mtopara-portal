@@ -1,5 +1,7 @@
-# Datenschutzbestimmungen
-DATENSCHUTZRICHTLINIE UND VERWENDUNG PERSONENBEZOGENER DATEN
+---
+title: Datenschutzbestimmungen
+---
+# Datenschutzrichtlinie und verwendung personenbezogener daten
 
 
 *(14. Oktober 2021)*

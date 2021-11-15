@@ -1,6 +1,7 @@
-# Política de privacidad
-
-POLÍTICA DE PRIVACIDAD Y USO DE DATOS PERSONALES
+---
+title: Política de privacidad
+---
+# Política de privacidad y uso de datos personales
 
 > <p>Este documento es una traducción automática de un documento oficial francés. Esta traducción se proporciona para su comodidad. En caso de cualquier duda, es la [versión original en francés](/fr/privacy/) la que tiene valor vinculante.</p>
 > <p>Si observa un error en la traducción, [háganoslo saber](translations.md)</p>

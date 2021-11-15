@@ -1,6 +1,7 @@
-# Politica sulla riservatezza
-
-INFORMATIVA SULLA PRIVACY E UTILIZZO DEI DATI PERSONALI
+---
+title: Politica sulla riservatezza
+---
+# Politica sulla privacy e utilizzo dei dati personali
 
 *(14 ottobre 2021)*
 

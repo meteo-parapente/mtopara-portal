@@ -1,5 +1,8 @@
-PRIVACY POLICY AND USE OF PERSONAL DATA
-=======================================
+---
+title: Privacy policy
+---
+# Privacy policy and use of personal data
+
 *(October 14, 2021)*
 
 > <p>This document is a machine translation of an official French document. This translation is provided for your convenience. In case of any uncertainty, it is the [original French version](/fr/legal/) that has the binding value.</p>

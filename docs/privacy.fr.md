@@ -1,5 +1,7 @@
-# Données personnelles
-POLITIQUE DE CONFIDENTIALITÉ ET D'UTILISATION DES DONNÉES PERSONNELLES
+---
+title: Données personnelles
+---
+# Politique de confidentialité et d'utilisation des données personnelles
 
 *(14 octobre 2021)*
 

@@ -1,6 +1,7 @@
-# Privacybeleid
-
-PRIVACYBELEID EN GEBRUIK VAN PERSOONLIJKE GEGEVENS
+---
+title: Privacybeleid
+---
+# Privacybeleid en gebruik van persoonlijke gegevens
 
 *(14 oktober 2021)*
 
@@ -15,7 +16,7 @@ Worden aan het einde van deze polis aangeduid als:
 
 -   **"Dienst"** : de Meteo-Parapente-dienst en al zijn inhoud, zoals gedefinieerd in de Algemene Gebruiksvoorwaarden en de Specifieke Lidmaatschapsvoorwaarden.
 
--   **"Beleid": ****dit privacy- en gebruik van persoonsgegevensbeleid.**
+-   **"Beleid":** dit privacy- en gebruik van persoonsgegevensbeleid.
 
 -   **"Uitgever"** of **"Wij"** : Meteo-Parapente SAS, rechtspersoon of natuurlijke persoon die verantwoordelijk is voor de redactie en inhoud van de Dienst.
 
