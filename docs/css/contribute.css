@@ -17,6 +17,9 @@
   max-width: 350px;
   width: 100%;%;
   background-color: white;
+  /*-webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;*/
 }
 
 .mp-form label {
