@@ -1,6 +1,6 @@
 # Preguntas frecuentes
 
-**Esta página está en construcción.
+**Esta página está en construcción.**
 
 ## Uso general
 
