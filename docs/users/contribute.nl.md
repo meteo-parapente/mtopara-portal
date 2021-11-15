@@ -6,6 +6,7 @@ extra_css:
   - /css/contribute.css
 extra_javascript:
   #- https://cdn.jsdelivr.net/combine/npm/vue@2.6.14,npm/vue-tel-input@5.6.2/dist/vue-tel-input.umd.min.js,npm/vue-resource@1.5.3/dist/vue-resource.min.js
+  - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
 ---
@@ -34,7 +35,7 @@ extra_javascript:
     mobile_phone: `Mobiele telefoon`,
     mobile_phone_small_text: `Alleen gebruikt om uw toegangscode te ontvangen en om deze te resetten in geval u deze verliest. Als u geen mobiele telefoon heeft, neem dan contact op met support@meteo-parapente.com`,
     payment_method: `Betaalmethode`,
-    payment_card: `Creditcard / Debetkaart`,
+    payment_card: `Kredietkaart / Debetkaart`,
     payment_proceed: `Doorgaan naar betaling ►`,
     terms_approval: `Door te klikken op "Doorgaan naar betaling", gaat u akkoord en stemt u in met de <a href="/nl/legal/#algemene-gebruiksvoorwaarden-van-meteo-parapente" target="_blank">Algemene gebruiksvoorwaarden van Meteo-Parapente</a>, de <a href="/nl/legal/#specifieke-voorwaarden-voor-lidmaatschap-van-de-bijdragersclub" target="_blank">Specifieke voorwaarden voor lidmaatschap van de Bijdragersclub</a> en het <a href="/nl/privacy/" target="_blank">Privacybeleid</a>. `,
     error_email: `Emailadres is ongeldig`,
@@ -42,7 +43,8 @@ extra_javascript:
     error_request: `Fout: kan de server niet bereiken. Controleer uw verbinding en probeer het opnieuw.`,
     need_help: `Hebt u hulp nodig?`,
     email_us: `Schrijf een email naar <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `De betaling is niet gelukt. Gelieve opnieuw te proberen.`
+    payment_declined: `De betaling is niet gelukt. Gelieve opnieuw te proberen.`,
+    payment_sepa: `SEPA-overschrijving`
   };
 </script>
 <div id="app">

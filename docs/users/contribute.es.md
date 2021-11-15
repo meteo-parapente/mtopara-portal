@@ -6,6 +6,7 @@ extra_css:
   - /css/contribute.css
 extra_javascript:
   #- https://cdn.jsdelivr.net/combine/npm/vue@2.6.14,npm/vue-tel-input@5.6.2/dist/vue-tel-input.umd.min.js,npm/vue-resource@1.5.3/dist/vue-resource.min.js
+  - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
 ---
@@ -42,7 +43,8 @@ extra_javascript:
     error_request: `Error: no se puede alcanzar el servidor. Compruebe su conexión e inténtelo de nuevo`,
     need_help: `¿Necesita ayuda?`,
     email_us: `Escriba un correo electrónico a <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `El pago falló. Por favor, inténtalo de nuevo.`
+    payment_declined: `El pago falló. Por favor, inténtalo de nuevo.`,
+    payment_sepa: `Transferencia bancaria SEPA`
   };
 </script>
 <div id="app">
