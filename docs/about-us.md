@@ -35,7 +35,7 @@ It is way more professional than before. But keep in mind that Meteo-Parapente i
 
 Paraglider pilot and sailing instructor, I have always been addicted to the wind. I am a self-taught computer programmer. This double interest in wind and coding naturally led me to found Meteo-Parapente, in 2012. I was 21 at that time.
 
-I played a major role in the [opening](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) of Meteo-France models data.
+I played a major role in the [opening](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) of the data of Météo-France models. I was awarded the Dataconnexions prize by [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) and nominated [as a Pioneer of open-data](https://web.archive.org/web/20141107181214/http://summit.theodi.org/awards/) by the Open Data Institute.
 
 As a recognized expert in meteorological data, I provide consultancy and services to major companies such as Engie, Total, Renault, Windy, Windguru...
 
