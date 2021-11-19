@@ -66,7 +66,7 @@ new Vue({
 
     <p v-if="refused"><span class="error">{{ l.payment_declined }}</span></p>
 
-    <div class="row">
+    <!--<div class="row">
       <div class="field">
         <select v-model="paymentMethod">
           <option v-for="method in paymentMethods" :value=" method[0]">
@@ -74,18 +74,18 @@ new Vue({
           </option>
         </select>
       </div>  
-    </div>
+    </div>-->
 
-    <!--<div class="choice">
+    <div class="choice">
 
-      <div>
+      <!--<div>
         <input type="radio" name="payment_method" value="card" id="method_card" v-model="paymentMethod">
         <label for="method_card">
           <strong><big>{{ l.payment_card }} 
     💳</big></strong><br>
           <small>Visa, Mastercard, Maestro, Electron...</small>
         </label>
-      </div>
+      </div>-->
 
       <div v-for="method in paymentMethods">
         <input type="radio" name="payment_method" :value=" method[0]" :id="'method_'+method[0]" v-model="paymentMethod">
@@ -94,7 +94,7 @@ new Vue({
         </label>
       </div>
       
-    </div>-->
+    </div>
     
     <div class="submit">
       <p v-if="loading"><img src="/img/load.gif" class="loading" alt="loading..."/></p>
@@ -102,7 +102,6 @@ new Vue({
         <input type="submit" class="md-typeset md-button md-button--primary" :class="{error: formErrorDisplay }" :value="formErrorDisplay ? formErrorDisplay : l.payment_proceed" @blur="formErrorDisplay = false"><br>
         <span class="error" v-if="requestError">{{ l.error_request }}</span>
       </p>
-      
     </div>
     
     <p><small class="faded" v-html="l.terms_approval"></small></p>
@@ -160,7 +159,8 @@ new Vue({
     },
     paymentMethods: function() {
       const methods = {
-        'card': [this.l.payment_card + ' 💳', ['*']],
+        // 'card': [this.l.payment_card + ' 💳', ['*']],
+        'card': [this.l.payment_card, ['*']],
         'ideal': ['iDeal', ['NL']],
         'bancontact': ['Bancontact', ['BE']],
         'giropay': ['Giropay', ['DE']],
