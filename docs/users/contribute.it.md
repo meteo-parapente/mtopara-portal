@@ -46,7 +46,7 @@ title: Entra nel club
     error_request: `Errore: impossibile raggiungere il server. Controlla la tua connessione e riprova`,
     need_help: `Hai bisogno di aiuto?`,
     email_us: `Scrivi un'email a <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `Il pagamento non è riuscito. Si prega di riprovare.`,
+    payment_declined: `La sua banca ha rifiutato il pagamento. Si prega di riprovare.`,
     payment_sepa: `Bonifico bancario SEPA`
   };
 </script>

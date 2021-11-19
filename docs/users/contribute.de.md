@@ -46,7 +46,7 @@ title: Werden Sie Mitglied im Club
     error_request: `Fehler: Server nicht erreichbar. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut`,
     need_help: `Brauchen Sie Hilfe?`,
     email_us: `Schreiben Sie eine E-Mail an <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `Die Zahlung war nicht erfolgreich. Bitte versuchen Sie es erneut.`,
+    payment_declined: `Ihre Bank hat die Zahlung abgelehnt. Bitte versuchen Sie es erneut.`,
     payment_sepa: `SEPA-Banküberweisung`
   };
 </script>

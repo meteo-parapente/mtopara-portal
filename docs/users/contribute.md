@@ -46,7 +46,7 @@ title: Join the club
     error_request: `Error: cannot reach server. Check your connection and try again.`,
     need_help: `Do you need help?`,
     email_us: `Write an email to <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `The payment did not succeed. Please try again.`,
+    payment_declined: `Your bank has declined the payment. Please try again.`,
     payment_sepa: `SEPA Bank Transfer`
   };
 </script>

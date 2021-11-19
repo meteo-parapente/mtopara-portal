@@ -46,7 +46,7 @@ title: Únete al club
     error_request: `Error: no se puede alcanzar el servidor. Compruebe su conexión e inténtelo de nuevo`,
     need_help: `¿Necesita ayuda?`,
     email_us: `Escriba un correo electrónico a <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `El pago falló. Por favor, inténtalo de nuevo.`,
+    payment_declined: `Su banco ha rechazado el pago. Por favor, inténtelo de nuevo.`,
     payment_sepa: `Transferencia bancaria SEPA`
   };
 </script>

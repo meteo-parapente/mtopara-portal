@@ -46,7 +46,7 @@ title: Word lid van de club
     error_request: `Fout: kan de server niet bereiken. Controleer uw verbinding en probeer het opnieuw.`,
     need_help: `Hebt u hulp nodig?`,
     email_us: `Schrijf een email naar <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `De betaling is niet gelukt. Gelieve opnieuw te proberen.`,
+    payment_declined: `Uw bank heeft de betaling geweigerd. Probeer het alstublieft opnieuw.`,
     payment_sepa: `SEPA-overschrijving`
   };
 </script>

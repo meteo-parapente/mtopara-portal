@@ -46,7 +46,7 @@ title: Rejoignez le club
     error_request: `Erreur de communication avec le serveur. Vérifiez votre connexion et ressayez.`,
     need_help: `Besoin d'aide ?`,
     email_us: `Envoyez un email à  <strong>support@meteo-parapente.com</strong>`,
-    payment_declined: `Le paiement n'a pas abouti. Vous n'avez pas été débité. Veuillez réessayer.`,
+    payment_declined: `Votre banque a refusé le paiement. Merci de réessayer.`,
     payment_sepa: `Virement bancaire SEPA`
   };
 </script>
