@@ -196,7 +196,7 @@ new Vue({
       this.refused = true
       this.$nextTick(() => location.hash = 'paymentMethod')
     }
-    this.mollie = getParameterByName('mollie') || this.refused || (Math.random() < 0.5)
+    this.mollie = getParameterByName('mollie') || this.refused // || (Math.random() < 0.5)
     if (!getParameterByName('dev') && document.location.host !== '127.0.0.1:8000') {
       Vue.http.options.root = 'https://meteo-parapente.com/api/order/'
     } else {
@@ -235,7 +235,8 @@ new Vue({
         phone: this.phone,
         email: this.email,
         product: this.product,
-        paymentMethod: ((this.mollie || this.country == 'CH') && this.paymentMethod == 'card') ? 'card-mollie' : this.paymentMethod,
+        // paymentMethod: ((this.mollie || this.country == 'CH') && this.paymentMethod == 'card') ? 'card-mollie' : this.paymentMethod,
+        paymentMethod: (this.mollie && this.paymentMethod == 'card') ? 'card-mollie' : this.paymentMethod,
         referrer: document.referrer
       }
       //console.log(payload)
