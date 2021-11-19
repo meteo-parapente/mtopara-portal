@@ -16,6 +16,12 @@ De favorieten kunnen verdwijnen in de volgende gevallen:
 
 [Zie de speciale pagina](additional/edit-the-map.md)
 
+### ‣ Sinds ik iOS heb geupdate, werkt de app niet meer
+
+Als uw app niet meer werkt na een iOS-update, verwijdert u de app en installeert u deze opnieuw. Het zou weer moeten werken.
+
+We proberen uit te zoeken waarom dit gebeurt. Het lijkt erop dat Apple iets heeft veranderd waardoor de compatibiliteit is verbroken.
+
 ## Mijn bijdragetoegang
 
 ### ‣ Ik ben mijn wachtwoord kwijt. Hoe krijg ik een nieuw?

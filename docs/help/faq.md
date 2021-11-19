@@ -4,7 +4,6 @@
 
 ## General use
 
-
 ### ‣ My favorite spots have disappeared. Why?
 
 The favorites can disapear in the following cases:
@@ -13,10 +12,15 @@ The favorites can disapear in the following cases:
 - if there is only few space left on your device - the system can decide to do some cleaning on it’s own.
 - it might also happens if you clean your system with some antivirus or some privacy software
 
-
 ### ‣ How do I add/edit a paragliding spot or anything else on the map?
 
 [See the dedicated page](additional/edit-the-map.md)
+
+### ‣ Since I updated iOS, the app no longer works
+
+If your app no longer works after an iOS update, uninstall the app then reinstall it. It should work again.
+
+We are trying to figure why this happens. It looks like Apple changed something which broke compatibility.
 
 ## My contributor access
 

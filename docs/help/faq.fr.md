@@ -16,6 +16,12 @@ Les favoris peuvent disparaître dans les cas suivants :
 
 [Voir la page dédiée](additional/edit-the-map.md)
 
+### ‣ Depuis que j'ai mis à jour iOS, l'application ne fonctionne plus.
+
+Si votre appli ne fonctionne plus après une mise à jour d'iOS, désinstallez l'appli puis réinstallez-la. Elle devrait fonctionner à nouveau.
+
+Nous essayons de comprendre pourquoi cela se produit. Il semble qu'Apple ait changé quelque chose qui a rompu la compatibilité.
+
 ## Mon accès contributeur
 
 ### ‣ J'ai perdu mon mot de passe. Comment en obtenir un nouveau ?

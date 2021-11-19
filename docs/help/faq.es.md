@@ -16,6 +16,12 @@ Los favoritos pueden desaparecer en los siguientes casos
 
 [Ver la página dedicada](additional/edit-the-map.md)
 
+### ‣ Desde que actualicé iOS, la aplicación ya no funciona.
+
+Si su aplicación ya no funciona después de una actualización de iOS, desinstale la aplicación y vuelva a instalarla. Debería volver a funcionar.
+
+Estamos intentando averiguar por qué ocurre esto. Parece que Apple ha cambiado algo que ha roto la compatibilidad.
+
 ## Mi acceso como colaborador
 
 ### ‣ He perdido mi contraseña. ¿Cómo puedo obtener una nueva?

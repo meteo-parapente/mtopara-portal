@@ -16,6 +16,12 @@ I preferiti possono scomparire nei seguenti casi:
 
 [Vedi la pagina dedicata](additional/edit-the-map.md)
 
+### ‣ Da quando ho aggiornato iOS, l'app non funziona più
+
+Se la tua app non funziona più dopo un aggiornamento di iOS, disinstalla l'app e poi reinstallala. Dovrebbe funzionare di nuovo.
+
+Stiamo cercando di capire perché questo accade. Sembra che Apple abbia cambiato qualcosa che ha rotto la compatibilità.
+
 ## Il mio accesso al contributore
 
 ### ‣ Ho perso la mia password. Come posso ottenerne una nuova?
