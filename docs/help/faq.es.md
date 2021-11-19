@@ -4,8 +4,7 @@
 
 ## Uso general
 
----
-### Mis lugares favoritos han desaparecido. ¿Por qué?
+### ‣ Mis lugares favoritos han desaparecido. ¿Por qué?
 
 Los favoritos pueden desaparecer en los siguientes casos
 
@@ -13,16 +12,13 @@ Los favoritos pueden desaparecer en los siguientes casos
 - si queda poco espacio en tu dispositivo - el sistema puede decidir hacer una limpieza por su cuenta.
 - también puede ocurrir si limpias tu sistema con algún antivirus o algún software de privacidad
 
----
-### ¿Cómo puedo añadir/editar un punto de parapente o cualquier otra cosa en el mapa?
+### ‣ ¿Cómo puedo añadir/editar un punto de parapente o cualquier otra cosa en el mapa?
 
 [Ver la página dedicada](additional/edit-the-map.md)
 
----
 ## Mi acceso como colaborador
 
----
-### He perdido mi contraseña. ¿Cómo puedo obtener una nueva?
+### ‣ He perdido mi contraseña. ¿Cómo puedo obtener una nueva?
 Puede intentar el procedimiento de restablecimiento de la contraseña :
 
 - ir a meteo-parapente.com
@@ -34,10 +30,8 @@ Puede intentar el procedimiento de restablecimiento de la contraseña :
 
 Si tiene problemas, envíenos [un correo electrónico](../contact.md).
 
----
-### ¿Cómo puedo cambiar el correo electrónico o el número de teléfono asociado a mi cuenta?
+### ‣ ¿Cómo puedo cambiar el correo electrónico o el número de teléfono asociado a mi cuenta?
 Envíanos [un correo electrónico](../contact.md) indicando el antiguo y el nuevo. Nosotros haremos el cambio.
 
----
-### ¿Cómo me doy de baja?
+### ‣ ¿Cómo me doy de baja?
 Su acceso como colaborador es válido durante un año. No se renovará automáticamente. Así que no hay nada que hacer si quiere darse de baja.

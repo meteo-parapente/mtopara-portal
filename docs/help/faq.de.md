@@ -4,8 +4,7 @@
 
 ## Allgemeiner Gebrauch
 
----
-### Meine Lieblingsplätze sind verschwunden. Warum?
+### ‣ Meine Lieblingsplätze sind verschwunden. Warum?
 
 Die Favoriten können in den folgenden Fällen verschwinden:
 
@@ -13,16 +12,13 @@ Die Favoriten können in den folgenden Fällen verschwinden:
 - wenn nur noch wenig Speicherplatz auf Ihrem Gerät vorhanden ist - das System kann sich dazu entschließen, selbst eine Reinigung durchzuführen.
 - es kann auch passieren, wenn Sie Ihr System mit einem Antivirusprogramm oder einer Datenschutzsoftware bereinigen
 
----
-### Wie kann ich einen Gleitschirmflugplatz oder etwas anderes auf der Karte hinzufügen/bearbeiten?
+### ‣ Wie kann ich einen Gleitschirmflugplatz oder etwas anderes auf der Karte hinzufügen/bearbeiten?
 
 [Siehe die entsprechende Seite](additional/edit-the-map.md)
 
----
 ## Mein Beitrag Zugang
 
----
-### Ich habe mein Passwort verloren. Wie kann ich ein neues bekommen?
+### ‣ Ich habe mein Passwort verloren. Wie kann ich ein neues bekommen?
 Sie können versuchen, das Passwort zurückzusetzen:
 
 - Gehen Sie zu meteo-parapente.com
@@ -34,10 +30,8 @@ Sie können versuchen, das Passwort zurückzusetzen:
 
 Wenn Sie Probleme haben, senden Sie uns [eine E-Mail](../contact.md).
 
----
-### Wie kann ich die mit meinem Konto verknüpfte E-Mail oder Telefonnummer ändern?
-Senden Sie uns [eine E-Mail](../contact.md) und geben Sie die alte und die neue Nummer an. Wir werden die Änderung vornehmen.
+### ‣ Wie kann ich die mit meinem Konto verknüpfte E-Mail oder Telefonnummer ändern?
+Senden Sie uns [eine E-Mail](../contact.md) und geben Sie die alte und die neue. Wir werden die Änderung vornehmen.
 
----
-### Wie kann ich mich abmelden?
+### ‣ Wie kann ich mich abmelden?
 Ihr Zugang zu den Beiträgen ist ein Jahr lang gültig. Er wird nicht automatisch erneuert. Es gibt also nichts zu tun, wenn Sie sich abmelden möchten.

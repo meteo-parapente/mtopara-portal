@@ -1,11 +1,10 @@
-# Foire aux questions
+# Qestions fréquentes
 
 **Cette page est en construction.**
 
 ## Utilisation générale
 
----
-### Mes spots favoris ont disparu. Pourquoi ?
+### ‣ Mes spots favoris ont disparu. Pourquoi ?
 
 Les favoris peuvent disparaître dans les cas suivants :
 
@@ -13,16 +12,13 @@ Les favoris peuvent disparaître dans les cas suivants :
 - s'il ne reste que peu d'espace sur votre appareil - le système peut décider de faire le ménage de lui-même.
 - Cela peut également se produire si vous nettoyez votre système avec un antivirus ou un logiciel de protection de la vie privée.
 
----
-### Comment ajouter/modifier un spot de parapente ou toute autre chose sur la carte ?
+### ‣ Comment ajouter/modifier un spot de parapente ou toute autre chose sur la carte ?
 
 [Voir la page dédiée](additional/edit-the-map.md)
 
----
-### Mon accès contributif
+## Mon accès contributeur
 
----
-### J'ai perdu mon mot de passe. Comment en obtenir un nouveau ?
+### ‣ J'ai perdu mon mot de passe. Comment en obtenir un nouveau ?
 Vous pouvez essayer la procédure de réinitialisation du mot de passe :
 
 - allez sur meteo-parapente.com
@@ -34,10 +30,8 @@ Vous pouvez essayer la procédure de réinitialisation du mot de passe :
 
 Si vous rencontrez des difficultés, envoyez-nous [un e-mail](../contact.md).
 
----
-### Comment puis-je modifier l'adresse électronique ou le numéro de téléphone associés à mon compte ?
-Envoyez-nous [un e-mail](../contact.md) en détaillant l'ancien et le nouveau numéro. Nous ferons le changement.
+### ‣ Comment puis-je modifier l'adresse électronique ou le numéro de téléphone associés à mon compte ?
+Envoyez-nous [un e-mail](../contact.md) en détaillant l'ancien et le nouveau. Nous ferons le changement.
 
----
-### Comment puis-je me désinscrire ?
+### ‣ Comment puis-je me désinscrire ?
 Votre accès contributeur est valable un an. Il ne se renouvellera pas automatiquement. Il n'y a donc rien à faire si vous souhaitez vous désabonner.

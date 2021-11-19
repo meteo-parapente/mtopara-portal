@@ -4,8 +4,8 @@
 
 ## General use
 
----
-### My favorite spots have disappeared. Why?
+
+### ‣ My favorite spots have disappeared. Why?
 
 The favorites can disapear in the following cases:
 
@@ -13,16 +13,14 @@ The favorites can disapear in the following cases:
 - if there is only few space left on your device - the system can decide to do some cleaning on it’s own.
 - it might also happens if you clean your system with some antivirus or some privacy software
 
----
-### How do I add/edit a paragliding spot or anything else on the map?
+
+### ‣ How do I add/edit a paragliding spot or anything else on the map?
 
 [See the dedicated page](additional/edit-the-map.md)
 
----
 ## My contributor access
 
----
-### I lost my password. How do I get a new one?
+### ‣ I lost my password. How do I get a new one?
 You can try the password reset procedure :
 
 - go to meteo-parapente.com
@@ -34,10 +32,10 @@ You can try the password reset procedure :
 
 If you are experiencing troubles, send us [an email](../contact.md).
 
----
-### How can I change the email or phone number associated with my account?
+
+### ‣ How can I change the email or phone number associated with my account?
 Send us [an email](../contact.md) detailling the old and the new one. We will make the change.
 
----
-### How do I unsubscribe?
+
+### ‣ How do I unsubscribe?
 Your contributor access is valid for one year. It won't autorenew. So there is nothing to do if you want to unsubscribe.
