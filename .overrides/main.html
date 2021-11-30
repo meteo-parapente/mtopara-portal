@@ -1,0 +1,96 @@
+{% extends "base.html" %}
+
+
+
+
+
+<!-- Meta tags -->
+{% block site_meta %}
+  <meta charset="utf-8" />
+  <!--<meta name="viewport" content="width=device-width,initial-scale=1" />-->
+
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width,height=device-height">
+
+  <!-- Page description -->
+  {% if page and page.meta and page.meta.description %}
+    <meta name="description" content="{{ page.meta.description }}" />
+  {% elif config.site_description %}
+    <meta name="description" content="{{ config.site_description }}" />
+  {% endif %}
+
+  <!-- Page keywords -->
+  {% if page and page.meta and page.meta.keywords %}
+    <meta name="keywords" content="{{ page.meta.keywords }}" />
+  {% elif config.site_keywords %}
+    <meta name="keywords" content="{{ config.site_keywords }}" />
+  {% endif %}
+
+  <!-- Page author -->
+  {% if page and page.meta and page.meta.author %}
+    <meta name="author" content="{{ page.meta.author }}" />
+  {% elif config.site_author %}
+    <meta name="author" content="{{ config.site_author }}" />
+  {% endif %}
+
+  <!-- Canonical -->
+  {% if page.canonical_url %}
+    <link rel="canonical" href="{{ page.canonical_url }}" />
+  {% endif %}
+
+  <!-- Favicon -->
+  <link rel="icon" href="{{ config.theme.favicon | url }}" />
+
+  <!-- Generator banner -->
+  <meta
+    name="generator"
+    content="mkdocs-{{ mkdocs_version }}, $md-name$-$md-version$"
+  />
+{% endblock %}
+
+{% block fonts %}
+  <link rel="stylesheet" href="/css/fonts/roboto.css">
+  <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+{% endblock %}
+
+{% block extrahead %}
+  {% if page and page.meta and page.meta["extra_css"] %}
+    {% for path in page.meta["extra_css"] %}
+      <link rel="stylesheet" href="{{ path | url }}" />
+    {% endfor %}
+  {% endif %}
+{% endblock %}
+
+{% block content %}
+  {% if not (page and page.meta and page.meta.hide and "edit" in page.meta.hide) %}
+    {% if page.edit_url %}
+      <a href="{{ page.edit_url }}" title="{{ lang.t('edit.link.title') }}" class="md-content__button md-icon">
+        {% include ".icons/material/pencil.svg" %}
+      </a>
+    {% endif %}
+  {% endif %}
+  {% if not "\x3ch1" in page.content %}
+    <h1>{{ page.title | d(config.site_name, true)}}</h1>
+  {% endif %}
+  {{ page.content }}
+
+  {% if "[NAV]" in page.content %}
+    {% include "nav-included.html" %}
+  {%- endif %}
+
+  {% if page and page.meta %}
+    {% if page.meta.git_revision_date_localized or
+          page.meta.revision_date
+    %}
+      {% include "partials/source-file.html" %}
+    {% endif %}
+  {% endif %}
+{% endblock %}
+
+{% block scripts %}
+  {{ super() }}
+  {% if page and page.meta and page.meta["extra_javascript"] %}
+    {% for path in page.meta["extra_javascript"] %}
+      <script src="{{ path | url }}"></script>
+    {% endfor %}
+  {% endif %}
+{% endblock %}

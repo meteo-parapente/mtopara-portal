@@ -1,0 +1,62 @@
+site_name: Meteo-Parapente
+
+site_url: https://portal.meteo-parapente.com/
+#repo_url: https://github.com/meteo-parapente/mtopara-help-portal
+edit_uri: https://github.com/meteo-parapente/mtopara-portal/edit/main/docs
+
+remote_name: public
+remote_branch: gh-pages
+
+site_description: Documentation for Meteo-Parapente
+site_author: Meteo-Parapente
+
+#dev_addr: 0.0.0.0:8000
+
+copyright: >
+  © 2021  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+docs_dir: docs/
+site_dir: public/
+
+theme:
+  name: 'material'
+  custom_dir: .overrides
+
+plugins:
+  - i18n:
+      default_language: en
+      #default_language_only: true
+      languages:
+        en: English
+        fr: Français
+        de: Deutsch
+        it: Italiano
+        es: Español
+        nl: Nederlands
+  - search
+  - exclude-search:
+      exclude:
+        - '*/users/activate'
+        - '*/users/cheque'
+        - '*/users/sepa'
+        - 'users/activate'
+        - 'users/cheque'
+        - 'users/sepa'
+  - awesome-pages
+
+
+markdown_extensions:
+  - attr_list
+  - meta
+  - md_in_html
+
+nav:
+  - index.md
+  - about-us.md
+  - ... | help/*
+  - contact.md
+  - users/contribute.md
+  - translations.md
+  - data-sources.md
+  - privacy.md
+  - legal.md
