@@ -41,17 +41,13 @@ We use MkDocs static i18n plugin to manage translations.
 
 The documentation is available here: <https://github.com/ultrabug/mkdocs-static-i18n>
 
-### Building only the default language for faster development
+### Building only english language for faster development
 
-When working on your project, building a version for each supported language
-can be slow depending on the size of your documentation.
-
-The `default_language_only` option allows you to only build the selected
-`default_language` of your documentation for faster development.
-
-Coupled with [MkDocs >= 1.2 support for environment variables](https://www.mkdocs.org/about/release-notes/#support-added-for-environment-variables-in-the-configuration-file-1954),
-this option can easily be passed dynamically [within your `mkdocs.yml` file like this](https://github.com/ultrabug/mkdocs-static-i18n/blob/main/mkdocs.yml)!
+Building a version for each supported language can be slow.
 
 
+It is possible to only build english language for faster development.
 
-
+```
+ENGLISH_ONLY=true mkdocs serve
+```

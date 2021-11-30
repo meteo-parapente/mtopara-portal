@@ -26,7 +26,7 @@ theme:
 plugins:
   - i18n:
       default_language: en
-      #default_language_only: true
+      default_language_only: !ENV [ENGLISH_ONLY, false]
       languages:
         en: English
         fr: Français
