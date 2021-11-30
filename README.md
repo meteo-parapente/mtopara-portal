@@ -8,7 +8,7 @@ We are happy accepting your changes and improvements to these pages. There are t
 
  * **simply send us your improvements by email (support@meteo-parapente.com) in a format that is meaningful for you. For example a .doc file. We will then take care to include them.**
 
- * use the standard GitHub workflow to fork this repo, make your changes locally and
+ * or use the standard GitHub workflow to fork this repo, make your changes locally and
    issue a pull request.
 
 ## How to see local changes
