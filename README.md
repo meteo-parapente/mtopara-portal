@@ -1,12 +1,12 @@
-# mtopara-help-portal
+# mtopara-portal
 
-This repository contains the help pages of http://meteo-parapente.com. They are written in markdown and processed by https://www.mkdocs.org.
+This repository contains the help pages of https://meteo-parapente.com. They are written in markdown and processed by https://www.mkdocs.org.
 
 ## Contributing
 
-We are happy accepting your changes and improvements to this pages. There are two ways:
+We are happy accepting your changes and improvements to these pages. There are two ways:
 
- * simply send us your improvements by email in a format, that is meaningful for you.
+ * simply send us your improvements by email (support@meteo-parapente.com) in a format that is meaningful for you. For example a .doc file.
    We will then take care to include them.
 
  * use the standard GitHub workflow to fork this repo, make your changes locally and
@@ -21,6 +21,11 @@ Clone the repository from GitHub:
 ```
 git clone https://github.com/meteo-parapente/mtopara-portal.git
 cd mtopara-portal
+```
+
+Install Mkdocs:
+```
+pip3 install -r requirements.txt
 ```
 
 Start a local MkDocs server to see the changes:
