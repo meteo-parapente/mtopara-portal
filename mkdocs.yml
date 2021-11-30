@@ -21,6 +21,7 @@ site_dir: public/
 theme:
   name: 'material'
   custom_dir: .overrides
+  favicon: img/favicon.png
 
 plugins:
   - i18n:
