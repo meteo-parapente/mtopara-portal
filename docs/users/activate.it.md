@@ -14,7 +14,7 @@ title: Meteo-Parapente
   const mp_form_locale = {
     locale: 'it',
     fullname: `Cognome e Nome`,
-    company: `Azienda<small>(opzionale)</small>`,
+    company: `Azienda <small>(opzionale)</small>`,
     address: `Indirizzo`,
     city: `Città`,
     country: `Paese`,
