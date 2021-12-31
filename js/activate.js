@@ -364,7 +364,7 @@ new Vue({
       Vue.http.options.root = 'http://127.0.0.1:4200/order/'
       console.log('dev api')
     }
-    if (!this.payload.token || !this.payload.country) {
+    if (!this.payload.token) {
       this.errorBadParams = true
     }
     for (code of preferredCountries) {
