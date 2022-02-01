@@ -268,8 +268,8 @@ new Vue({
         <hr>
       </div>
       <p>{{ l.download_invoice }} <a :href="invoiceUrl" target="_blank">{{ l.invoice }}</a></p>
-      <p v-html="l.might_login"></p>
       <p><strong>{{ l.enjoy }}</strong></p>
+      <p v-html="l.might_login"></p>
       <iframe class="hidden" :src="authFrameUrl" @load="iframeLoaded"></iframe>
       <img src="/img/load.gif" class="loading" alt="⏳ loading, please wait..." v-if="!thankYouReady"/>
     </div>
@@ -400,6 +400,10 @@ new Vue({
       }
       if (error) {
         this.formErrorDisplay = this.l.form_input_error
+        setTimeout(
+          () => this.formErrorDisplay = false,
+          2500
+        )
         this.loading = false
         return
       }

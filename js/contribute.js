@@ -171,7 +171,8 @@ new Vue({
         'belfius': ['Belfius', ['BE']],
         'kbc': ['KBC', ['BE']],
         'przelewy24': ['Przelewy24', ['PL']],
-        'cheque': ['Chèque', ['FR']],
+        // 'paylib': ['Paylib', ['FR']],
+        // 'cheque': ['Chèque', ['FR']],
         'banktransfer': [this.l.payment_sepa, ['*']]
       };
       let filtered = [];

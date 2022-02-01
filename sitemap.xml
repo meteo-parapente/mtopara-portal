@@ -2,77 +2,82 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://portal.meteo-parapente.com/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/about-us/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/contact/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/data-sources/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/legal/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/privacy/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/translations/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/help/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/help/emagram/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/help/faq/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/help/additional/edit-the-map/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/users/activate/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/users/cheque/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/users/contribute/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://portal.meteo-parapente.com/users/coupon/</loc>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://portal.meteo-parapente.com/users/sepa/</loc>
-         <lastmod>2021-11-19</lastmod>
+         <lastmod>2022-02-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
