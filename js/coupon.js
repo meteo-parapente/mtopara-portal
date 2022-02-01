@@ -179,9 +179,7 @@ new Vue({
       )
       if (this.formError) return
       this.loading = true
-      this.submit()
-    },
-    submit: function() {
+      
       const payload = {
         locale: this.l.locale,
         coupon: this.coupon,
