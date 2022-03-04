@@ -24,6 +24,21 @@ title: Subscribe
 
 - 👋 <a href="/about-us/" target="_blank">Discover who we are</a>
 
+<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
+<h3>A paraglider wing to be won!</h3>
+
+<p><strong>To celebrate 10 years of Meteo-Parapente, we are organizing a big contest.</strong></p>
+
+<p><strong>Win the paraglider of your choice, from the <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">SUPAIR solo line</a>.</strong></p>
+
+<p><strong>To participate in the draw, all you have to do is subscribe before March 30.</strong></p>
+
+<p>Not flying yet? You can exchange for a one-week initiation course.</strong></p>
+
+<p><a href="/10years/">See details and rules ►</a></p>
+</div>
+<br>
+
 <script>
   const mp_form_locale = {
     locale: `en`,

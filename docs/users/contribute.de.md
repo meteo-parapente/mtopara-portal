@@ -24,6 +24,21 @@ title: Abonnieren
 
 - 👋 <a href="/de/about-us/" target="_blank">Entdecken Sie, wer wir sind</a>
 
+<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
+<h3>Ein Gleitschirmflügel zu gewinnen!</h3>
+
+<p><strong>Um 10 Jahre Meteo-Parapente zu feiern, organisieren wir einen großen Wettbewerb.</strong></p>
+
+<p><strong>Gewinne den Flügel deiner Wahl aus der <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">Solo SUPAIR-Reihe</a>.</strong></p>
+
+<p><strong>Um an der Verlosung teilzunehmen, müssen Sie sich nur bis zum 30. März anmelden.</strong></p>
+
+<p>Sie fliegen noch nicht? Sie können gegen einen einwöchigen Einführungskurs eintauschen.</strong></p>
+
+<p><a href="/de/10years/">Siehe Details und Regeln ►</a></p>
+</div>
+<br> 
+
 <script>
   const mp_form_locale = {
     locale: `de`,

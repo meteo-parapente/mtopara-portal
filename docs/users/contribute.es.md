@@ -24,6 +24,21 @@ title: Suscríbase
 
 - 👋 <a href="/es/about-us/" target="_blank">Descubra quiénes somos</a>
 
+<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
+<h3>¡Un ala de parapente para ganar!</h3>
+
+<p><strong>Para celebrar los 10 años de Meteo-Parapente, estamos organizando un gran concurso.</strong></p>
+
+<p><strong>Gana el ala de tu elección, de la <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gama Solo SUPAIR</a>.</strong></p>
+
+<p><strong>Para participar en el sorteo solo tienes que suscribirte antes del 30 de marzo.</strong></p>
+
+<p>¿Aún no vuelas? Se puede canjear por un curso de iniciación de una semana.</strong></p>
+
+<p><a href="/es/10years/">Ver detalles y normas ►</a></p>
+</div>
+<br>
+
 <script>
   const mp_form_locale = {
     locale: `es`,
