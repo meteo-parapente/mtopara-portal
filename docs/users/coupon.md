@@ -36,7 +36,7 @@ title: Meteo-Parapente
     email_us: `Write an email to <strong>support@meteo-parapente.com</strong>`,
     thank_you: `Thank you!`,
     access_activated: `Your access is activated.`,
-    enjoy: `You can now close this page and go enjoy Meteo-Parapente, on <a href="https://meteo-parapente.com">meteo-parapente.com</a> website or using the <a href="https://play.google.com/store/apps/details?id=com.meteo_parapente" target="_blank">Android</a> or <a href="https://apps.apple.com/app/meteo-parapente/id1255974302" target="_blank">iOS</a> mobile app.`,
+    enjoy: `You can now enjoy Meteo-Parapente, on <a href="https://meteo-parapente.com">meteo-parapente.com</a> website or using the <a href="https://play.google.com/store/apps/details?id=com.meteo_parapente" target="_blank">Android</a> or <a href="https://apps.apple.com/app/meteo-parapente/id1255974302" target="_blank">iOS</a> mobile app.`,
     might_login: `When Meteo-Parapente asks you to <i>login or join the club</i>, click on <i>I am already a contributor</i> and enter your access code.`,
     login: `Login`,
     password: `Password`,
