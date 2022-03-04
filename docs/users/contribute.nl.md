@@ -9,10 +9,10 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
-title: Word lid van de club
+title: Abonneren
 ---
 
-# Word lid van de Bijdragersclub van Meteo-Parapente
+# Abonneren op Meteo-Parapente
  
 - Geniet elke dag van de beste voorspellingen. Meteo-Parapente kan bestaan dankzij jou!
  
@@ -40,7 +40,7 @@ title: Word lid van de club
     payment_method: `Betaalmethode`,
     payment_card: `Kredietkaart / Debetkaart`,
     payment_proceed: `Doorgaan naar betaling ►`,
-    terms_approval: `Door te klikken op "Doorgaan naar betaling", gaat u akkoord en stemt u in met de <a href="/nl/legal/#algemene-gebruiksvoorwaarden-van-meteo-parapente" target="_blank">Algemene gebruiksvoorwaarden van Meteo-Parapente</a>, de <a href="/nl/legal/#specifieke-voorwaarden-voor-lidmaatschap-van-de-bijdragersclub" target="_blank">Specifieke voorwaarden voor lidmaatschap van de Bijdragersclub</a> en het <a href="/nl/privacy/" target="_blank">Privacybeleid</a>. `,
+    terms_approval: `Door te klikken op "Doorgaan naar betaling", gaat u akkoord en stemt u in met de <a href="/nl/legal/#terms" target="_blank">Algemene gebruiksvoorwaarden van Meteo-Parapente</a>, de <a href="/nl/legal/#membership" target="_blank">Specifieke abonnementsvoorwaarden</a> en het <a href="/nl/privacy/" target="_blank">Privacybeleid</a>. `,
     error_email: `Emailadres is ongeldig`,
     error_phone: `Het telefoonnummer is ongeldig`,
     error_request: `Fout: kan de server niet bereiken. Controleer uw verbinding en probeer het opnieuw.`,

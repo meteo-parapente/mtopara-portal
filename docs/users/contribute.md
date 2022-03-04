@@ -9,10 +9,10 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
-title: Join the club
+title: Subscribe
 ---
 
-# Join Meteo-Parapente contributors' club
+# Subscribe to Meteo-Parapente
  
 - Enjoy the best forecasts every day. Meteo-Parapente can exist thanks to you!
  
@@ -40,7 +40,7 @@ title: Join the club
     payment_method: `Payment method`,
     payment_card: `Credit card / Debit card`,
     payment_proceed: `Proceed to payment ►`,
-    terms_approval: `By clicking on "proceed to payment", you hereby agree and consent to the <a href="/legal/#general-conditions-of-use-of-meteo-parapente" target="_blank">general conditions of use of Meteo-Parapente</a>, the <a href="/legal/#specific-conditions-of-membership-of-the-contributors-club" target="_blank">specific conditions of membership of the contributors club</a> and the <a href="/privacy/" target="_blank">privacy policy</a>.`,
+    terms_approval: `By clicking on "proceed to payment", you hereby agree and consent to the <a href="/legal/#terms" target="_blank">general conditions of use of Meteo-Parapente</a>, the <a href="/legal/#membership" target="_blank">specific conditions of subscription</a> and the <a href="/privacy/" target="_blank">privacy policy</a>.`,
     error_email: `Email address is not valid`,
     error_phone: `Phone number is not valid`,
     error_request: `Error: cannot reach server. Check your connection and try again.`,

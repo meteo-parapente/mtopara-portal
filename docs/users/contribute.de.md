@@ -9,10 +9,10 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
-title: Werden Sie Mitglied im Club
+title: Abonnieren
 ---
 
-# Werden Sie Mitglied im Club der Meteo Parapente Beitragszahler
+# Meteo-Parapente abonnieren!
  
 - Genießen Sie jeden Tag die besten Prognosen. Meteo-Parapente kann nur dank Ihnen existieren!
  
@@ -40,7 +40,7 @@ title: Werden Sie Mitglied im Club
     payment_method: `Zahlungsmethode`,
     payment_card: `Kreditkarte / Debitkarte`,
     payment_proceed: `Zur Zahlung gehen ►`,
-    terms_approval: `Mit dem Klick auf "Zur Zahlung gehen" erklären Sie sich mit den <a href="/de/legal/#allgemeine-nutzungsbedingungen-von-meteo-parapente" target="_blank">allgemeinen Nutzungsbedingungen von Meteo-Parapente</a> einverstanden, die <a href="/de/legal/#besondere-bedingungen-fur-die-mitgliedschaft-im-club-der-beitragenden" target="_blank">Besondere Bedingungen für die Mitgliedschaft im Club der Beitragenden</a> und die <a href="/de/privacy/" target="_blank">Datenschutzbestimmungen</a>. `,
+    terms_approval: `Mit dem Klick auf "Zur Zahlung gehen" erklären Sie sich mit den <a href="/de/legal/#terms" target="_blank">Allgemeine Nutzungsbedingungen von Meteo-Parapente</a> einverstanden, die <a href="/de/legal/#membership" target="_blank">Besondere Abonnementbedingungen</a> und die <a href="/de/privacy/" target="_blank">Datenschutzbestimmungen</a>. `,
     error_email: `Email address is not valid`,
     error_phone: `Telefonnummer ist nicht gültig`,
     error_request: `Fehler: Server nicht erreichbar. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut`,

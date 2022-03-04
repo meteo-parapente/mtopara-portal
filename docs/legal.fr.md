@@ -1,17 +1,18 @@
 # Informations légales
 
-- [Mentions légales](#mentions-legales)
-- [Conditions Générales d'Utilisation de Meteo-Parapente](#conditions-generales-dutilisation-de-meteo-parapente)
-- [Conditions Spécifiques d'Adhésion au Club des contributeurs](#conditions-specifiques-dadhesion-au-club-des-contributeurs)
+- [Mentions légales](#information)
+- [Conditions Générales d'Utilisation de Meteo-Parapente](#terms)
+- [Conditions Spécifiques d'Abonnement](#membership)
 
+<a id="information">&nbsp;</a>
 ## Mentions légales
-*(14 octobre 2021)*
+*(02 mars 2022)*
 
 Meteo-Parapente.com (« le Site ») ansi que les applications mobiles Meteo-Parapente (« les Applications »), désignés dans leur ensemble comme « Meteo-Parapente », sont édités par :
 
 Meteo-Parapente SASU (« l'Éditeur »)<br>
-16 rue Alice Eynard<br>
-73100 Aix-les-Bains, France
+110 Impasse de Pre Baron<br>
+73110 La Chapelle Blanche, France
 
 TVA Intracommunautaire : FR68848908646<br>
 R.C.S. Chambéry 848 908 646 <br>
@@ -20,23 +21,24 @@ Capital social 1 000,00 Euros<br>
 Contact : support@meteo-parapente.com
 
 Directeur de la publication : Nicolas Baldeck<br>
-Hébergeur : BPZ Labs, 16 rue Alice Eynard, 73100 Aix-les-Bains, France
+Hébergeur : BPZ Labs, 110 Impasse de Pre Baron, 73110 La Chapelle Blanche, France
 
 <hr>
 
+<a id="terms">&nbsp;</a>
 ## Conditions Générales d'Utilisation de Meteo-Parapente
-*(14 octobre 2021)*
+*(02 mars 2022)*
 ### 1. Champ d'application et opposabilité des Conditions Générales d'Utilisation
 
 Les présentes Conditions Générales (ci-après les « CGU ») ont pour objet de définir les services proposés sur le Site et leurs conditions d'utilisation pour l'ensemble des utilisateurs (ci-après individuellement l'« Utilisateur » ou collectivement les « Utilisateurs ».
 
 Meteo-Parapente est un service proposant des prévisions météorologiques pour les activités de plein air (ci-après individuellement le « Service » et collectivement les « Services »).
 
-L'Utilisateur peut accéder gratuitement au Site. Cependant, afin de pouvoir utiliser Services dans leur intégralité, il doit adhérer au Club des Contributeurs.
+L'Utilisateur peut accéder gratuitement au Site. Cependant, afin de pouvoir utiliser Services dans leur intégralité, il doit souscrire à un Abonnement.
 
 Les présentes CGU ont pour but de définir les droits et obligation de tout Utilisateur dans le cadre de son accès et de son utilisation du Site, et notamment dans le cadre de la fourniture des Services.
 
-Il est précisé que s'agissant des Utilisateurs qui auraient adhéré au Club des Contributeurs, leur relation avec l'Éditeur sera régie par les présentes CGU, lesquelles seront complétées par les Conditions Spécifiques d'Adhésion au Club des contributeurs.
+Il est précisé que s'agissant des Utilisateurs qui auraient souscrit à un Abonnement, leur relation avec l'Éditeur sera régie par les présentes CGU, lesquelles seront complétées par les Conditions Spécifiques d'Abonnement.
 
 ### 2. Description des Services
 
@@ -88,7 +90,7 @@ Cependant, l'Utilisateur accepte que les Services puissent être interrompus mom
 
 Les Services pourront également être suspendus en cas d'indisponibilité des fournisseurs de données météorologiques (et notamment de Météo-France). Meteo-Parapente utilise de nombreuses sources de données qu'il ne contrôle pas et qui peuvent en cas d'altération de ces données, modifier le fonctionnement du Site.
 
-L'Utilisateur reconnaît que l'Éditeur, comme tout autre travailleur, a le droit de prendre des vacances. L'Éditeur prendra ses précautions pour éviter toute coupure pendant son absence. Néanmoins, si, malgré ces précautions, une panne ou une perturbation devait survenir, il est possible que les Services restent perturbés ou indisponibles jusqu'à son retour. Ceci est particulièrement valable dans le cas où l'éditeur n'a pas d'accès stable à internet durant ses vacances (ex: navigation hauturière ou randonnée en milieu isolé). Dans le cas d'une telle perturbation,  l'article 11 des Conditions Spécifiques d'Adhésion au Club des contributeurs est applicable.
+L'Utilisateur reconnaît que l'Éditeur, comme tout autre travailleur, a le droit de prendre des vacances. L'Éditeur prendra ses précautions pour éviter toute coupure pendant son absence. Néanmoins, si, malgré ces précautions, une panne ou une perturbation devait survenir, il est possible que les Services restent perturbés ou indisponibles jusqu'à son retour. Ceci est particulièrement valable dans le cas où l'éditeur n'a pas d'accès stable à internet durant ses vacances (ex: navigation hauturière ou randonnée en milieu isolé). Dans le cas d'une telle perturbation,  l'article 11 des Conditions Spécifiques d'Abonnement est applicable aux Abonnés.
 
 Pour accéder au Site, vous devez utiliser un navigateur d'une version datant de moins de trois ans.
 
@@ -202,7 +204,7 @@ Pour toute information concernant les cookies, nous vous renvoyons à la [Politi
 
 ### 14. Support technique
 
-Le support technique est assuré uniquement par courriel et exclusivement à l'adresse [support@meteo-parapente.com](mailto:support@meteo-parapente.com)
+Le support technique est assuré uniquement par courriel et exclusivement à l'adresse <support@meteo-parapente.com>
 
 Aucune demande par courrier postal, par téléphone ou envoyée à une autre adresse électronique ne sera traitée.
 
@@ -218,98 +220,97 @@ Conformément à l'article L612-1 du Code de la Consommation, l'Éditeur propose
 
 <hr>
 
-## Conditions Spécifiques d'Adhésion au Club des contributeurs
-*(14 octobre 2021)*
+<a id="membership">&nbsp;</a>
+## Conditions Spécifiques d'Abonnement
+*(02 mars 2022)*
 
 ### 1. Définitions
 
-Accès -- Identifiant et mot de passe, communiqués à l'Adhérent suite à son Adhésion.
+Accès -- Identifiant et mot de passe, communiqués à l'Abonné suite à son Abonnement.
 
-Adhérent -- Personne physique ayant souscrit à une Adhésion.
+Abonné -- Personne physique ayant souscrit à un Abonnement.
 
-Adhésion -- Fait pour un Utilisateur de s'inscrire sur le Site, et de s'acquitter de la Contribution lui permettant d'accéder aux Services réservés
+Abonnement -- Fait pour un Utilisateur de s'inscrire sur le Site, et de s'acquitter de la Contribution lui permettant d'accéder aux Services réservés
 
 CGU ou Conditions Générales d'Utilisation -- Renvoie aux Conditions Générales d'Utilisation régissant l'accès au Site et aux Services Libres, disponibles ci-dessus.
 
-Club des contributeurs -- Ensemble des Adhérents au Site
-
-Contribution -- Montant versé par l'Utilisateur afin d'adhérer au Club des contributeur.
+Contribution -- Montant versé par l'Utilisateur afin de souscrire à l'Abonnement.
 
 Éditeur -- Meteo-parapente SASU, exploitant le Site internet, et proposant les Services libres et réservés.
 
-Entité -- Toute personne morale, de droit public ou de droit privé, quel que soit son bit ou son objet.
+Entité -- Toute personne morale, de droit public ou de droit privé, quel que soit son but ou son objet.
 
-Services Accessoires -- Services mis à disposition des Adhérents et/ou Utilisateurs selon le cas, à la discrétion totale de l'Éditeur, et dont l'exécution n'est jamais garantie. Ces Services Accessoires sont offerts gracieusement par l'Éditeur sans constituer une quelconque contrepartie à une Adhésion.
+Services Accessoires -- Services mis à disposition des Abonnés et/ou Utilisateurs selon le cas, à la discrétion totale de l'Éditeur, et dont l'exécution n'est jamais garantie. Ces Services Accessoires sont offerts gracieusement par l'Éditeur sans constituer une quelconque contrepartie à un Abonnement.
 
-Services Libres -- Services disponibles sur le Site et accessible à tout Utilisateur sans condition d'Adhésion, dont l'accès est soumis aux CGU.
+Services Libres -- Services disponibles sur le Site et accessible à tout Utilisateur sans condition d'Abonnement, dont l'accès est soumis aux CGU.
 
-Services Réservés­ -- Services spécifiques réservés aux Adhérents au Club des contributeurs.
+Services Réservés­ -- Services spécifiques réservés aux Abonnés.
 
 Site -- Le site internet meteo-parapente.com, tel que défini aux CGU.
 
-Utilisateur -- Personne naviguant sur le site en l'absence de toute Adhésion, et ne bénéficiant que de l'accès aux Services génériques.
+Utilisateur -- Personne naviguant sur le site en l'absence de tout Abonnement, et ne bénéficiant que de l'accès aux Services génériques.
 
-Utilisation Non-Autorisée -- Utilisation du Site en contravention avec les présentes Conditions spécifiques, et notamment utilisation des Services réservés sans être Adhérent.
+Utilisation Non-Autorisée -- Utilisation du Site en contravention avec les présentes Conditions spécifiques, et notamment utilisation des Services réservés sans être Abonné.
 
 ### 2. Objet
 
-Les présentes Conditions Spécifiques ont pour objet de définir les modalités d'Adhésion au Club des contributeurs. Grâce à cette Adhésion, les Adhérents peuvent bénéficier des Services Réservés sur le Site.
+Les présentes Conditions Spécifiques ont pour objet de définir les modalités d'Abonnement. Grâce à cet Abonnement, les Abonnés peuvent bénéficier des Services Réservés sur le Site.
 
-L'Adhésion au Club des contributeurs est conditionnée par l'acceptation préalable des Conditions Générales d'Utilisation, lesquelles sont complétées par les présentes Conditions Spécifiques.
+L'Abonnement est conditionnée par l'acceptation préalable des Conditions Générales d'Utilisation, lesquelles sont complétées par les présentes Conditions Spécifiques.
 
 En cas de conflit entre les CGU et les Conditions Spécifiques, ces dernières prévaudront sur les CGU.
 
 ### 3. Description des Services réservés
 
-En rejoignant le Club des contributeurs, l'Adhérent obtient un accès aux Services Réservés, qui sont :
+En s'abonnant, l'Abonné obtient un accès aux Services Réservés, qui sont :
 
--   Déblocage des prévisions météorologiques : l'Adhérent bénéficie de l'accès à l'intégralité des jours de prévisions météorologiques dès qu'elles sont disponibles,
+-   Déblocage des prévisions météorologiques : l'Abonné bénéficie de l'accès à l'intégralité des jours de prévisions météorologiques dès qu'elles sont disponibles,
 
 -   Services Accessoires : Accès à des sessions de formations et d'échange : présentiel, visioconférence, mise en place d'une application...
 
-L'Éditeur met tout en œuvre pour permettre la tenue de sessions de formations et d'échange afin de fournir à l'Adhérent des services accessoires. Cependant, l'Adhérent reconnaît que ces services supplémentaires sont des Services Accessoires et non-garantis quant à leur fourniture : ils seront mis en place et maintenu à la seule discrétion l'Éditeur.
+L'Éditeur met tout en œuvre pour permettre la tenue de sessions de formations et d'échange afin de fournir à l'Abonné des services accessoires. Cependant, l'Abonné reconnaît que ces services supplémentaires sont des Services Accessoires et non-garantis quant à leur fourniture : ils seront mis en place et maintenu à la seule discrétion l'Éditeur.
 
-L'Adhérent est averti préalablement, par tout moyen de communication adapté, de l'organisation d'un évènement dans le cadre des services bonus.
+L'Abonné est averti préalablement, par tout moyen de communication adapté, de l'organisation d'un évènement dans le cadre des Services Accessoires.
 
-### 4. Adhésion au club et acceptation des conditions générales et spécifiques
+### 4. Abonnement et acceptation des conditions générales et spécifiques
 
-À l'occasion de toute Adhésion au Club des contributeurs, l'Utilisateur s'enregistre et crée un espace personnel, en remplissant un formulaire en ligne disponible sur le Site.
+À l'occasion de toute Abonnement, l'Utilisateur s'enregistre et crée un espace personnel, en remplissant un formulaire en ligne disponible sur le Site.
 
 L'Utilisateur s'engage à cette occasion, à fournir des informations exactes et sincères sur sa situation, à procéder à une vérification régulière des données qui le concernent, ainsi qu'à informer l'Éditeur de toute modification nécessaire.
 
-L'Adhésion est réservée aux personnes physiques ayant la capacité juridique de contracter.
+L'Abonnement est réservé aux personnes physiques ayant la capacité juridique de contracter.
 
-En validant sa commande via le clic de validation figurant en bas de la page récapitulative de commande, l'Utilisateur accepte expressément et irrévocablement les présentes Conditions Spécifiques, sous réserve des dispositions de l'article 9.
+En validant son Abonnement via le clic de validation figurant en bas de la page, l'Utilisateur accepte expressément et irrévocablement les présentes Conditions Spécifiques, sous réserve des dispositions de l'article 9.
 
 ### 5. Accès aux Services
 
-Les Accès (identifiant et mot de passe) de l'Adhérent lui seront transmis par courriel et par SMS immédiatement après la validation du paiement. Ces informations permettent à l'Adhérent d'accéder aux Services Réservés, et sont modifiables sur le Site directement dans l'espace personnel de l'Adhérent.
+Les Accès (identifiant et mot de passe) de l'Abonné lui seront transmis par courriel et par SMS immédiatement après la validation du paiement ou de l'utilisation d'un code à usage unique. Ces informations permettent à l'Abonné d'accéder aux Services Réservés, et sont modifiables sur le Site directement dans l'espace personnel de l'Abonné.
 
 ### 6. Partage d'identifiants
 
-Les Accès sont fournis à l'Adhérent à titre strictement personnel. À ce titre, **ils sont confidentiels, et incessibles.** L'Adhérent peut cependant les utiliser sur un ou plusieurs de ses propres appareils (ordinateur, tablette, mobile, ...).
+Les Accès sont fournis à l'Abonné à titre strictement personnel. À ce titre, **ils sont confidentiels, et incessibles.** L'Abonné peut cependant les utiliser sur un ou plusieurs de ses propres appareils (ordinateur, tablette, mobile, ...).
 
-L'Adhérent s'engage irrévocablement à ne pas partager ou diffuser ses Accès à des tiers. À ce titre, il reconnaît qu'un tel partage est constitutif d'une fraude aux droits de l'Éditeur.
+L'Abonné s'engage irrévocablement à ne pas partager ou diffuser ses Accès à des tiers. À ce titre, il reconnaît qu'un tel partage est constitutif d'une fraude aux droits de l'Éditeur.
 
-L'Adhérent reconnaît exercer un contrôle total sur ses Accès, et ainsi être personnellement responsable vis-à-vis de l'Éditeur pour toute Utilisation Non Autorisée des Services Réservés, dans les conditions prévues au **b.** du présent article.
+L'Abonné reconnaît exercer un contrôle total sur ses Accès, et ainsi être personnellement responsable vis-à-vis de l'Éditeur pour toute Utilisation Non Autorisée des Services Réservés, dans les conditions prévues au **b.** du présent article.
 
-Constitue une Utilisation Non Autorisée, tout utilisation de ses Accès par une autre personne physique que l'Adhérent lui-même.
+Constitue une Utilisation Non Autorisée, tout utilisation de ses Accès par une autre personne physique que l'Abonné lui-même.
 
 #### a. Clubs et structure professionnelles
 
-L'Adhésion est individuelle. Seule une personne physique nommément désignée peut y souscrire. Le fait que l'Adhérent soit lui-même membre d'une Entité, exerce une profession quelconque au sein de celle-ci, ou encore y occupe une fonction quelle qu'elle soit ou un poste de direction ou de gestion, ne l'autorise en aucun cas à partager ses Accès avec d'autres membres de ladite Entité.
+L'Abonnement est individuel. Seule une personne physique nommément désignée peut y souscrire. Le fait que l'Abonné soit lui-même membre d'une Entité, exerce une profession quelconque au sein de celle-ci, ou encore y occupe une fonction quelle qu'elle soit ou un poste de direction ou de gestion, ne l'autorise en aucun cas à partager ses Accès avec d'autres membres de ladite Entité.
 
-L'Éditeur ne propose pas d'Adhésion collective, hors le cas de convention particulière signée entre les parties.
+L'Éditeur ne propose pas d'Abonnement collectif, hors le cas de convention particulière signée entre les parties.
 
 #### b. Facturation à posteriori en cas de partage
 
-Si l'Éditeur constate une Utilisation Non Autorisée, une mise en demeure de faire cesser immédiatement le partage de ses Accès sera communiquée à l'Adhérent, à l'adresse courriel renseignée par ce dernier lors de son inscription. Cette mise en demeure invitera également l'Adhérent à modifier immédiatement ses Accès afin de prévenir tout risque de fraude provenant d'un tiers.
+Si l'Éditeur constate une Utilisation Non Autorisée, une mise en demeure de faire cesser immédiatement le partage de ses Accès sera communiquée à l'Abonné, à l'adresse courriel renseignée par ce dernier lors de son inscription. Cette mise en demeure invitera également l'Abonné à modifier immédiatement ses Accès afin de prévenir tout risque de fraude provenant d'un tiers.
 
 Si postérieurement à cette mise en demeure, l'Éditeur constate de nouvelles Utilisations Non Autorisées des Services Réservés, il se réserve le droit discrétionnaire de :
 
--   Suspendre ou résilier l'Adhésion sans préavis ni remboursement des sommes versées ;
+-   Suspendre ou résilier l'Abonnement sans préavis ni remboursement des sommes versées ;
 
--   Facturer à l'Adhérent les Utilisations Non Autorisées, à concurrence du montant d'une Adhésion standard par Utilisation Non Autorisée détectée ;
+-   Facturer à l'Abonné les Utilisations Non Autorisées, à concurrence du montant d'une Abonnement standard par Utilisation Non Autorisée détectée ;
 
 L'Éditeur peut librement choisir d'appliquer l'une, l'autre ou les deux sanctions visées au présent article lorsqu'il détecte une Utilisation Non Autorisée.
 
@@ -317,69 +318,73 @@ L'Éditeur se réserve le droit de mettre en œuvre la présente procédure à t
 
 L'absence de mise en œuvre de la présente procédure à la suite d'une Utilisation Non Autorisée ne constitue en aucun cas une renonciation de l'Éditeur à son pouvoir de sanction, ni une autorisation implicite de l'action à l'origine de l'Utilisation Non Autorisée détectée.
 
-Ces sanctions ne se substituent en aucun cas à toute action en réparation de son préjudice que pourrait intenter l'Éditeur à l'encontre de l'Adhérent.
+Ces sanctions ne se substituent en aucun cas à toute action en réparation de son préjudice que pourrait intenter l'Éditeur à l'encontre de l'Abonné.
 
-L'Éditeur ne saurait être tenu pour responsable de tous dommages directs ou indirects subis par l'Adhérent ou par des tiers, résultant d'un accès frauduleux à son Espace Personnel à la suite d'une divulgation de ses Accès.
+L'Éditeur ne saurait être tenu pour responsable de tous dommages directs ou indirects subis par l'Abonné ou par des tiers, résultant d'un accès frauduleux à son Espace Personnel à la suite d'une divulgation de ses Accès.
 
-### 7. Durée de l'Adhésion
+### 7. Durée de l'Abonnement
 
-L'Adhésion est valide pendant une période d'un an à compter de la date à laquelle le paiement est réalisé,
+L'Abonnement est valide pendant une période de 365 jours à compter de la date à laquelle le paiement est réalisé,
 
-À la fin de période d'Adhésion, l'Adhérent qui souhaite continuer d'être membre du Club des contributeurs et de bénéficier des Services Réservés doit procéder à un nouvelle Adhésion directement le Site, en s'acquittant à nouveau de la contribution annuelle prévue à l'article 9. Dans ce cas de renouvellement anticipé, la nouvelle Adhésion est valide pour une durée d'un an à compter de la date de fin de la précédente Adhésion.
+Dans ce cas de renouvellement anticipé, le nouvel Abonnement est valide pour période de 365 jours à compter de la date de fin du précédent Abonnement.
 
-À compter de la prise d'effet de son Adhésion, et tant que celle-ci est en vigueur, l'Adhérent dispose d'un accès aux Services Réservés, tels que définis à l'article 3 (hors notamment, période d'interruption temporaire du service pour maintenance, perturbation du réseau ou cas de force majeure, tels que décrits dans les CGU disponible sur le Site).
+À la fin de période d'Abonnement, l'Abonné qui souhaite continuer d'Abonné et de bénéficier des Services Réservés doit procéder à un nouvel Abonnement directement le Site, en s'acquittant à nouveau de la Contribution prévue à l'article 9.
 
-L'Adhérent peut résilier à tout moment son Adhésion en adressant un courriel à l'adresse suivante, et uniquement à l'adresse suivante : support@meteo-parapente.com.
+À compter de la prise d'effet de son Abonnement, et tant que celui-ci est en vigueur, l'Abonné dispose d'un accès aux Services Réservés, tels que définis à l'article 3 (hors notamment, période d'interruption temporaire du service pour maintenance, perturbation du réseau ou cas de force majeure, tels que décrits dans les CGU disponible sur le Site).
 
-La résiliation de l'Adhésion en dehors des cas prévus aux articles 10 et 12, ne pourra donner lieu à aucun remboursement.
+L'Abonné peut résilier à tout moment son Abonnement en adressant un courriel à l'adresse suivante, et uniquement à l'adresse suivante : support@meteo-parapente.com.
+
+La résiliation de l'Abonnement en dehors des cas prévus aux articles 10 et 12, ne pourra donner lieu à aucun remboursement.
 
 ### 8. Applications mobiles
 
-Lorsque conformément à l'article 8 CGU, des Applications sont mises à dispositions de l'Adhérent par l'Éditeur, l'Adhérent bénéficie sur ces Applications des Services Réservés, de la même manière que lorsqu'ils sont fournis par le site.
+Lorsque conformément à l'article 8 CGU, des Applications sont mises à dispositions de l'Abonné par l'Éditeur, l'Abonné bénéficie sur ces Applications des Services Réservés, de la même manière que lorsqu'ils sont fournis par le site.
 
-L'Éditeur rappelle que comme cela est prévu dans le cadre des Services Libres, la mise à disposition d'Applications par l'Éditeur constitue un Service Accessoire. Par conséquent, le fait d'être Adhérent ne donne aucun droit quelconque ou particulier au maintien à disposition des Applications, ni à remboursement ou dédommagement en cas de non-maintien.
+L'Éditeur rappelle que comme cela est prévu dans le cadre des Services Libres, la mise à disposition d'Applications par l'Éditeur constitue un Service Accessoire. Par conséquent, le fait d'être Abonné ne donne aucun droit quelconque ou particulier au maintien à disposition des Applications, ni à remboursement ou dédommagement en cas de non-maintien.
 
 L'accès aux Applications et leur utilisation sont soumises aux présentes Conditions Spécifiques, ainsi qu'aux CGU.
 
 ### 9. Contribution et conditions de versement
 
-La contribution minimale applicable à l'accès au Club des contributeurs est celle affichée sur le Site au moment du versement.
+La Contribution minimale applicable à l'Abonnement est celle affichée sur le Site au moment du versement.
 
-L'Adhérent a la possibilité de contribuer à hauteur d'un montant supérieur. Toutefois, il reconnaît que cette contribution supérieure ne constitue qu'un soutien financier au projet porté par l'Éditeur, sans que cela ne lui donne un quelconque accès à des services supplémentaires.
+L'Abonné a la possibilité de contribuer à hauteur d'un montant supérieur. Toutefois, il reconnaît que cette contribution supérieure ne constitue qu'un soutien financier au projet porté par l'Éditeur, sans que cela ne lui donne un quelconque accès à des services supplémentaires.
 
-Si l'Adhérent réside dans un pays de l'Union Européenne, le montant de la contribution affiché sur le site doit être comprise TTC. Si l'Adhérent réside dans un pays situé en dehors de l'Union Européenne, la contribution affichée sur le site doit être comprise HT.
+Si l'Abonné réside dans un pays de l'Union Européenne, le montant de la contribution affiché sur le site doit être comprise TTC. Si l'Abonné réside dans un pays situé en dehors de l'Union Européenne, la contribution affichée sur le site doit être comprise HT.
 
-Au moment du versement, l'Adhérent atteste de l'exactitude du pays de résidence renseigné. Tout paiement de la contribution nécessaire à l'Adhésion donnera lieu à l'émission d'une facture émise par courriel.
+Au moment du versement, l'Abonné atteste de l'exactitude du pays de résidence renseigné. Tout paiement de la contribution nécessaire à l'Abonnement donnera lieu à l'émission d'une facture émise par courriel.
 
-L'Adhérent peut effectuer le versement de la Contribution via les différents moyens de paiement proposés sur le site. :
+L'Abonné peut effectuer le versement de la Contribution via les différents moyens de paiement proposés sur le site.
 
-Tout paiement effectué en ligne est entièrement sécurisé, l'ensemble de la transaction étant dirigé en mode crypté vers le serveur de validation bancaire géré par le partenaire de l'Éditeur. L'Éditeur se réserve le droit, à tout moment, de supprimer, suspendre ou modifier, l'une ou l'autre des solutions de paiement proposées, et ce dans un souci de sécurité optimale des paiements.
+Tout paiement effectué en ligne est entièrement sécurisé, l'ensemble de la transaction étant dirigé en mode crypté vers le serveur de validation bancaire géré par le partenaire de l'Éditeur. L'Éditeur se réserve le droit, à tout moment, de supprimer, suspendre ou modifier, l'une ou l'autre des solutions de paiement proposées.
+
+La contribution peut également être versée par un moyen hors-ligne, notamment via l'achat d'un code à usage unique chez un revendeur. Dès lors, ce sont les conditions de vente du revendeur s'appliquent à la transaction.
 
 ### 10. Droit de rétractation
 
-En application de l'article L 121-21 du code de la consommation, l'Adhérent dispose d'un droit de rétractation qu'il peut exercer dans un délai de quatorze jours calendaires à compter de la souscription d'une Adhésion au Club des contributeurs. Si le délai expire un samedi, un dimanche, ou un jour férié ou chômé, il est prorogé jusqu'au 1er jour ouvrable suivant. Ce droit de rétractation est à exercer par courriel avec accusé de réception à l'adresse électronique suivante : support@meteo-parapente.com, ou par lettre recommandée avec accusé de réception à l'adresse indiquée en préambule des présentes conditions. Le présent article ne s'applique pas aux utilisateurs professionnels.
+Dans les cas prévus à l'article L 121-21 du code de la consommation, l'Abonné dispose d'un droit de rétractation qu'il peut exercer dans un délai de quatorze jours calendaires à compter de la souscription d'un Abonnement. Ce droit de rétractation est à exercer par courriel avec accusé de réception à l'adresse électronique suivante : support@meteo-parapente.com, ou par lettre recommandée avec accusé de réception à l'adresse indiquée en préambule des présentes conditions. Le présent article ne s'applique pas aux utilisateurs professionnels.
 
 ### 11. Disponibilité du service et indemnisation
 
-L'Éditeur met en œuvre tous les moyens nécessaires afin d'assurer la disponibilité des Services 95% du temps (annualisé). Dans le cas d'une indisponibilité dépassant ce seuil, l'Éditeur proposera une mesure compensatoire pour l'Adhérent.
+L'Éditeur met en œuvre tous les moyens nécessaires afin d'assurer la disponibilité des Services au minimum 95% du temps (annualisé). Dans le cas d'une indisponibilité dépassant ce seuil, l'Éditeur proposera une mesure compensatoire pour l'Abonné.
 
 ### 12. Force majeure
 
 L'Éditeur n'est pas responsable des retards ou des manquements à l'exécution des Services Réservés résultant d'actes, de situations ou d'événements indépendants de sa volonté et non dus à un manquement de l'Éditeur, qui ne peuvent être raisonnablement évités ou surmontés, et qui rendent impossible pour l'Éditeur de remplir temporairement ou définitivement ses obligations en vertu des présentes Conditions Spécifiques.
 
-Ces événements comprennent, sans s'y limiter, la rupture d'approvisionnement des données météorologiques nécessaires à l'exécution des services, le dysfonctionnement ou la perturbation des moyens de télécommunication nécessaires à l'édition d'index énergétiques, les catastrophes naturelles (tempêtes, inondations, dommages causés par le temps, etc.), les incendies, les grèves ouvrières totales ou partielles, les épidémies, le blocage des transports, les pannes d'ordinateurs, l'indisponibilité des systèmes, l'ordre du gouvernement ou d'un tiers, ou tout autre événement qui ne relève pas du contrôle raisonnable de l'Éditeur.
+Ces événements comprennent, sans s'y limiter, la rupture d'approvisionnement des données météorologiques nécessaires à l'exécution des services, le dysfonctionnement ou la perturbation des moyens de télécommunication nécessaires à l'édition d'index énergétiques, les catastrophes naturelles (tempêtes, inondations, dommages causés par le temps, etc...), les incendies, les grèves ouvrières totales ou partielles, les épidémies, le blocage des transports, les pannes d'ordinateurs, l'indisponibilité des systèmes, l'ordre du gouvernement ou d'un tiers, les guerres, les sanctions économiques, l'apocalypse nucléaire ou tout autre événement qui ne relève pas du contrôle raisonnable de l'Éditeur.
 
-Si l'Éditeur est affecté par un cas de force majeure, l'Adhérent en sera notifié au plus tôt par voie électronique. Si le cas de Force Majeure conduit à l'interruption des Services Réservés sur une durée supérieure à 3 mois consécutifs, l'une ou l'autre des parties sera autorisée à mettre fin à l'Adhésion par notification par courrier électronique.
+Si l'Éditeur est affecté par un cas de force majeure, l'Abonné en sera notifié au plus tôt par voie électronique. Si le cas de Force Majeure conduit à l'interruption des Services Réservés sur une durée supérieure à 3 mois consécutifs, l'une ou l'autre des parties sera autorisée à mettre fin à l'Abonnement par notification par courrier électronique.
 
-Dans cette situation, un remboursement au prorata de la durée pendant laquelle l'accès aux Services Réservés a été impossible sera effectué par l'Éditeur à l'Adhérent.
+Dans cette situation, un remboursement au prorata de la durée pendant laquelle l'accès aux Services Réservés a été impossible sera effectué par l'Éditeur à l'Abonné.
 
 ### 13. Modifications et renonciations
 
-L'Éditeur se réserve le droit de modifier les Conditions Spécifiques d'Adhésion, et notamment ses conditions tarifaires. L'Adhérent en sera informé dans un délai minimum de 30 jours avant la prise d'effet de la modification. En cas de refus par l'Adhérent des nouvelles conditions révisées, ce dernier pourra se désabonner conformément aux dispositions de l'article 7.
+L'Éditeur se réserve le droit de modifier les Conditions Spécifiques d'Abonnement, et notamment ses conditions tarifaires. L'Abonné en sera informé lors que sa prochaine utilisation de Meteo-Parapente. En cas de refus par l'Abonné des nouvelles conditions révisées, ce dernier pourra se désabonner conformément aux dispositions de l'article 7.
 
 ### 14. Support technique
 
-Le support technique est assuré uniquement par courriel et exclusivement à l'adresse [support@meteo-parapente.com](mailto:support@meteo-parapente.com)
+Le support technique est assuré uniquement par courriel et exclusivement à l'adresse <support@meteo-parapente.com>
 
 Aucune demande par courrier postal, par téléphone ou envoyée à une autre adresse électronique ne sera traitée.
 

@@ -1,6 +1,6 @@
 # About us
 
-Born in 2012, Meteo-Parapente is now the mot famous paragliding weather website in Europe.
+Born in 2012, Meteo-Parapente is now the most famous paragliding weather website in Europe.
 
 Unlike most of the other weather websites, serving data from national weather services, Meteo-Parapente runs its own weather prediction model. This model, designed ant tuned for paragliding, takes into account local weather parameters specific to our activities.
 

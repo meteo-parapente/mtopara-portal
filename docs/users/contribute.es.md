@@ -9,10 +9,10 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
-title: Únete al club
+title: Suscríbase
 ---
 
-# Únete al club de Colaboradores de Meteo-Parapente
+# ¡Suscribirse a Meteo-Parapente!
  
 - Disfruta de las mejores previsiones cada día. ¡Meteo-Parapente puede existir gracias a ti!
  
@@ -40,7 +40,7 @@ title: Únete al club
     payment_method: `Método de pago`,
     payment_card: `Tarjeta de crédito / Tarjeta de débito`,
     payment_proceed: `Proceder al pago ►`,
-    terms_approval: `Al hacer clic en "proceder al pago", usted acepta y consiente las <a href="/es/legal/#condiciones-generales-de-uso-de-meteo-parapente" target="_blank">Condiciones Generales de Uso de Meteo-Parapente</a>, las <a href="/es/legal/#condiciones-especificas-de-membresia-del-club-de-colaboradores" target="_blank">Condiciones específicas de membresía del Club de Colaboradores</a> y la <a href="/es/privacy/" target="_blank">Política de privacidad</a>. `,
+    terms_approval: `Al hacer clic en "proceder al pago", usted acepta y consiente las <a href="/es/legal/#terms" target="_blank">Condiciones Generales de Uso de Meteo-Parapente</a>, las <a href="/es/legal/#membership" target="_blank">Condiciones Específicas de Suscripción</a> y la <a href="/es/privacy/" target="_blank">Política de privacidad</a>. `,
     error_email: `La dirección de correo electrónico no es válida`,
     error_phone: `El número de teléfono no es válido`,
     error_request: `Error: no se puede alcanzar el servidor. Compruebe su conexión e inténtelo de nuevo`,

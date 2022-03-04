@@ -9,10 +9,10 @@ extra_javascript:
   - https://meteo-parapente.com/api/order/country.js
   - /js/vendors.js
   - /js/contribute.js
-title: Entra nel club
+title: Abbonati
 ---
 
-# Entra nel club dei contributori di Meteo-Parapente
+# Abbonarsi a Meteo-Parapente
  
 - Goditi le migliori previsioni ogni giorno. Meteo-Parapente può esistere grazie a te!
  
@@ -32,7 +32,7 @@ title: Entra nel club
     product_contributor_description: `3€ al mese <small>(12 mesi)</small>`,
     product_supporter_title: `Supporto`,
     product_supporter_description: `5€ al mese <small>(12 mesi)</small>`,
-    product_small_text: `Pagamento unico di €#### per 12 mesi. Nessun rinnovo`,
+    product_small_text: `Pagamento unico di €### per 12 mesi. Nessun rinnovo`,
     header_coordinates: `Su di te`,
     email: `Email`,
     mobile_phone: `Cellulare`,
@@ -40,7 +40,7 @@ title: Entra nel club
     payment_method: `Metodo di pagamento`,
     payment_card: `Carta di credito / Carta di debito`,
     payment_proceed: `Procedi al pagamento ►`,
-    termini_approvazione: `Cliccando su "procedi al pagamento", accetti e acconsenti alle <a href="/it/legal/#condizioni-generali-duso-di-meteo-parapente" target="_blank">Condizioni Generali d'Uso di Meteo-Parapente</a>, le <a href="/it/legal/#condizioni-specifiche-di-appartenenza-al-club-dei-contributori" target="_blank">Condizioni specifiche di appartenenza al Club dei contributori</a> e la <a href="/it/privacy/" target="_blank">Politica sulla riservatezza</a>. `,
+    terms_approval: `Cliccando su "procedi al pagamento", accetti e acconsenti alle <a href="/it/legal/#terms" target="_blank">Condizioni Generali d'Uso di Meteo-Parapente</a>, le <a href="/it/legal/#membership" target="_blank">Condizioni di abbonamento specifiche</a> e la <a href="/it/privacy/" target="_blank">Politica sulla riservatezza</a>. `,
     error_email: `Indirizzo e-mail non è valido`,
     error_phone: `Il numero di telefono non è valido`,
     error_request: `Errore: impossibile raggiungere il server. Controlla la tua connessione e riprova`,
