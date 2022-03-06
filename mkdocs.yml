@@ -41,7 +41,6 @@ plugins:
         - '*/users/cheque'
         - '*/users/sepa'
         - 'users/activate'
-        - 'users/cheque'
         - 'users/sepa'
   - awesome-pages
 
