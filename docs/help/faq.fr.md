@@ -1,4 +1,4 @@
-# Qestions fréquentes
+# Questions fréquentes
 
 **Cette page est en construction.**
 
