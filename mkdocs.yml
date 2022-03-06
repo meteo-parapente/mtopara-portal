@@ -4,8 +4,8 @@ site_url: https://portal.meteo-parapente.com/
 #repo_url: https://github.com/meteo-parapente/mtopara-portal
 edit_uri: https://github.com/meteo-parapente/mtopara-portal/edit/main/docs
 
-remote_name: public
-remote_branch: gh-pages
+# remote_name: public
+# remote_branch: gh-pages
 
 site_description: Documentation for Meteo-Parapente
 site_author: Meteo-Parapente
