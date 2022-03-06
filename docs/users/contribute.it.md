@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Abbonati
+og:
+  title: Vinci la vela da parapendio di tua scelta!
+  description: Iscriversi a Meteo-Parapente entro il 30 marzo
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abbonarsi a Meteo-Parapente

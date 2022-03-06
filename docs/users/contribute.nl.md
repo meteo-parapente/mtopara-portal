@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Abonneren
+og:
+  title: Win de paraglidervleugel naar keuze!
+  description: Abonneer u op Meteo-Parapente voor 30 maart
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abonneren op Meteo-Parapente

@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: S'abonner
+og:
+  title: Gagnez l'aile de parapente de votre choix !
+  description: En vous abonnant à Météo-Parapente avant le 30 mars
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abonnez-vous à Meteo-Parapente !</span>

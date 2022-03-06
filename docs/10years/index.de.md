@@ -1,5 +1,9 @@
 ---
-Titel: GEWINNEN SIE EINEN GLEITSCHIRM!
+title: GEWINNEN SIE EINEN GLEITSCHIRM!
+og:
+  title: Gewinne den Gleitschirmschirm deiner Wahl!
+  description: Abonnieren Sie Meteo-Parapente vor dem 30. März
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 # Gewinne den Gleitschirmschirm deiner Wahl!
 

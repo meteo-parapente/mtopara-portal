@@ -1,5 +1,9 @@
 ---
 title: GAGNEZ UN PARAPENTE !
+og:
+  title: Gagnez l'aile de parapente de votre choix !
+  description: Abonnez-vous à Météo-Parapente avant le 30 mars
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 # Gagnez l'aile de parapente de votre choix !
 

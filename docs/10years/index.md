@@ -1,5 +1,9 @@
 ---
 title: WIN A PARAGLIDER!
+og:
+  title: Win the paraglider wing of your choice!
+  description: Subscribe to Meteo-Parapente before March 30
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 # Win the paraglider wing of your choice!
 

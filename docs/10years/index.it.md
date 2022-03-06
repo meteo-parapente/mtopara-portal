@@ -1,5 +1,9 @@
 ---
-titolo: VINCI UN PARAPENDIO!
+title: VINCI UN PARAPENDIO!
+og:
+  title: Vinci la vela da parapendio che preferisci!
+  description: Iscriviti a Meteo-Parapente entro il 30 marzo
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 # Vinci la vela da parapendio di tua scelta!
 

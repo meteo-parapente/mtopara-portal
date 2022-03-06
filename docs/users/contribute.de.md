@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Abonnieren
+og:
+  title: Gewinne den Gleitschirmschirm deiner Wahl!
+  description: Abonnieren Sie Meteo-Parapente einfach vor dem 30. März
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Meteo-Parapente abonnieren!

@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Subscribe
+og:
+  title: Win the paraglider wing of your choice!
+  description: Subscribe to Meteo-Parapente before March 30
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Subscribe to Meteo-Parapente

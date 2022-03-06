@@ -10,6 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Suscríbase
+og:
+  title: ¡Gana el ala de parapente que elijas!
+  description: Suscribirse a Meteo-Parapente antes del 30 de marzo
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # ¡Suscribirse a Meteo-Parapente!

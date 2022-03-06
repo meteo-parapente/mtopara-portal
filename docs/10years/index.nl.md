@@ -1,5 +1,9 @@
 ---
 title: WIN EEN PARAGLIDER!
+og:
+  title: Win de paraglidervleugel naar keuze!
+  description: Abonneer u voor 30 maart op Meteo-Parapente
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 # Win de paraglidervleugel naar keuze!
 

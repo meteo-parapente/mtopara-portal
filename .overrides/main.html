@@ -45,6 +45,16 @@
     name="generator"
     content="mkdocs-{{ mkdocs_version }}, $md-name$-$md-version$"
   />
+  
+  <!-- Social preview -->
+  {% if page and page.meta and page.meta.og %}
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ page.meta.og.title }}" />
+    <meta property="og:description" content="{{ page.meta.og.description }}" />
+    {% if page.meta.og.image %}
+      <meta property="og:image" content="{{ page.meta.og.image }}" />
+    {% endif %}
+  {% endif %}
 {% endblock %}
 
 {% block fonts %}
