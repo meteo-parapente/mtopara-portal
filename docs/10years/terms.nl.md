@@ -58,6 +58,7 @@ model en maat naar keuze van de winnaar, uit de volgende modellen:
 - LEAF 2 *(EN-B)*
 - LEAF 2 Light *(EN-B)*
 - STEP Light *(EN-B)*
+- STEP *(EN-B)*
 - SAVAGE *(EN-C)*
 
 Dit is de vleugel alleen met zijn tas, en niet de complete uitrusting (dwz: het harnas is niet inbegrepen...). De vleugel zal een "meteo-parapente.com" markering dragen.

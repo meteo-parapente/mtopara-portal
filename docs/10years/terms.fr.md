@@ -48,6 +48,7 @@ modèle et taille au choix du gagnant, parmi les modèles suivants :
 - BIRDY *(EN-A)*
 - LEAF 2 *(EN-B)*
 - LEAF 2 Light *(EN-B)*
+- STEP *(EN-B)*
 - STEP Light *(EN-B)*
 - SAVAGE *(EN-C)*
 
