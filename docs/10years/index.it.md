@@ -1,9 +1,11 @@
 ---
-title: VINCI UN PARAPENDIO!
+title: IL VINCITORE È...
 og:
   title: Vinci la vela da parapendio che preferisci!
   description: Iscriviti a Meteo-Parapente entro il 30 marzo
   image: https://portal.meteo-parapente.com/img/voile.png
+extra_css:
+  - /css/video.css
 ---
 # Vinci la vela da parapendio di tua scelta!
 
@@ -11,45 +13,15 @@ og:
 
 **In questa occasione stiamo organizzando un concorso eccezionale**, in collaborazione con <a href="https://www.supair.com" target="_blank">SUPAIR</a>, che ci ha sostenuto dal inizio dell'avventura.
 
-**In palio: L'ALA DI PARAPENDIO A SCELTA!!!** Scorri fino in fondo per i dettagli.
+**In palio: L'ALA DI PARAPENDIO SUPAIR A SCELTA!!!**
 
-![](/img/voile.png)
+## E il vincitore è...
 
-**Verrà estratto un vincitore tra tutti gli utenti che hanno sottoscritto o rinnovato un abbonamento tra il 1 settembre 2021 e il 30 marzo 2022** (UTC).
+<div class="video-wrapper">
+<iframe width="1920" height="1080" src="https://www.youtube-nocookie.com/embed/hYSJ3gRvBTA?hl=it&cc_lang_pref=it&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-## Non sei ancora un membro?
-
-Per soli 3 € al mese avrai pieno accesso alle nostre previsioni meteo con, inoltre, la possibilità di vincere l'ala dei tuoi sogni.
-
-[Iscriviti e cogli l'occasione ►](../users/contribute.md){ .md-button .md-button--primary }
-
-<h>
-
-## Sei già un membro ?
-
-<h>
-### Se ti sei abbonato o rinnovato **lo scorso settembre o dopo**:
-Grande! Sei già automaticamente iscritto al concorso. Non sono necessari altri passaggi.
-<h>
-### Se ti sei abbonato o rinnovato **prima dello scorso settembre**:
-
-
-Dovrai estendere la tua iscrizione per partecipare al concorso.
-
-Il tuo accesso verrà rinnovato per un anno dopo la vecchia data di scadenza. Non si perdono giorni.
-
-Ad esempio, se il tuo abbonamento doveva scadere l'11 luglio 2022 e lo rinnovi oggi, la nuova data di scadenza sarà l'11 luglio 2023.
-
-Affinché l'estensione funzioni, **devi abbonarti utilizzando lo stesso indirizzo email** attualmente associato al tuo codice di accesso.
-
-[Rinnova e ottieni la tua occasione ►](../users/contribute.md){ .md-button .md-button--primary }
-<h>
-
-## Non stai ancora volando?
-
-E se tu fossi il vincitore ma non sapessi cosa fare con un parapendio?
-
-Nessun problema. Saremo super felici di farvi conoscere il nostro sport. Puoi scegliere di scambiare la vela con un corso di iniziazione di una settimana al parapendio, in una scuola di volo locale.
+**Grazie a tutti i partecipanti!**
 
 <br>
 <hr>

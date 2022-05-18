@@ -28,19 +28,6 @@ og:
 
 - 👋 <a href="/it/about-us/" target="_blank">Scopri chi siamo</a>
 
-<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
-<h3>Una vela da parapendio da vincere!</h3>
-
-<p><strong>Per celebrare i 10 anni di Meteo-Parapente, stiamo organizzando un grande concorso.</strong></p>
-
-<p><strong>Vinci la vela a tua scelta, dalla <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamma SUPAIR da solista</a>.</strong></p>
-
-<p><strong>Per partecipare all'estrazione è sufficiente iscriversi entro il 30 marzo.</strong></p>
-
-<p>Non sei ancora in volo? Puoi scambiare con un corso di iniziazione di una settimana.</strong></p>
-
-<p><a href="/it/10years/">Vedi dettagli e regole ►</a></p>
-</div>
 <br>
 
 <script>
@@ -51,7 +38,7 @@ og:
     product_contributor_description: `3€ al mese <small>(12 mesi)</small>`,
     product_supporter_title: `Supporto`,
     product_supporter_description: `5€ al mese <small>(12 mesi)</small>`,
-    product_small_text: `Pagamento unico di €### per 12 mesi. Nessun rinnovo`,
+    product_small_text: `Pagamento unico di €### per 12 mesi. Nessun rinnovo automatico.`,
     header_coordinates: `Su di te`,
     email: `Email`,
     mobile_phone: `Cellulare`,

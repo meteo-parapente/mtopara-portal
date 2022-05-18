@@ -1,9 +1,11 @@
 ---
-title: ¡GANA UN PARAPENTE!
+title: EL GANADOR ES...
 og:
   title: ¡Gana el ala de parapente que elijas!
   description: Suscríbete a Meteo-Parapente antes del 30 de marzo
   image: https://portal.meteo-parapente.com/img/voile.png
+extra_css:
+  - /css/video.css
 ---
 # ¡Gana el ala de parapente que elijas!
 
@@ -11,45 +13,15 @@ og:
 
 **En esta ocasión, estamos organizando un concurso excepcional**, en alianza con <a href="https://www.supair.com" target="_blank">SUPAIR</a>, quienes nos apoyaron desde el comienzo de la aventura.
 
-**Para ganar: ¡¡¡EL ALA DE PARAPENTE DE TU ELECCIÓN!!!** Desplázate hasta la parte inferior para ver los detalles.
+**Para ganar: ¡¡¡EL ALA DE PARAPENTE SUPAIR DE TU ELECCIÓN!!!**
 
-![](/img/voile.png)
+## Y el ganador es...
 
-**Se sorteará un ganador entre todos los usuarios que hayan contratado o renovado una suscripción entre el 1 de septiembre de 2021 y el 30 de marzo de 2022** (UTC).
+<div class="video-wrapper">
+<iframe width="1920" height="1080" src="https://www.youtube-nocookie.com/embed/hYSJ3gRvBTA?hl=es&cc_lang_pref=es&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
-## ¿No eres miembro todavía?
-
-Por solo 3 € al mes, tendrás acceso completo a nuestras previsiones meteorológicas y, además, la posibilidad de ganar el ala de tus sueños.
-
-[Suscríbase y obtenga su oportunidad ►](../users/contribute.md){ .md-button .md-button--primary }
-
-<hr>
-
-## Ya eres usuario ?
-
-<hr>
-### Si se suscribió o renovó **en septiembre pasado o después**:
-¡Genial! Ya estás inscrito automáticamente en el concurso. No hay otros pasos necesarios.
-<hr>
-### Si te suscribiste o renovaste **antes de septiembre pasado**:
-
-
-Deberá extender su suscripción para participar en el concurso.
-
-Su acceso se renovará por un año después de su fecha de vencimiento anterior. No se pierden días.
-
-Por ejemplo, si su suscripción vence el 11 de julio de 2022 y la renueva hoy, la nueva fecha de vencimiento será el 11 de julio de 2023.
-
-Para que la extensión funcione, **debe suscribirse usando la misma dirección de correo electrónico** que está actualmente asociada con su código de acceso.
-
-[Renueve y obtenga su oportunidad ►](../users/contribute.md){ .md-button .md-button--primary }
-<hr>
-
-## ¿Aún no vuelas?
-
-¿Qué pasa si eres el ganador pero no sabes qué hacer con un parapente?
-
-Sin preocupaciones. Estaremos súper felices de presentarte nuestro deporte. Puedes optar por cambiar el ala por un curso de iniciación al parapente de una semana, en una escuela de vuelo local.
+**¡Gracias a todos los participantes!**
 
 <br>
 <hr>
