@@ -71,7 +71,7 @@ Die vom Herausgeber erhobenen Daten und die Zwecke ihrer Erhebung sind:
 
 ### Artikel 3 - Identität des Verantwortlichen
 
-Der Datenverantwortliche ist Meteo-Parapente SAS mit Sitz an der folgenden Adresse: 16 rue Alice Eynard, 73100 Aix-les-Bains.
+Der Datenverantwortliche ist Meteo-Parapente SAS mit Sitz an der folgenden Adresse: 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Artikel 4 - Empfänger und Verwendung der erhobenen Daten
 

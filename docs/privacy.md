@@ -70,7 +70,7 @@ The Data collected by the Publisher, and the purposes of their collection are:
 
 ### Article 3 - Identity of the controller
 
-The data controller is Meteo-Parapente SAS, having its registered office at the following address: 16 rue Alice Eynard, 73100 Aix-les-Bains.
+The data controller is Meteo-Parapente SAS, having its registered office at the following address: 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Article 4 - Recipients and use of the Data collected
 

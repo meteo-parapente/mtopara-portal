@@ -70,7 +70,7 @@ Los datos recopilados por el editor y los fines de su recopilación son:
 
 ### Artículo 3 - Identidad del responsable del tratamiento
 
-El responsable del tratamiento es Meteo-Parapente SAS, con domicilio social en la siguiente dirección: 16 rue Alice Eynard, 73100 Aix-les-Bains.
+El responsable del tratamiento es Meteo-Parapente SAS, con domicilio social en la siguiente dirección: 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Artículo 4 - Destinatarios y uso de los datos recopilados
 

@@ -67,7 +67,7 @@ Les Données collectées par l'Éditeur, et les finalités de leur collecte sont
 
 ### Article 3 - Identité du responsable du traitement
 
-Le responsable du traitement est la société Meteo-Parapente SAS, ayant son siège social à l'adresse suivante : 16 rue Alice Eynard, 73100 Aix-les-Bains.
+Le responsable du traitement est la société Meteo-Parapente SAS, ayant son siège social à l'adresse suivante : 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Article 4 - Destinataires et utilisation des Données collectées
 

@@ -70,7 +70,7 @@ De gegevens die door de uitgever worden verzameld en de doeleinden van hun verza
 
 ### Artikel 3 - Identiteit van de verantwoordelijke
 
-De gegevensbeheerder is Meteo-Parapente SAS, met maatschappelijke zetel op het volgende adres: 16 rue Alice Eynard, 73100 Aix-les-Bains.
+De gegevensbeheerder is Meteo-Parapente SAS, met maatschappelijke zetel op het volgende adres: 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Artikel 4 - Ontvangers en gebruik van de verzamelde gegevens
 

@@ -70,7 +70,7 @@ I Dati raccolti dall'Editore e le finalità della loro raccolta sono:
 
 ### Articolo 3 - Identità del responsabile del trattamento
 
-Titolare del trattamento è Meteo-Parapente SAS, con sede legale al seguente indirizzo: 16 rue Alice Eynard, 73100 Aix-les-Bains.
+Titolare del trattamento è Meteo-Parapente SAS, con sede legale al seguente indirizzo: 110 impasse de Pré Baron, 73110 La Chapelle Blanche, France.
 
 ### Articolo 4 - Destinatari e utilizzo dei Dati raccolti
 
