@@ -55,6 +55,7 @@ nav:
   - about-us.md
   - ... | help/*
   - contact.md
+  - tour/index.md
   - users/contribute.md
   - 10years/index.md
   - translations.md
