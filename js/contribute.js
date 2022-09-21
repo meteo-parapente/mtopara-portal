@@ -88,10 +88,12 @@ new Vue({
       </div>-->
 
       <div v-for="method in paymentMethods">
-        <input type="radio" name="payment_method" :value=" method[0]" :id="'method_'+method[0]" v-model="paymentMethod">
+        <input type="radio" name="payment_method" :value="method[0]" :id="'method_'+method[0]" v-model="paymentMethod">
         <label :for="'method_'+method[0]" class="small">
           <strong><big>{{ method[1] }}</big></strong>
         </label>
+        <p v-if="paymentMethod == 'banktransfer' && method[0] == 'banktransfer'" v-html="l.note_transfer"></p>
+        <p v-if="paymentMethod == 'paypal' && method[0] == 'paypal'" v-html="l.note_paypal"></p>
       </div>
       
     </div>
