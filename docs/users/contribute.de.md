@@ -53,7 +53,10 @@ og:
     need_help: `Brauchen Sie Hilfe?`,
     email_us: `Schreiben Sie eine E-Mail an <strong>support@meteo-parapente.com</strong>`,
     payment_declined: `Ihre Bank hat die Zahlung abgelehnt. Bitte versuchen Sie es erneut.`,
-    payment_sepa: `SEPA-Banküberweisung`
+    payment_sepa: `SEPA-Banküberweisung`,
+    note_transfer: `<u>Zahlung per Überweisung :</u> <strong>Auf der nächsten Seite geben wir Ihnen eine Zahlungsreferenz an.</strong> (Beispiel:  RF12-1234-1234-1234). <strong>Sie müssen bei der Überweisung UNBEDINGT die Referenz angeben.
+.</strong> Wenn Sie vergessen, die Referenz anzugeben, wird Ihnen das Geld automatisch zurückerstattet und Ihr Zugang kann nicht aktiviert werden.`,
+    note_paypal: `<u>Zahlung per PayPal :</u> Wir bieten PayPal für Ihre Bequemlichkeit an. Wenn es Ihnen aber möglich ist, empfehlen wir Ihnen, eine andere Zahlungsmethode zu verwenden. Die von PayPal erhobenen Gebühren sind unverhältnismäßig hoch. Ich bin sicher, dass Sie lieber Meteo-Parapente als PayPal helfen möchten:)`
   };
 </script>
 

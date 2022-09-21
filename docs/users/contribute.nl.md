@@ -53,7 +53,9 @@ og:
     need_help: `Hebt u hulp nodig?`,
     email_us: `Schrijf een email naar <strong>support@meteo-parapente.com</strong>`,
     payment_declined: `Uw bank heeft de betaling geweigerd. Probeer het alstublieft opnieuw.`,
-    payment_sepa: `SEPA-overschrijving`
+    payment_sepa: `SEPA-overschrijving`,
+    note_transfer: `<u>Betaling via overschrijving:</u> <strong>Op de volgende pagina geven wij u een betalingskenmerk</strong> (example :  RF12-1234-1234-1234). <strong>U MOET de referentie vermelden wanneer u de overschrijving doet.</strong>. Als u vergeet de referentie aan te geven, wordt het geld automatisch terugbetaald en kan uw toegang niet worden geactiveerd.`,
+    note_paypal: `<u>Betaling via PayPal:</u> Wij bieden PayPal aan voor uw gemak. Maar als u kunt, raden wij u aan een andere betaalmethode te gebruiken. De kosten die PayPal in rekening brengt zijn buitensporig hoog. Ik weet zeker dat je liever Meteo-Parapente helpt dan PayPal :)`
   };
 </script>
 <div id="app">

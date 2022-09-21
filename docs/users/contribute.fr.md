@@ -53,7 +53,9 @@ og:
     need_help: `Besoin d'aide ?`,
     email_us: `Envoyez un email à  <strong>support@meteo-parapente.com</strong>`,
     payment_declined: `Votre banque a refusé le paiement. Merci de réessayer.`,
-    payment_sepa: `Virement bancaire SEPA`
+    payment_sepa: `Virement bancaire SEPA`,
+    note_transfer: `<u>Paiement par virement :</u> <strong>Sur la page suivante, nous allons vous donner une référence de paiement</strong> (exemple :  RF12-1234-1234-1234). <strong>Il faut IMPERATIVEMENT indiquer la référence lors du virement</strong>. Si vous oubliez d'indiquer la référence, l'argent vous sera automatiquement remboursé et votre accès ne pourra pas être activé.`,
+    note_paypal: `<u>Paiement par PayPal :</u> Nous proposons PayPal pour votre commodité. Mais si vous le pouvez, nous vous recommandons d'utiliser un autre moyen de paiement. Les frais prélevées par PayPal sont excessivement élevés. Je suis certain que vous préférez aider Meteo-Parapente plutôt que PayPal :)`
   };
 </script>
 <div id="app">
