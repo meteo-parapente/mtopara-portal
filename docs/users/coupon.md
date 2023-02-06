@@ -20,7 +20,7 @@ title: Meteo-Parapente
     activate: `Activate your access`,
     soon_enjoy: `You will be able to enjoy the full potential of Meteo-Parapente.`,
     fill_the_form: `Fill the form to receive your login and password.`,
-    activation_code: `Your 12-digits activation code`,
+    activation_code: `Your 16-digits activation code`,
     email: `Email`,
     mobile_phone: `Mobile phone`,
     mobile_phone_small_text: `Only used to receive your access code and to reset it in case you lose it. If you don't have a cell phone, contact support@meteo-parapente.com`,
