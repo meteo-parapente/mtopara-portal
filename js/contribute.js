@@ -1,4 +1,4 @@
-window.addEventListener('error', document.write)
+mpdb.hookVue(Vue)
 
 Vue.use(window['vue-tel-input'])
 
@@ -200,6 +200,14 @@ new Vue({
       if (val === 'paypal' && !this.paypalInit) {
         this.loading = true
         const script = document.createElement('script')
+        script.onerror = () => {
+          this.loading = false
+          mpdb.sendError(new Error('error loading paypal'))
+          this.formErrorDisplay = `Error loading PayPal. Try another payment method`
+          setTimeout(() => {
+            this.formErrorDisplay = false
+          }, 3000)
+        }
         script.onload = () => {
           paypal.Buttons({
             style: {
@@ -226,7 +234,9 @@ new Vue({
             onCancel: () => {
               this.loading = false
             },
-            onError: () => {
+            onError: (e) => {
+              console.error(e)
+              mpdb.sendError(new Error('error in paypal'))
               this.formErrorDisplay = `Error. Please try again`
               this.loading = false
             },
@@ -327,6 +337,7 @@ new Vue({
         })
         .catch(e => {
           console.error(e)
+          mpdb.sendError(new Error('error in prepare'))
           if (payload.paymentMethod === 'paypal') this.paypalPromiseReject(e)
           this.requestError = true
           this.loading = false
