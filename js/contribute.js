@@ -260,7 +260,7 @@ new Vue({
             }
           }).render('#paypal-button-container')
         }
-        script.src = 'https://www.paypal.com/sdk/js?client-id=Ad2ZqmtEh8BJPwoMwINHrgcl0oWOVGsUQbNoMhmNBOQPFsc4TaQcD2lErSBSYw46KWK71hy_bpYvUfqB&currency=EUR&locale=' + this.l.locale_paypal +'&components=buttons&disable-funding=credit,paylater,bancontact,blik,eps,giropay,ideal,mercadopago,mybank,p24,sepa,sofort,venmo';
+        script.src = 'https://www.paypal.com/sdk/js?client-id=Ad2ZqmtEh8BJPwoMwINHrgcl0oWOVGsUQbNoMhmNBOQPFsc4TaQcD2lErSBSYw46KWK71hy_bpYvUfqB&currency=EUR&locale=' + this.l.locale_paypal +'&components=buttons&disable-funding=card,credit,paylater,bancontact,blik,eps,giropay,ideal,mercadopago,mybank,p24,sepa,sofort,venmo';
         document.head.appendChild(script)
         this.paypalInit = true
       }
