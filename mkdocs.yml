@@ -13,7 +13,7 @@ site_author: Meteo-Parapente
 #dev_addr: 0.0.0.0:8000
 
 copyright: >
-  © 2022  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+  © 2023  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 docs_dir: docs/
 site_dir: public/

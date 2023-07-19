@@ -1,7 +1,7 @@
 ---
-title: Tour 2022
+title: Tour
 ---
-# Meteo-Parapente Tour 2022
+# Meteo-Parapente Tour
 
 ![Meeting](/img/tour.jpg)
 
