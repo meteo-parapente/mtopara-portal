@@ -58,7 +58,7 @@ og:
     note_transfer: `<u>Pago por transferencia bancaria:</u> <strong>En la siguiente página, le daremos una referencia de pago</strong> (Example :  RF12-1234-1234-1234). <strong>Debe indicar la referencia al hacer la transferencia</strong>.  Si se olvida de indicar la referencia, el dinero se devolverá automáticamente y no se podrá activar su acceso.`,
     note_paypal: `<u>Pago por PayPal :</u> Para su comodidad, ofrecemos PayPal. Pero si puede, le recomendamos que utilice otro método de pago. Las tarifas que cobra PayPal son excesivamente altas. Estoy seguro de que prefiere ayudar a Meteo-Parapente que a PayPal :)`,
     email_confirm: `No hay ningún error en mi dirección de correo electrónico. Lo he comprobado dos veces.`,
-    error_email_confirm: `Por favor, confirme su correo electrónico`
+    error_email_confirm: `Revisa la caja`
   };
 </script>
 <div id="app">

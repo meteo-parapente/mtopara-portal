@@ -59,7 +59,7 @@ og:
 .</strong> Wenn Sie vergessen, die Referenz anzugeben, wird Ihnen das Geld automatisch zurückerstattet und Ihr Zugang kann nicht aktiviert werden.`,
     note_paypal: `<u>Zahlung per PayPal :</u> Wir bieten PayPal für Ihre Bequemlichkeit an. Wenn es Ihnen aber möglich ist, empfehlen wir Ihnen, eine andere Zahlungsmethode zu verwenden. Die von PayPal erhobenen Gebühren sind unverhältnismäßig hoch. Ich bin sicher, dass Sie lieber Meteo-Parapente als PayPal helfen möchten:)`,
     email_confirm: `Es gibt keinen Tippfehler in meiner E-Mail Adresse. Ich habe es zweimal überprüft.`,
-    error_email_confirm: `Bitte bestätigen Sie Ihre E-Mail`,
+    error_email_confirm: `Markieren Sie das Kästchen`
   };
 </script>
 
