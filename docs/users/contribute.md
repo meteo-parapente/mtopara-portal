@@ -56,7 +56,9 @@ og:
     payment_declined: `Your bank has declined the payment. Please try again.`,
     payment_sepa: `SEPA Bank Transfer`,
     note_transfer: `<u>Payment by bank transfer:</u> <strong>On the next page, we will give you a payment reference</strong> (example :  RF12-1234-1234-1234). <strong>It is IMPERATIVE that you indicate the reference when making the transfer</strong>. If you forget to indicate the reference, the money will be automatically refunded and your access cannot be activated.`,
-    note_paypal: `<u>Payment by PayPal :</u> We offer PayPal for your convenience. But if you can, we recommend you to use another payment method. The fees charged by PayPal are excessively high. I am sure you would rather help Meteo-Parapente than PayPal :)`
+    note_paypal: `<u>Payment by PayPal :</u> We offer PayPal for your convenience. But if you can, we recommend you to use another payment method. The fees charged by PayPal are excessively high. I am sure you would rather help Meteo-Parapente than PayPal :)`,
+    email_confirm: `I checked my e-mail address for typos:`,
+    error_email_confirm: `Please confirm your email`
   };
 </script>
 <div id="app">

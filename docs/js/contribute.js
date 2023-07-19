@@ -36,7 +36,7 @@ new Vue({
     <div class="row">
       <div class="field" :class="{error: emailError}">
         <label>{{ l.email }}</label>
-        <input type="email" class="input" v-model="email" @focus="emailError = false" @blur="validateEmail">
+        <input type="email" class="input" v-model="email" @focus="emailError = emailConfirm = false" @blur="validateEmail">
       </div>
     </div>
 
@@ -96,6 +96,13 @@ new Vue({
       </div>
     </div>
 
+    <div class="row">
+      <div class="field" :class="{error: emailConfirmError}">
+        <label><input type="checkbox" v-model="emailConfirm" @focus="emailConfirmError = false"> {{ l.email_confirm }}
+        <strong>{{ email.toUpperCase() }}</strong></label>
+      </div>
+    </div>
+
     <div class="submit">
       <p v-show="loading"><img src="/img/load.gif" class="loading" alt="loading..."/></p>
       <p v-if="paymentMethod === 'paypal' && formErrorDisplay" style="color: red;">{{ formErrorDisplay }}</p>
@@ -142,7 +149,9 @@ new Vue({
     paypalInit: false,
     paypalPromiseResolve: null,
     paypalPromiseReject: null,
-    country: (getParameterByName('country') || window.mp_country || mp_form_locale.default_country).toUpperCase() 
+    country: (getParameterByName('country') || window.mp_country || mp_form_locale.default_country).toUpperCase(),
+    emailConfirm: false,
+    emailConfirmError: false
   }),
   computed: {
     price: function() {
@@ -156,6 +165,8 @@ new Vue({
         return this.l.error_email
       } else if (this.phoneError) {
         return this.l.error_phone
+      } else if (this.emailConfirmError) {
+        return this.l.error_email_confirm
       } else {
         return false
       }
@@ -299,6 +310,7 @@ new Vue({
       this.requestError = false
       this.validatePhone()
       this.validateEmail()
+      if (!this.emailConfirm) this.emailConfirmError = true
       this.formErrorDisplay = this.formError
     },
     submit: function() {

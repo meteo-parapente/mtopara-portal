@@ -56,7 +56,9 @@ og:
     payment_declined: `La sua banca ha rifiutato il pagamento. Si prega di riprovare.`,
     payment_sepa: `Bonifico bancario SEPA`,
     note_transfer: `<u>Pagamento tramite bonifico bancario:</u> <strong>Nella pagina successiva, vi forniremo un riferimento per il pagamento.</strong> (example :  RF12-1234-1234-1234). <strong>È necessario indicare il riferimento quando si effettua il bonifico</strong>. Se si dimentica di indicare il riferimento, il denaro verrà automaticamente rimborsato e l'accesso non potrà essere attivato.`,
-    note_paypal: `<u>Pagamento con PayPal :</u> Per comodità, offriamo il servizio PayPal. Ma se è possibile, vi consigliamo di utilizzare un altro metodo di pagamento. Le tariffe applicate da PayPal sono eccessivamente elevate. Sono sicuro che preferiresti aiutare Meteo-Parapente piuttosto che PayPal :)`
+    note_paypal: `<u>Pagamento con PayPal :</u> Per comodità, offriamo il servizio PayPal. Ma se è possibile, vi consigliamo di utilizzare un altro metodo di pagamento. Le tariffe applicate da PayPal sono eccessivamente elevate. Sono sicuro che preferiresti aiutare Meteo-Parapente piuttosto che PayPal :)`,
+    email_confirm: `Ho controllato che il mio indirizzo e-mail non contenga errori di battitura`,
+    error_email_confirm: `Per favore conferma la tua email`
   };
 </script>
 <div id="app">
