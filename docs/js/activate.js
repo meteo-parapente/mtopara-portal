@@ -1,3 +1,5 @@
+mpdb.hookVue(Vue)
+
 const countries = {
   'af': '🇦🇫 Afghanistan (‫افغانستان‬‎)',
   'al': '🇦🇱 Albania (Shqipëri)',

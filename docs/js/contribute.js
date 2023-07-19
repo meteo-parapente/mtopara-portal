@@ -1,4 +1,4 @@
-window.addEventListener('error', document.write)
+mpdb.hookVue(Vue)
 
 Vue.use(window['vue-tel-input'])
 
