@@ -92,18 +92,16 @@ new Vue({
         <label :for="'method_'+method[0]" class="small">
           <strong><big>{{ method[1] }}</big></strong>
         </label>
-        <p v-if="paymentMethod == 'banktransfer' && method[0] == 'banktransfer'" v-html="l.note_transfer"></p>
-        <p v-if="paymentMethod == 'paypal' && method[0] == 'paypal'" v-html="l.note_paypal"></p>
+        <p v-if="paymentMethod === 'banktransfer' && method[0] === 'banktransfer'" v-html="l.note_transfer"></p>
       </div>
-      
     </div>
-    
+
     <div class="submit">
-      <p v-if="loading"><img src="/img/load.gif" class="loading" alt="loading..."/></p>
-      <p v-else>
-        <input type="submit" class="md-typeset md-button md-button--primary" :class="{error: formErrorDisplay }" :value="formErrorDisplay ? formErrorDisplay : l.payment_proceed" @blur="formErrorDisplay = false"><br>
-        <span class="error" v-if="requestError">{{ l.error_request }}</span>
-      </p>
+      <p v-show="loading"><img src="/img/load.gif" class="loading" alt="loading..."/></p>
+      <p v-if="paymentMethod === 'paypal' && formErrorDisplay" style="color: red;">{{ formErrorDisplay }}</p>
+      <div v-show="!loading && paymentMethod === 'paypal'" id="paypal-button-container"></div>
+      <input v-show="!loading && paymentMethod !== 'paypal'" type="submit" class="md-typeset md-button md-button--primary" :class="{error: formErrorDisplay }" :value="formErrorDisplay ? formErrorDisplay : l.payment_proceed" @blur="formErrorDisplay = false"><br>
+      <span class="error" v-show="!loading && requestError">{{ l.error_request }}</span>
     </div>
     
     <p><small class="faded" v-html="l.terms_approval"></small></p>
@@ -141,6 +139,9 @@ new Vue({
     },
     mollie: false,
     refused: false,
+    paypalInit: false,
+    paypalPromiseResolve: null,
+    paypalPromiseReject: null,
     country: (getParameterByName('country') || window.mp_country || mp_form_locale.default_country).toUpperCase() 
   }),
   computed: {
@@ -194,6 +195,77 @@ new Vue({
       return filtered
     }
   },
+  watch: {
+    paymentMethod: function(val) {
+      if (val === 'paypal' && !this.paypalInit) {
+        this.loading = true
+        const script = document.createElement('script')
+        script.onerror = () => {
+          this.loading = false
+          mpdb.sendError(new Error('error loading paypal'))
+          this.formErrorDisplay = `Error loading PayPal. Try another payment method`
+          setTimeout(() => {
+            this.formErrorDisplay = false
+          }, 3000)
+        }
+        script.onload = () => {
+          paypal.Buttons({
+            style: {
+              layout: 'vertical',
+              color:  'gold',
+              shape:  'rect',
+              label:  'pay',
+              tagline: false
+            },
+            onInit: (data, actions) => {
+              this.loading = false
+            },
+            onClick: (data, actions) => {
+              this.validateForm()
+              if (this.formError) {
+                setTimeout(() => {
+                  this.formErrorDisplay = false
+                }, 3000)
+                return actions.reject()
+              } else {
+                return actions.resolve()
+              }
+            },
+            onCancel: () => {
+              this.loading = false
+            },
+            onError: (e) => {
+              console.error(e)
+              mpdb.sendError(new Error('error in paypal'))
+              this.formErrorDisplay = `Error. Please try again`
+              this.loading = false
+            },
+            createOrder: () => {
+              return new Promise((resolve, reject) => {
+                this.paypalPromiseResolve = resolve
+                this.paypalPromiseReject = reject
+                this.submit()
+              })
+            },
+            // Finalize the transaction on the server after payer approval
+            onApprove: (data) => {
+              return this.$http.post('paypal-capture', { orderID: data.orderID }).then(response => {
+                if (response.body.redirect) {
+                  document.location = response.body.redirect
+                } else {
+                  console.error(response.body)
+                  throw new Error('capture error')
+                }
+              })
+            }
+          }).render('#paypal-button-container')
+        }
+        script.src = 'https://www.paypal.com/sdk/js?client-id=Ad2ZqmtEh8BJPwoMwINHrgcl0oWOVGsUQbNoMhmNBOQPFsc4TaQcD2lErSBSYw46KWK71hy_bpYvUfqB&currency=EUR&locale=' + this.l.locale_paypal +'&components=buttons&disable-funding=card,credit,paylater,bancontact,blik,eps,giropay,ideal,mercadopago,mybank,p24,sepa,sofort,venmo';
+        document.head.appendChild(script)
+        this.paypalInit = true
+      }
+    }
+  },
   mounted: function () {
     if (getParameterByName('refused')) {
       this.refused = true
@@ -223,11 +295,14 @@ new Vue({
     validateEmail: function() {
       this.emailError = !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email);
     },
-    submit: function() {
+    validateForm: function () {
       this.requestError = false
       this.validatePhone()
       this.validateEmail()
       this.formErrorDisplay = this.formError
+    },
+    submit: function() {
+      this.validateForm()
       if (this.formError) return
       this.loading = true
       this.prepare()
@@ -245,8 +320,13 @@ new Vue({
       //console.log(payload)
       this.$http.post('prepare', payload)
         .then(response => {
-          if (response.body.vads_page_action) {
-            this.post('https://clicandpay.groupecdn.fr/vads-payment/', response.body)
+          if (response.body.paypal) {
+            this.loading = false
+            if (response.body.paypal.error) {
+              return this.paypalPromiseReject(response.body.paypal.error)
+            } else {
+              return this.paypalPromiseResolve(response.body.paypal.id)
+            }
           } else if (response.body.post) {
             this.post(response.body.post, response.body.data)
           } else if (response.body.redirect) {
@@ -257,6 +337,8 @@ new Vue({
         })
         .catch(e => {
           console.error(e)
+          mpdb.sendError(new Error('error in prepare'))
+          if (payload.paymentMethod === 'paypal') this.paypalPromiseReject(e)
           this.requestError = true
           this.loading = false
         })

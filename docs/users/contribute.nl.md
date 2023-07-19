@@ -33,6 +33,7 @@ og:
 <script>
   const mp_form_locale = {
     locale: `nl`,
+    locale_paypal: `nl_NL`,
     default_country: `NL`,
     product_contributor_title: `Bijdrager`,
     product_contributor_description: `€3 per maand <small>(12 maanden)</small>`,
@@ -46,7 +47,7 @@ og:
     payment_method: `Betaalmethode`,
     payment_card: `Kredietkaart / Debetkaart`,
     payment_proceed: `Doorgaan naar betaling ►`,
-    terms_approval: `Door te klikken op "Doorgaan naar betaling", gaat u akkoord en stemt u in met de <a href="/nl/legal/#terms" target="_blank">Algemene gebruiksvoorwaarden van Meteo-Parapente</a>, de <a href="/nl/legal/#membership" target="_blank">Specifieke abonnementsvoorwaarden</a> en het <a href="/nl/privacy/" target="_blank">Privacybeleid</a>. `,
+    terms_approval: `Door over te gaan tot betaling, gaat u akkoord en stemt u in met de <a href="/nl/legal/#terms" target="_blank">Algemene gebruiksvoorwaarden van Meteo-Parapente</a>, de <a href="/nl/legal/#membership" target="_blank">Specifieke abonnementsvoorwaarden</a> en het <a href="/nl/privacy/" target="_blank">Privacybeleid</a>. `,
     error_email: `Emailadres is ongeldig`,
     error_phone: `Het telefoonnummer is ongeldig`,
     error_request: `Fout: kan de server niet bereiken. Controleer uw verbinding en probeer het opnieuw.`,

@@ -185,3 +185,8 @@ iframe.hidden {
 h1:empty {
   display: none;
 }
+
+#paypal-button-container {
+  max-width: 350px;
+  width: 100%;
+}

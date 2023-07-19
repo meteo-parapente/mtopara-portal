@@ -33,6 +33,7 @@ og:
 <script>
   const mp_form_locale = {
     locale: `es`,
+    locale_paypal: `es_ES`,
     default_country: `ES`,
     product_contributor_title: `Colaborador`,
     product_contributor_description: `3€ al mes <small>(12 meses)</small>`,
@@ -46,7 +47,7 @@ og:
     payment_method: `Método de pago`,
     payment_card: `Tarjeta de crédito / Tarjeta de débito`,
     payment_proceed: `Proceder al pago ►`,
-    terms_approval: `Al hacer clic en "proceder al pago", usted acepta y consiente las <a href="/es/legal/#terms" target="_blank">Condiciones Generales de Uso de Meteo-Parapente</a>, las <a href="/es/legal/#membership" target="_blank">Condiciones Específicas de Suscripción</a> y la <a href="/es/privacy/" target="_blank">Política de privacidad</a>. `,
+    terms_approval: `Al proceder al pago, usted acepta y consiente las <a href="/es/legal/#terms" target="_blank">Condiciones Generales de Uso de Meteo-Parapente</a>, las <a href="/es/legal/#membership" target="_blank">Condiciones Específicas de Suscripción</a> y la <a href="/es/privacy/" target="_blank">Política de privacidad</a>. `,
     error_email: `La dirección de correo electrónico no es válida`,
     error_phone: `El número de teléfono no es válido`,
     error_request: `Error: no se puede alcanzar el servidor. Compruebe su conexión e inténtelo de nuevo`,
