@@ -39,7 +39,10 @@ title: Meteo-Parapente
     go_to_mp: `Ga naar Meteo-Parapente`,
     login: `Login`,
     password: `Paswoord`,
-    here_is_code: `Hier is uw code. Verlies hem niet!`
+    here_is_code: `Hier is uw code. Verlies hem niet!`,
+    thank_for_payment: `Bedankt voor uw betaling`,
+    sent_code: `We hebben je je toegangscode gestuurd`,
+    check_spam: `Als je niets hebt ontvangen, controleer dan je spammap.<br>Als je 10 minuten na betaling nog steeds niets hebt ontvangen, voer dan geen tweede betaling uit en neem contact met ons op via support@meteo&#8209;parapente.com`
   };
 </script>
 <div id="app">

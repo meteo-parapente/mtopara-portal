@@ -39,7 +39,10 @@ title: Meteo-Parapente
     go_to_mp: `Ir a Meteo-Parapente`,
     login: `Login`,
     password: `Contraseña`,
-    here_is_code: `Aquí está tu código. ¡No lo pierdas!`
+    here_is_code: `Aquí está tu código. ¡No lo pierdas!`,
+    thank_for_payment: `Gracias por su pago`,
+    sent_code: `Le hemos enviado su código de acceso`,
+    check_spam: `Si no ha recibido nada, revise su carpeta de correo no deseado.<br>Si aún no ha recibido nada 10 minutos después del pago, no haga un segundo pago y contáctenos en support@meteo&#8209;parapente.com`
   };
 </script>
 <div id="app">
