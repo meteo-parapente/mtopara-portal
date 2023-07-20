@@ -257,6 +257,7 @@ new Vue({
     </div>
     <div v-else-if="thankYou">
       <h1>{{ l.thank_you }}</h1>
+      <h2></h2>
       <p>{{ l.access_activated }}</p>
       <div v-if="password">
         <hr>
@@ -277,7 +278,10 @@ new Vue({
     </div>
 
     <form class="mp-form" @submit.prevent="submit" :class="{ ready }" v-else>
-      <h1>{{ l.last_step }}</h1>
+      <h1>{{ l.thank_for_payment }} 👍</h1>
+      <h2>{{ l.sent_code }} (✉️ + 📱)</h2>
+      <p v-html="l.check_spam"></p>
+      <h2>{{ l.last_step }}</h2>
 
       <p>{{ l.enter_address }}</p>
 
