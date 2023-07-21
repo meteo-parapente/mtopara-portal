@@ -1,11 +1,9 @@
 ---
-title: DER GEWINNER IST...
+title: GEWINNEN SIE EINEN GLEITSCHIRM!
 og:
   title: Gewinne den Gleitschirmschirm deiner Wahl!
   description: Abonnieren Sie Meteo-Parapente vor dem 30. März
   image: https://portal.meteo-parapente.com/img/voile.png
-extra_css:
-  - /css/video.css
 ---
 # Gewinne den Gleitschirmschirm deiner Wahl!
 
@@ -13,15 +11,45 @@ extra_css:
 
 **Bei dieser Gelegenheit organisieren wir einen außergewöhnlichen Wettbewerb** in Zusammenarbeit mit <a href="https://www.supair.com" target="_blank">SUPAIR</a>, die uns seit dem unterstützt haben Beginn des Abenteuers.
 
-**Zu gewinnen: DER SUPAIR GLEITSCHIRM DEINER WAHL!!!** 
+**Zu gewinnen: DER GLEITSCHIRM DEINER WAHL!!!** Für die Details nach unten scrollen.
 
-## Und der Gewinner ist...
+![](/img/voile.png)
 
-<div class="video-wrapper">
-<iframe width="1920" height="1080" src="https://www.youtube-nocookie.com/embed/hYSJ3gRvBTA?hl=de&cc_lang_pref=de&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+**Ein Gewinner wird unter allen Nutzern gezogen, die zwischen dem 1. September 2021 und dem 30. März 2022** (UTC) ein Abonnement abgeschlossen oder verlängert haben.
 
-**Danke an alle Teilnehmer!**
+## Noch kein Mitglied?
+
+Für nur 3 € pro Monat hast du vollen Zugriff auf unsere Wettervorhersagen und zusätzlich die Chance, deinen Traumflügel zu gewinnen.
+
+[Abonnieren und Chance nutzen ►](../users/contribute.md){ .md-button .md-button--primary }
+
+<hr>
+
+## Schon ein Mitglied ?
+
+<hr>
+### Wenn Sie **im letzten September oder danach** abonniert oder verlängert haben:
+Toll! Sie nehmen bereits automatisch am Gewinnspiel teil. Es sind keine weiteren Schritte erforderlich.
+<hr>
+### Wenn Sie **vor letztem September** abonniert oder verlängert haben:
+
+
+Sie müssen Ihr Abonnement verlängern, um am Wettbewerb teilnehmen zu können.
+
+Ihr Zugang wird nach dem alten Ablaufdatum um ein Jahr verlängert. Es gehen keine Tage verloren.
+
+Wenn Ihr Abonnement beispielsweise am 11. Juli 2022 ablaufen sollte und Sie es heute verlängern, ist das neue Ablaufdatum der 11. Juli 2023.
+
+Damit die Erweiterung funktioniert, **müssen Sie sich mit derselben E-Mail-Adresse** anmelden, die derzeit mit Ihrem Zugangscode verknüpft ist.
+
+[Erneuern und Chance nutzen ►](../users/contribute.md){ .md-button .md-button--primary }
+<hr>
+
+## Noch nicht geflogen?
+
+Was ist, wenn Sie der Gewinner sind, aber nicht wissen, was Sie mit einem Gleitschirm anfangen sollen?
+
+Keine Sorgen. Wir werden uns sehr freuen, Ihnen unseren Sport näher zu bringen. Sie können den Flügel gegen einen einwöchigen Einführungskurs in das Gleitschirmfliegen in einer örtlichen Flugschule eintauschen.
 
 <br>
 <hr>

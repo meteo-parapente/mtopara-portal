@@ -28,6 +28,19 @@ og:
 
 - 👋 <a href="/fr/about-us/" target="_blank">Découvrez qui nous sommes</a>
 
+<div style="border-left : 2px #303fa1 solid; padding-left : 10px; color: #303fa1;">
+<h3>Une voile de parapente à gagner !</h3>
+
+<p><strong>Pour fêter les 10 ans de Météo-Parapente, nous organisons un grand concours.</strong></p>
+
+<p><strong>Gagnez la voile de votre choix, parmi la <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamme Solo SUPAIR</a>.</strong></p>
+
+<p><strong>Pour participer au tirage au sort, il vous suffit de vous inscrire avant le 30 mars.</strong></p>
+
+<p>Vous ne volez pas encore ? Vous pouvez échanger contre un stage d'initiation d'une semaine.</strong></p>
+
+<p><a href="/fr/10years/">Voir les détails et les règles ►</a></p>
+</div>
 <br> 
 
 <script>
@@ -39,7 +52,7 @@ og:
     product_contributor_description: `3 € par mois <small>(12 mois)</small>`,
     product_supporter_title: `Soutien`,
     product_supporter_description: `5 € par mois <small>(12 mois)</small>`,
-    product_small_text: `Un seul paiement unique de €### pour 12 mois. Pas de renouvellement automatique.`,
+    product_small_text: `Un seul paiement unique de €### pour 12 mois. Pas de renouvellement.`,
     header_coordinates: `À propos de vous`,
     email: `Email`,
     mobile_phone: `Téléphone portable`,

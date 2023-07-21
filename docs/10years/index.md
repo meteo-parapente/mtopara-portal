@@ -1,11 +1,9 @@
 ---
-title: THE WINNER IS...
+title: WIN A PARAGLIDER!
 og:
   title: Win the paraglider wing of your choice!
   description: Subscribe to Meteo-Parapente before March 30
   image: https://portal.meteo-parapente.com/img/voile.png
-extra_css:
-  - /css/video.css
 ---
 # Win the paraglider wing of your choice!
 
@@ -13,15 +11,45 @@ extra_css:
 
 **On this occasion, we are organizing an exceptional contest**, in partnership with <a href="https://www.supair.com" target="_blank">SUPAIR</a>, who supported us from the start of the adventure.
 
-**To be won: THE SUPAIR PARAGLIDER WING OF YOUR CHOICE!!!**
+**To be won: THE PARAGLIDER WING OF YOUR CHOICE!!!** Scroll to the bottom for the details.
 
-## And the winner is...
+![](/img/voile.png)
 
-<div class="video-wrapper">
-<iframe width="1920" height="1080" src="https://www.youtube-nocookie.com/embed/hYSJ3gRvBTA?hl=en&cc_lang_pref=en&cc_load_policy=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+**One winner will be drawn from all users who have taken out or renewed a subscription between September 1, 2021 and March 30, 2022** (UTC).
 
-**Thank you to all participants!**
+## Not a member yet?
+
+For only 3 € per month, you will have full access to our weather forecasts with, in addition, a chance to win the wing of your dreams.
+
+[Subscribe and get your chance ►](../users/contribute.md){ .md-button .md-button--primary }
+
+<hr>
+
+## Already a member ?
+
+<hr>
+### If you subscribed or renewed **on last september or after**:
+Great! You are already automatically entered into the contest. There are no other steps needed.
+<hr>
+### If you subscribed or renewed **earlier than last september**:
+
+
+You will need to extend your subscription to enter the contest.
+
+Your access will be renewed for one year after its old expiration date. No days are lost.
+
+For example, if your subscription was set to expire on July 11th, 2022 and you renew it today, the new expiry date will be July 11th, 2023.
+
+For the extension to work, **you must subscribe using the same email address** that is currently associated with your access code.
+
+[Renew and get your chance ►](../users/contribute.md){ .md-button .md-button--primary }
+<hr>
+
+## Not flying yet?
+
+What if you're the winner but you do not know what to do with a paraglider?
+
+No worries. We will be super happy to introduce you to our sport. You can choose to exchange the wing for a one-week initiation course to paragliding, in a local flying school.
 
 <br>
 <hr>
