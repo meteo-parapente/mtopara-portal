@@ -12,8 +12,8 @@ extra_javascript:
 title: Subscribe
 og:
   title: Win the paraglider wing of your choice!
-  description: Subscribe to Meteo-Parapente before March 30
-  image: https://portal.meteo-parapente.com/img/voile.png
+  description: Subscribe to Meteo-Parapente before September 24th
+  image: https://portal.meteo-parapente.com/img/contest.webp
 ---
 
 # Subscribe to Meteo-Parapente
@@ -31,15 +31,13 @@ og:
 <div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
 <h3>A paraglider wing to be won!</h3>
 
-<p><strong>To celebrate 10 years of Meteo-Parapente, we are organizing a big contest.</strong></p>
+<p>We have partnered with two webshops to offer you the paragliding wing of your choice from their catalog, featuring the best brands and models on the market.</p>
 
-<p><strong>Win the paraglider of your choice, from the <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">SUPAIR solo line</a>.</strong></p>
+<p>For those who haven't flown yet, we are offering a one-week initiation course for two people.</p>
 
-<p><strong>To participate in the draw, all you have to do is subscribe before March 30.</strong></p>
+<p><strong>To participate in the raffle, simply sign up or renew before September 24th.</strong></p>
 
-<p>Not flying yet? You can exchange for a one-week initiation course.</strong></p>
-
-<p><a href="/10years/">See details and rules ►</a></p>
+<p><a href="/contest/">See details and rules ►</a></p>
 </div>
 <br>
 

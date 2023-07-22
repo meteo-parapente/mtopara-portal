@@ -11,9 +11,9 @@ extra_javascript:
   - /js/contribute.js
 title: Abonneren
 og:
-  title: Win de paraglidervleugel naar keuze!
-  description: Abonneer u op Meteo-Parapente voor 30 maart
-  image: https://portal.meteo-parapente.com/img/voile.png
+  title: Win de paraglider van jouw keuze!
+  description: Abonneer je op Meteo-Parapente voor 24 september
+  image: https://portal.meteo-parapente.com/img/contest.webp
 ---
 
 # Abonneren op Meteo-Parapente
@@ -28,18 +28,16 @@ og:
 
 - 👋 <a href="/nl/about-us/" target="_blank">Ontdek wie we zijn</a>
 
-<div style="border-left: 2px #303fa1 effen; padding-left: 10px; color: #303fa1;">
-<h3>Een paraglidervleugel te winnen!</h3>
+<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
+<h3>Win een paraglider!</h3>
 
-<p><strong>Om 10 jaar Meteo-Parapente te vieren, organiseren we een grote wedstrijd.</strong></p>
+<p>We hebben samenwerkingen met twee webshops om je de paraglider van jouw keuze uit hun catalogus aan te bieden, met de beste merken en modellen op de markt.</p>
 
-<p><strong>Win de vleugel van uw keuze, uit de <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">Solo SUPAIR-reeks</a>.</strong></p>
+<p>Voor degenen die nog nooit hebben gevlogen, bieden we een introductiecursus van een week aan voor twee personen.</p>
 
-<p><strong>Als u wilt deelnemen aan de trekking, hoeft u zich alleen vóór 30 maart in te schrijven.</strong></p>
+<p><strong>Om deel te nemen aan de loterij, meld u eenvoudig aan of vernieuw vóór 24 september.</strong></p>
 
-<p>Vlieg je nog niet? Je kunt ruilen voor een initiatiecursus van een week.</strong></p>
-
-<p><a href="/nl/10years/">Bekijk details en regels ►</a></p>
+<p><a href="/nl/contest/">Bekijk details en regels ►</a></p>
 </div>
 <br>
 
