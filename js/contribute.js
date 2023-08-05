@@ -99,7 +99,7 @@ new Vue({
     <div class="row">
       <div class="field" :class="{error: emailConfirmError}">
         <strong>{{ email.toUpperCase() }}</strong><br>
-        <label><input type="checkbox" v-model="emailConfirm" @focus="emailConfirmError = false" @blur="emailConfirmError = false"> {{ l.email_confirm }}
+        <label><input type="checkbox" v-model="emailConfirm" @change="emailConfirmError = false"> {{ l.email_confirm }}
         </label>
       </div>
     </div>
