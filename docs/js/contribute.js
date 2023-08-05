@@ -99,7 +99,7 @@ new Vue({
     <div class="row">
       <div class="field" :class="{error: emailConfirmError}">
         <strong>{{ email.toUpperCase() }}</strong><br>
-        <label><input type="checkbox" v-model="emailConfirm" @focus="emailConfirmError = false"> {{ l.email_confirm }}
+        <label><input type="checkbox" v-model="emailConfirm" @change="emailConfirmError = false"> {{ l.email_confirm }}
         </label>
       </div>
     </div>
@@ -316,7 +316,10 @@ new Vue({
     },
     submit: function() {
       this.validateForm()
-      if (this.formError) return
+      if (this.formError) {
+        setTimeout(() => this.formErrorDisplay = false, 1500)
+        return
+      }
       this.loading = true
       this.prepare()
     },
