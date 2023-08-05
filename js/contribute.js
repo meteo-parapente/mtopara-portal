@@ -316,7 +316,10 @@ new Vue({
     },
     submit: function() {
       this.validateForm()
-      if (this.formError) return
+      if (this.formError) {
+        setTimeout(() => this.formErrorDisplay = false, 1500)
+        return
+      }
       this.loading = true
       this.prepare()
     },
