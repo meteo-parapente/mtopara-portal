@@ -12,8 +12,8 @@ extra_javascript:
 title: S'abonner
 og:
   title: Gagnez l'aile de parapente de votre choix !
-  description: Abonnez-vous à Meteo-Parapente avant le 24 septembre
-  image: https://portal.meteo-parapente.com/img/contest.webp
+  description: En vous abonnant à Météo-Parapente avant le 30 mars
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abonnez-vous à Meteo-Parapente !</span>
@@ -31,13 +31,15 @@ og:
 <div style="border-left : 2px #303fa1 solid; padding-left : 10px; color: #303fa1;">
 <h3>Une voile de parapente à gagner !</h3>
 
-<p>Nous nous sommes associés à deux webshops pour vous offrir le parapente de votre choix parmi leur catalogue, avec les meilleures marques et modèles du marché.</p>
+<p><strong>Pour fêter les 10 ans de Météo-Parapente, nous organisons un grand concours.</strong></p>
 
-<p>Pour ceux qui ne volent pas encore, on vous propose un stage d'initiation d'une semaine pour deux personnes</p>
+<p><strong>Gagnez la voile de votre choix, parmi la <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamme Solo SUPAIR</a>.</strong></p>
 
-<p><strong>Pour participer au tirage au sort, inscrivez-vous ou renouvelez simplement avant le 24 septembre.</strong></p>
+<p><strong>Pour participer au tirage au sort, il vous suffit de vous inscrire avant le 30 mars.</strong></p>
 
-<p><a href="/fr/contest/">Voir les détails et les règles ►</a></p>
+<p>Vous ne volez pas encore ? Vous pouvez échanger contre un stage d'initiation d'une semaine.</strong></p>
+
+<p><a href="/fr/10years/">Voir les détails et les règles ►</a></p>
 </div>
 <br> 
 

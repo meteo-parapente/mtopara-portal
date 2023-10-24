@@ -11,9 +11,9 @@ extra_javascript:
   - /js/contribute.js
 title: Abbonati
 og:
-  title: Vinci il parapendio della tua scelta!
-  description: Iscriviti a Meteo-Parapente entro il 24 settembre
-  image: https://portal.meteo-parapente.com/img/contest.webp
+  title: Vinci la vela da parapendio di tua scelta!
+  description: Iscriversi a Meteo-Parapente entro il 30 marzo
+  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abbonarsi a Meteo-Parapente
@@ -29,15 +29,17 @@ og:
 - 👋 <a href="/it/about-us/" target="_blank">Scopri chi siamo</a>
 
 <div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
-<h3>Vinci un parapendio!</h3>
+<h3>Una vela da parapendio da vincere!</h3>
 
-<p>Ci siamo associati con due negozi online per offrirti il parapendio della tua scelta dal loro catalogo, con i migliori marchi e modelli disponibili sul mercato.</p>
+<p><strong>Per celebrare i 10 anni di Meteo-Parapente, stiamo organizzando un grande concorso.</strong></p>
 
-<p>Per coloro che non hanno mai volato, offriamo un corso di iniziazione di una settimana per due persone.</p>
+<p><strong>Vinci la vela a tua scelta, dalla <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamma SUPAIR da solista</a>.</strong></p>
 
-<p><strong>Per partecipare alla lotteria, basta registrarsi o rinnovare entro il 24 settembre.</strong></p>
+<p><strong>Per partecipare all'estrazione è sufficiente iscriversi entro il 30 marzo.</strong></p>
 
-<p><a href="/it/contest/">Vedi dettagli e regole ►</a></p>
+<p>Non sei ancora in volo? Puoi scambiare con un corso di iniziazione di una settimana.</strong></p>
+
+<p><a href="/it/10years/">Vedi dettagli e regole ►</a></p>
 </div>
 <br>
 

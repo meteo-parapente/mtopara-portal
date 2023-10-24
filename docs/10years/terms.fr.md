@@ -1,18 +1,18 @@
 # REGLEMENT D'UN JEU-CONCOURS AVEC OBLIGATION D'ACHAT
 
-« JEU D'ÉTÉ METEO-PARAPENTE »
+« ANNIVERSAIRE 10 ANS DE METEO-PARAPENTE »
 
-Du 22/07/2023 au 23/09/2023
+Du 02/03/2022 au 30/03/2022
 
 ## Article 1 : Organisation
 
 La société METEO-PARAPENTE SAS au capital de 1000 euros, ci-après désignée «société organisatrice», dont le siège social est situé 110 impasse de Pre Baron 73110 La Chapelle Blanche, France, immatriculée sous le numéro RCS Chambéry 848 908 646, organise un jeu-concours avec obligation d'achat ci-après le «jeu-concours».
 
-Ce concours est organisé en partenariat avec les sociétés éditrices des sites internets gleitschirm-shop.ch et soaringshop.fr. Il est précisé que seule la société METEO-PARAPENTE porte la responsabilité de ce concours.
+Ce concours est organisé en partenariat avec la société SUPAIR, qui a soutenu METEO-PARAPENTE depuis sa création. Il est précisé que seule la société METEO-PARAPENTE porte la responsabilité de ce concours.
 
 ## Article 2 : Durée de l'opération
 
-Le présent jeu-concours débutera le 22 juillet 2023 à 00h00 et prendra fin le 23 septembre 2023 à 23h59 (heure UTC).
+Le présent jeu-concours débutera le 2 mars 2022 à 10h00 et prendra fin le 30 mars 2022 à 23h59 (heure UTC).
 
 ## Article 3 : Modalités de participation
 
@@ -32,7 +32,7 @@ La société organisatrice se réserve le droit de demander à tout participant 
 
 ## Article 4 : Conditions de participation
 
-Pour valider la participation au jeu-concours, le participant doit avoir souscrit ou renouvelé un abonnement ou une adhésion sur le site Meteo-Parapente, entre le 1er janvier 2023 00h00 et le 23 septembre 2023 23h59 (heures UTC), et ne pas faire ou avoir fait usage de son droit de rétractation dans les 15 jours suivants.
+Pour valider la participation au jeu-concours, le participant doit avoir  souscrit ou renouvelé un abonnement ou une adhésion sur le site Meteo-Parapente, entre le 1^er^ septembre 2021 00h00 et le 30 mars 2022 23h59 (heures UTC), et ne pas faire ou avoir fait usage de son droit de rétractation dans les 15 jours suivants.
 
 Aucune autre action n'est nécessaire.
 
@@ -40,43 +40,47 @@ Aucune autre action n'est nécessaire.
 
 La dotation unique est, au choix du gagnant :
 
-### Lot 1 : une voile de parapente
+### Lot 1 : une voile de parapente de marque SUPAIR
 
-Marque, modèle et taille au choix du gagnant, parmi les modèles présents aux catalogues des magasins en ligne gleitschirm-shop.ch et soaringshop.fr.
+modèle et taille au choix du gagnant, parmi les modèles suivants :
 
-Il s'agit de la voile seule, et non pas d'un équipement complet.
+- EONA 3 *(EN-A)*
+- BIRDY *(EN-A)*
+- LEAF 2 *(EN-B)*
+- LEAF 2 Light *(EN-B)*
+- STEP *(EN-B)*
+- STEP Light *(EN-B)*
+- SAVAGE *(EN-C)*
+
+Il s'agit de la voile seule avec son sac, et non pas d'un équipement complet. La voile portera un marquage « meteo-parapente.com ».
 
 Pour des raisons de sécurité, le gagnant devra justifier de l'adéquation de la voile choisie par rapport à son niveau de pratique, par tout moyen qu'il juge pertinent (qualification, palmarès sportif, attestation d'un moniteur...). À défaut de pouvoir justifier de son niveau de pratique, le gagnant sera limité au choix d'une voile de catégorie EN-A.
 
-En cas d'indisponibilité du modèle choisi pour des raisons étrangères à Météo-Parapente (rupture de stock, arrêt du modèle par le fabricant, longs délais), le gagnant sera invité à choisir un autre modèle parmi les mêmes catalogues.
-
 ### Lot 1, alternatif : un stage d'initiation au parapente,
 
-d'une durée d'une semaine (hors transport et hébergement), pour deux personne, dans une école au choix de l'organisateur, en concertation avec le gagnant.
+d'une durée d'une semaine (hors transport et hébergement), dans une école au choix de l'organisateur, en concertation avec le gagnant.
 
-<br>
-<br>
 Tous les frais exposés postérieurement au jeu-concours notamment pour l'usage de ces lots sont entièrement à la charge du gagnant.
 
-## Article 6 : Désignation des gagnants
+## Article 6 :Désignation des gagnants
 
-A l'issue du jeu-concours, il sera procédé à un tirage au sort du gagnant (1 personne) qui se sera conformée aux dispositions de l'Article 4 des présentes. Le tirage se déroulera le dimanche 24 septembre 2023 11h locales, sur le stand Windbird de la Coupe Icare (date et lieu pouvant être ajustés au besoin).
+A l'issue du jeu-concours, un huissier de justice tirera au sort les gagnants (1 personne) qui se seront conformées aux dispositions de l'Article 4 des présentes. Le tirage se déroulera le jeudi 31 mars 2022 (date pouvant être ajustée au besoin).
 
 ## Article 7 : Annonce des gagnants
 
-Le nom du gagnant sera affiché sur le site Meteo-Parapente.
+Les noms des gagnants seront affichés sur le site Meteo-Parapente.
 
-Il sera contacté par email, à l'adresse fournie lors de son abonnement.
+Ils seront contactés par email, à l'adresse fournie lors de leur contribution.
 
 ## Article 8 : Remise des lots
 
-Les lots seront expédiés à l'adresse postale ou dans un point relais à proximité par le biais d'un transporteur. Dans le cas d'une livraison hors France, les éventuels frais et taxes de douane et d'importation seront à la charge de Meteo-Parapente. Les gagnants s'engagent à accepter les lots tels que proposés sans possibilité d'échange notamment contre des espèces, d'autres biens ou services de quelque nature que ce ne soit ni transfert du bénéfice à une tierce personne. De même, ces lots ne pourront faire l'objet de demandes de compensation. La société organisatrice se réserve le droit, en cas de survenance d'un événement indépendant de sa volonté, notamment lié à ses fournisseurs ou à des circonstances imprévisibles, de remplacer les lots annoncés, par des lots de valeur équivalente. Le gagnant sera tenu informé des éventuels changements. Les lots seront envoyés dans le meilleur délai, soumis aux disponibilités des fournisseurs.
+Les lots seront expédiés à l'adresse postale ou dans un point relais à proximité par le biais d'un transporteur. Dans le cas d'une livraison hors France, les éventuels frais et taxes de douane et d'importation seront à la charge du gagnant destinataire. Les gagnants s'engagent à accepter les lots tels que proposés sans possibilité d'échange notamment contre des espèces, d'autres biens ou services de quelque nature que ce ne soit ni transfert du bénéfice à une tierce personne. De même, ces lots ne pourront faire l'objet de demandes de compensation. La société organisatrice se réserve le droit, en cas de survenance d'un événement indépendant de sa volonté, notamment lié à ses fournisseurs ou à des circonstances imprévisibles, de remplacer les lots annoncés, par des lots de valeur équivalente. Le gagnant sera tenu informé des éventuels changements. Les lots seront envoyés dans le meilleur délai, soumis aux disponibilités des fournisseurs.
 
 ## Article 9 : Traitement des données
 
 Les informations des participants sont enregistrées et utilisées par la société organisatrice pour mémoriser leur participation au jeu-concours et permettre l'attribution des lots. Les participants peuvent, pour des motifs légitimes, s'opposer à ce que leurs données personnelles communiquées dans le cadre de ce jeu fassent l'objet d'un traitement. Ils disposent également d'un droit d'opposition à ce qu'elles soient utilisées à des fins de prospection commerciale, en dehors de la participation à ce jeu-concours, qu'ils peuvent faire valoir dès l'enregistrement de leur participation en s'adressant par courrier à la société organisatrice dont l'adresse est mentionnée à l'article 1.
 
-Le/les gagnant(s) autorisent la société organisatrice à utiliser à titre publicitaire ou de relations publiques leurs coordonnées (nom, prénom), sur quelque support que ce soit, sans que cela ne leur confère une rémunération, un droit ou un avantage quelconque, autre que l'attribution de leur lot. Conformément à la Loi Informatique et Libertés du 6 janvier 1978, tout participant a le droit d'exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées, les informations le concernant qui seraient inexactes, incomplètes, équivoques ou périmées en s'adressant par courrier à la société organisatrice dont l'adresse est mentionnée à l'article 1.
+Le/les gagnant(s) autorisent la société organisatrice à utiliser à titre publicitaire ou de relations publiques leurs coordonnées (nom, prénom), sur quelque support que ce soit, sans que cela ne leur confère une rémunération, un droit ou un avantage quelconque, autre que l'attribution de leur lot.Conformément à la Loi Informatique et Libertés du 6 janvier 1978, tout participant a le droit d'exiger que soient rectifiées, complétées, clarifiées, mises à jour ou effacées, les informations le concernant qui seraient inexactes, incomplètes, équivoques ou périmées en s'adressant par courrier à la société organisatrice dont l'adresse est mentionnée à l'article 1.
 
 ## Article 10 : Conditions de remboursement
 
