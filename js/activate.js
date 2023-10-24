@@ -257,7 +257,6 @@ new Vue({
     </div>
     <div v-else-if="thankYou">
       <h1>{{ l.thank_you }}</h1>
-      <h2></h2>
       <p>{{ l.access_activated }}</p>
       <div v-if="password">
         <hr>
