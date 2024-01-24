@@ -3,7 +3,7 @@ title: Politica sulla riservatezza
 ---
 # Politica sulla privacy e utilizzo dei dati personali
 
-*(14 ottobre 2021)*
+*(24 gennaio 2024)*
 
 > <p>Questo documento è una traduzione automatica di un documento ufficiale francese. Questa traduzione è fornita per vostra comodità. In caso di incertezza, è la [versione originale francese](/fr/privacy/) che ha valore vincolante.</p>
 > <p>Se noti un errore nella traduzione, [facci sapere](translations.md) </p>
@@ -110,7 +110,7 @@ L'Editore ha precedentemente assicurato l'attuazione da parte dei suoi fornitori
 
 ### Articolo 9 - Diritti e libertà informatici
 
-In conformità con la normativa in materia di protezione dei dati personali, hai i diritti di seguito dettagliati che puoi esercitare, come indicato all'articolo 1 della presente Informativa sulla privacy, scrivendoci all'indirizzo postale Meteo-Parapente, 16 rue Alice Eynard, 73100 Aix-les-Bains o inviando un'e-mail a support@meteo-parapente.com:
+In conformità alla normativa in materia di protezione dei Dati Personali, l'utente dispone dei diritti di seguito specificati, che può esercitare come indicato all'articolo 1 della presente Informativa sulla Privacy inviandoci un'e-mail all'indirizzo support@meteo-parapente.com :
 
 -   **Il diritto all'informazione** : abbiamo l'obbligo di informarti su come utilizziamo i tuoi dati personali (come descritto nella presente informativa sulla privacy).
 

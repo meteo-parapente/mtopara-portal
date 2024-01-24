@@ -6,7 +6,7 @@ title: Política de privacidad
 > <p>Este documento es una traducción automática de un documento oficial francés. Esta traducción se proporciona para su comodidad. En caso de cualquier duda, es la [versión original en francés](/fr/privacy/) la que tiene valor vinculante.</p>
 > <p>Si observa un error en la traducción, [háganoslo saber](translations.md)</p>
 
-*(14 de octubre de 2021)*
+*(24 de enero de 2024)*
 
 ### Definición de términos utilizados en la Política de privacidad
 
@@ -110,7 +110,7 @@ El Editor ha asegurado previamente la implementación por parte de sus proveedor
 
 ### Artículo 9 - Derechos y libertades de las tecnologías de la información
 
-De acuerdo con la legislación en materia de protección de Datos Personales, usted dispone de los derechos que se detallan a continuación que puede ejercitar, tal y como se indica en el artículo 1 de esta Política de Privacidad escribiéndonos a la dirección postal Meteo-Parapente, 16 rue Alice Eynard, 73100 Aix-les-Bains o enviando un correo electrónico a support@meteo-parapente.com:
+De acuerdo con la legislación en materia de protección de Datos de Carácter Personal, usted dispone de los derechos que se detallan a continuación, los cuales podrá ejercitar tal y como se indica en el artículo 1 de la presente Política de Privacidad, enviándonos un correo electrónico a support@meteo-parapente.com :
 
 -   **El derecho a la información** : tenemos la obligación de informarle cómo usamos sus Datos Personales (como se describe en esta política de privacidad).
 

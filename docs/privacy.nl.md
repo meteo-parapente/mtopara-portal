@@ -3,7 +3,7 @@ title: Privacybeleid
 ---
 # Privacybeleid en gebruik van persoonlijke gegevens
 
-*(14 oktober 2021)*
+*(24 januari 2024)
 
 > <p>Dit document is een machinevertaling van een officieel Frans document. Deze vertaling wordt verstrekt voor uw gemak. In geval van onduidelijkheid is het de [originele Franse versie](/fr/privacy/) die de bindende waarde heeft.</p>
 > <p>Als u een fout opmerkt in de vertaling, [laat het ons weten](translations.md)</p>
@@ -110,7 +110,7 @@ De Uitgever heeft eerder gezorgd voor de implementatie door haar dienstverleners
 
 ### Artikel 9 - IT-rechten en -vrijheden
 
-In overeenstemming met de wetgeving inzake de bescherming van persoonsgegevens, beschikt u over de onderstaande rechten die u kunt uitoefenen, zoals aangegeven in artikel 1 van dit privacybeleid, door ons te schrijven op het postadres Meteo-Parapente, 16 rue Alice Eynard, 73100 Aix-les-Bains of door een e-mail te sturen naar support@meteo-parapente.com:
+In overeenstemming met de wetgeving inzake de bescherming van Persoonsgegevens hebt u de hieronder beschreven rechten, die u kunt uitoefenen zoals aangegeven in artikel 1 van dit Privacybeleid door ons een e-mail te sturen naar support@meteo-parapente.com :
 
 -   **Het recht op informatie** : wij zijn verplicht u te informeren over hoe wij uw Persoonsgegevens gebruiken (zoals beschreven in dit privacybeleid).
 

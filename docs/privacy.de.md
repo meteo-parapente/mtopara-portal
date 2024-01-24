@@ -4,7 +4,7 @@ title: Datenschutzbestimmungen
 # Datenschutzrichtlinie und verwendung personenbezogener daten
 
 
-*(14. Oktober 2021)*
+*(24. Januar 2024)*
 
 > <p>Dieses Dokument ist eine maschinelle Übersetzung eines offiziellen französischen Dokuments. Diese Übersetzung wird zu Ihrem Nutzen bereitgestellt. Im Falle von Unklarheiten ist die [französische Originalfassung](/fr/privacy/) verbindlich.</p>
 <p>Wenn Sie einen Fehler in der Übersetzung bemerken, [bitte teilen Sie uns dies mit](translations.md)</p>
@@ -111,7 +111,7 @@ Der Herausgeber hat zuvor durch seine Dienstleister die Umsetzung angemessener G
 
 ### Artikel 9 - IT-Rechte und Freiheiten
 
-In Übereinstimmung mit den Gesetzen zum Schutz personenbezogener Daten haben Sie die unten aufgeführten Rechte, die Sie gemäß Artikel 1 dieser Datenschutzrichtlinie ausüben können, indem Sie uns an die Postanschrift Meteo-Parapente, 16 rue Alice Eynard, 73100 . schreiben Aix-les-Bains oder per E-Mail an support@meteo-parapente.com:
+Gemäß den Gesetzen zum Schutz personenbezogener Daten haben Sie die folgenden detaillierten Rechte, die Sie, wie in Artikel 1 dieser Datenschutzrichtlinie beschrieben, ausüben können, indem Sie uns eine E-Mail an support@meteo-parapente.com senden:
 
 -   **Das Recht auf Auskunft** : Wir sind verpflichtet, Sie darüber zu informieren, wie wir Ihre personenbezogenen Daten verwenden (wie in dieser Datenschutzerklärung beschrieben).
 

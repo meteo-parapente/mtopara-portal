@@ -3,7 +3,7 @@ title: Données personnelles
 ---
 # Politique de confidentialité et d'utilisation des données personnelles
 
-*(14 octobre 2021)*
+*(24 janvier 2024)*
 
 ### Définition des termes utilisés dans la Politique de confidentialité
 
@@ -107,7 +107,7 @@ l'Éditeur s'est préalablement assuré de la mise en œuvre par ses prestataire
 
 ### Article 9 - Droits informatiques et libertés
 
-Conformément à la législation sur la protection des Données personnelles, vous avez les droits détaillés ci-après que vous pouvez exercer, comme indiqué à l'Article 1 de la présente Politique de confidentialité en nous écrivant à l'adresse postale Meteo-Parapente, 16 rue Alice Eynard, 73100 Aix-les-Bains ou en envoyant un courriel à support@meteo-parapente.com :
+Conformément à la législation sur la protection des Données personnelles, vous avez les droits détaillés ci-après que vous pouvez exercer, comme indiqué à l'Article 1 de la présente Politique de confidentialité en nous en envoyant un courriel à support@meteo-parapente.com :
 
 -   **Le droit d'information** : nous avons l'obligation de vous informer de la manière dont nous utilisons vos Données personnelles (tel que décrit dans la présente politique de confidentialité).
 

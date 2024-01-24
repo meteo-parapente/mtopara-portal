@@ -3,7 +3,7 @@ title: Privacy policy
 ---
 # Privacy policy and use of personal data
 
-*(October 14, 2021)*
+*(January 24, 2024)*
 
 > <p>This document is a machine translation of an official French document. This translation is provided for your convenience. In case of any uncertainty, it is the [original French version](/fr/legal/) that has the binding value.</p>
 > <p>If you notice any error in the translation, [please let us know](translations.md)</p>
@@ -108,7 +108,7 @@ The Publisher has previously ensured the implementation by its service providers
 
 ### Article 9 - IT rights and freedoms
 
-In accordance with the legislation on the protection of Personal Data, you have the rights detailed below which you can exercise, as indicated in Article 1 of this Privacy Policy by writing to us at the postal address Meteo-Parapente, 16 rue Alice Eynard, 73100 Aix-les-Bains or by sending an email to support@meteo-parapente.com:
+In accordance with legislation on the protection of Personal Data, you have the rights detailed below, which you may exercise as indicated in Article 1 of this Privacy Policy by sending us an e-mail to support@meteo-parapente.com :
 
 -   **The right to information** : we have an obligation to inform you of how we use your Personal Data (as described in this privacy policy).
 
