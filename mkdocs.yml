@@ -25,15 +25,36 @@ theme:
 
 plugins:
   - i18n:
-      default_language: en
-      default_language_only: !ENV [ENGLISH_ONLY, false]
+      docs_structure: suffix
+      fallback_to_default: true
       languages:
-        en: English
-        fr: Français
-        de: Deutsch
-        it: Italiano
-        es: Español
-        nl: Nederlands
+        - build: true
+          default: true
+          locale: en
+          name: English
+        - build: true
+          default: false
+          locale: fr
+          name: Français
+        - build: true
+          default: false
+          locale: de
+          name: Deutsch
+        - build: true
+          default: false
+          locale: it
+          name: Italiano
+        - build: true
+          default: false
+          locale: es
+          name: Español
+        - build: true
+          default: false
+          locale: nl
+          name: Nederlands
+      reconfigure_material: true
+      reconfigure_search: true
+
   - search
   - exclude-search:
       exclude:
