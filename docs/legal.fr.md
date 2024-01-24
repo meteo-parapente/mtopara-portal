@@ -6,7 +6,7 @@
 
 <a id="information">&nbsp;</a>
 ## Mentions légales
-*(02 mars 2022)*
+*(24 janvier 2024)*
 
 Meteo-Parapente.com (« le Site ») ansi que les applications mobiles Meteo-Parapente (« les Applications »), désignés dans leur ensemble comme « Meteo-Parapente », sont édités par :
 
@@ -222,7 +222,7 @@ Conformément à l'article L612-1 du Code de la Consommation, l'Éditeur propose
 
 <a id="membership">&nbsp;</a>
 ## Conditions Spécifiques d'Abonnement
-*(02 mars 2022)*
+*(24 janvier 2024)*
 
 ### 1. Définitions
 
@@ -288,9 +288,9 @@ Les Accès (identifiant et mot de passe) de l'Abonné lui seront transmis par co
 
 ### 6. Partage d'identifiants
 
-Les Accès sont fournis à l'Abonné à titre strictement personnel. À ce titre, **ils sont confidentiels, et incessibles.** L'Abonné peut cependant les utiliser sur un ou plusieurs de ses propres appareils (ordinateur, tablette, mobile, ...).
+**Les Accès sont fournis à l'Abonné à titre strictement personnel. À ce titre, Ils sont confidentiels, et incessibles. L'Abonné peut cependant les utiliser sur un ou plusieurs de ses propres appareils (ordinateur, tablette, mobile, ...).**
 
-L'Abonné s'engage irrévocablement à ne pas partager ou diffuser ses Accès à des tiers. À ce titre, il reconnaît qu'un tel partage est constitutif d'une fraude aux droits de l'Éditeur.
+**L'Abonné s'engage irrévocablement à ne pas partager ou diffuser ses Accès à des tiers. À ce titre, il reconnaît qu'un tel partage est constitutif d'une fraude aux droits de l'Éditeur.**
 
 L'Abonné reconnaît exercer un contrôle total sur ses Accès, et ainsi être personnellement responsable vis-à-vis de l'Éditeur pour toute Utilisation Non Autorisée des Services Réservés, dans les conditions prévues au **b.** du présent article.
 
@@ -344,7 +344,7 @@ L'Éditeur rappelle que comme cela est prévu dans le cadre des Services Libres,
 
 L'accès aux Applications et leur utilisation sont soumises aux présentes Conditions Spécifiques, ainsi qu'aux CGU.
 
-### 9. Contribution et conditions de versement
+### 9. Contribution, conditions de versement et facturation
 
 La Contribution minimale applicable à l'Abonnement est celle affichée sur le Site au moment du versement.
 
@@ -357,6 +357,14 @@ Au moment du versement, l'Abonné atteste de l'exactitude du pays de résidence 
 L'Abonné peut effectuer le versement de la Contribution via les différents moyens de paiement proposés sur le site.
 
 Tout paiement effectué en ligne est entièrement sécurisé, l'ensemble de la transaction étant dirigé en mode crypté vers le serveur de validation bancaire géré par le partenaire de l'Éditeur. L'Éditeur se réserve le droit, à tout moment, de supprimer, suspendre ou modifier, l'une ou l'autre des solutions de paiement proposées.
+
+Sur la page suivant le paiement, l'Abonné sera invité à entrer ses informations personelles pour l'édition de la facture. L'Abonné doit s'assurer de l'exactitude des informations fournies avant validation du formulaire.
+
+Selon le lieu où se trouve l'Abonné, la facture est succeptible de contenir la TVA sur les services électroniques prévus par la directive 2006/112/CE. Le pays d'imposition est calculé conformément aux dispositions de cette directive.
+
+Si un Abonné assujeti à la TVA intracommunautaire souhaite procéder à un paiement hors-taxes, celui-ci doit contacter le support client pour obtenir un lien de paiement spécifique. Si cette procédure n'est pas suivie, l'Abonné assujeti se verra automatiquement facturer la TVA telle qu'indiquée au paragraphe précédent.
+
+**Pour des raisons légales, une fois la facture émise, il ne sera plus possible de modifier ses informations ou de changer le régime de TVA.**
 
 La contribution peut également être versée par un moyen hors-ligne, notamment via l'achat d'un code à usage unique chez un revendeur. Dès lors, ce sont les conditions de vente du revendeur s'appliquent à la transaction.
 

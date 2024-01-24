@@ -226,7 +226,7 @@ Overeenkomstig artikel L612-1 van de Consumentenwet biedt de Uitgever zijn gebru
 <a id="membership">&nbsp;</a>
 ## Specifieke abonnementsvoorwaarden
 
-*(02 maart 2022)*
+*(24 januari 2024)*
 
 > <p>Dit document is een machinevertaling van een officieel Frans document. Deze vertaling wordt verstrekt voor uw gemak. In geval van onduidelijkheid is het de [originele Franse versie](/fr/legal/) die de bindende waarde heeft.</p>
 > <p>Als u een fout opmerkt in de vertaling, [laat het ons weten](translations.md)</p>
@@ -295,9 +295,9 @@ De Toegang (gebruikersnaam en wachtwoord) van de Abonnee wordt hem onmiddellijk 
 
 ### 6. Inloggegevens delen
 
-Toegang wordt verleend aan de Abonnee op strikt persoonlijke basis. Als zodanig zijn **ze vertrouwelijk en niet overdraagbaar. **De Abonnee mag ze echter wel gebruiken op een of meer van zijn eigen toestellen (computer, tablet, mobiel, enz.).
+**Toegang wordt verleend aan de Abonnee op strikt persoonlijke basis. Als zodanig zijn ze vertrouwelijk en niet overdraagbaar. De Abonnee mag ze echter wel gebruiken op een of meer van zijn eigen toestellen (computer, tablet, mobiel, enz.).**
 
-De Abonnee stemt er onherroepelijk mee in zijn Toegang niet te delen of te distribueren aan derden. Als zodanig erkent hij dat dergelijk delen een fraude vormt met betrekking tot de rechten van de uitgever.
+**De Abonnee stemt er onherroepelijk mee in zijn Toegang niet te delen of te distribueren aan derden. Als zodanig erkent hij dat dergelijk delen een fraude vormt met betrekking tot de rechten van de uitgever.**
 
 De Abonnee erkent de volledige controle te hebben over zijn Toegang en dus persoonlijk aansprakelijk te zijn jegens de Uitgever voor elk Ongeautoriseerd Gebruik van de Gereserveerde Diensten, onder de voorwaarden bepaald in **b. **van dit artikel.
 
@@ -351,7 +351,7 @@ De Uitgever herinnert eraan dat, zoals voorzien in de context van Gratis Dienste
 
 De toegang tot de Applicaties en het gebruik ervan zijn onderworpen aan deze Specifieke Voorwaarden, evenals aan de AV.
 
-### 9. Bijdrage en betalingsvoorwaarden
+### 9. Bijdrage, betalingsvoorwaarden en facturering
 
 De minimale bijdrage die van toepassing is op het abonnement is de bijdrage die op de site wordt weergegeven op het moment van betaling.
 
@@ -364,6 +364,14 @@ Op het moment van betaling bevestigt de Abonnee dat het ingevoerde land van verb
 De Abonnee kan de Bijdrage betalen via de verschillende betaalmiddelen die op de site worden aangeboden.
 
 Elke online betaling is volledig veilig, de volledige transactie wordt in gecodeerde modus verzonden naar de bankvalidatieserver die wordt beheerd door de partner van de uitgever. De uitgever behoudt zich het recht voor om op elk moment een van de aangeboden betalingsoplossingen te verwijderen, op te schorten of te wijzigen.
+
+Op de pagina na betaling wordt de Abonnee gevraagd zijn/haar persoonlijke gegevens in te voeren om een factuur te ontvangen. De Abonnee moet zich ervan verzekeren dat de verstrekte informatie correct is voordat hij/zij het formulier valideert.
+
+Afhankelijk van de locatie van de Abonnee kan de factuur BTW bevatten op elektronische diensten zoals bepaald in Richtlijn 2006/112/EG. Het land van belastingheffing wordt berekend in overeenstemming met de bepalingen van deze richtlijn.
+
+Indien een Abonnee die onderworpen is aan intracommunautaire btw een belastingvrije betaling wil verrichten, dient hij contact op te nemen met de klantenservice om een specifieke betaallink te verkrijgen. Indien deze procedure niet wordt gevolgd, wordt de BTW-plichtige Abonnee automatisch BTW in rekening gebracht zoals aangegeven in de vorige paragraaf.
+
+**Om juridische redenen is het niet meer mogelijk om de informatie te wijzigen of de btw-regeling te wijzigen zodra de factuur is uitgereikt.**
 
 De bijdrage kan ook offline worden betaald, met name door een code voor eenmalig gebruik aan te schaffen bij een wederverkoper. Vanaf dat moment zijn de verkoopvoorwaarden van de wederverkoper van toepassing op de transactie.
 

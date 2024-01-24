@@ -225,7 +225,7 @@ In accordance with article L612-1 of the Consumer Code, the Publisher offers its
 <a id="membership">&nbsp;</a>
 ## Specific Conditions of Subscription
 
-*(March 02, 2022)*
+*(January 24, 2024)*
 
 > <p>This document is a machine translation of an official French document. This translation is provided for your convenience. In case of any uncertainty, it is the [original French version](/fr/legal/) that has the binding value.</p>
 > <p>If you notice any error in the translation, [please let us know](translations.md)</p>
@@ -294,9 +294,9 @@ The Access (username and password) of the Subscriber will be sent to him by emai
 
 ### 6. Sharing credentials
 
-Access is provided to the Subscriber on a strictly personal basis. As such, **they are confidential and non-transferable. **The Subscriber can however use them on one or more of his own devices (computer, tablet, mobile, etc.).
+**Access is provided to the Subscriber on a strictly personal basis. As such, they are confidential and non-transferable. The Subscriber can however use them on one or more of his own devices (computer, tablet, mobile, etc.).**
 
-The Subscriber irrevocably agrees not to share or distribute their Access to third parties. As such, he acknowledges that such sharing constitutes a fraud on the Publisher's rights.
+**The Subscriber irrevocably agrees not to share or distribute their Access to third parties. As such, he acknowledges that such sharing constitutes a fraud on the Publisher's rights.**
 
 The Subscriber acknowledges having full control over his Access, and thus being personally liable vis-à-vis the Publisher for any Unauthorized Use of the Reserved Services, under the conditions provided for in **b. **of this article.
 
@@ -350,7 +350,7 @@ The Publisher reminds that as provided for in the context of Free Services, the 
 
 Access to the Applications and their use are subject to these Specific Conditions, as well as to the T&Cs.
 
-### 9. Contribution and terms of payment
+### 9. Contribution, payment conditions and billing
 
 The Minimum Contribution applicable to the Subscription is that displayed on the Site at the time of payment.
 
@@ -363,6 +363,14 @@ At the time of payment, the Subscriber certifies that the country of residence e
 The Subscriber can make the payment of the Contribution via the various means of payment offered on the site.
 
 Any payment made online is completely secure, the entire transaction being sent in encrypted mode to the bank validation server managed by the Publisher's partner. The Publisher reserves the right, at any time, to delete, suspend or modify one or other of the payment solutions offered.
+
+On the page following payment, the Subscriber will be asked to enter his/her personal information in order to receive an invoice. The Subscriber must ensure that the information provided is correct before validating the form.
+
+Depending on the Subscriber's location, the invoice may contain VAT on electronic services in accordance with Directive 2006/112/EC. The country of taxation is calculated in accordance with the provisions of this directive.
+
+If a Subscriber subject to intra-Community VAT wishes to make a tax-free payment, he/she must contact customer support to obtain a specific payment link. If this procedure is not followed, the VAT-registered Subscriber will automatically be invoiced VAT as indicated in the previous paragraph.
+
+**For legal reasons, once the invoice has been issued, it will no longer be possible to modify the information or change the VAT regime.**
 
 The contribution can also be paid by an offline means, in particular by purchasing a single-use code from a reseller. From then on, it is the reseller's conditions of sale that apply to the transaction.
 

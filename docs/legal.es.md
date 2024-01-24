@@ -226,7 +226,7 @@ De conformidad con el artículo L612-1 del Código de Consumo, el Editor ofrece 
 <a id="membership">&nbsp;</a>
 ## Condiciones Específicas de Suscripción
 
-*(02 de marzo de 2022)*
+*(24 de enero de 2024)*
 
 > <p>Este documento es una traducción automática de un documento oficial francés. Esta traducción se proporciona para su comodidad. En caso de cualquier duda, es la [versión original en francés](/fr/legal/) la que tiene valor vinculante.</p>
 > <p>Si observa un error en la traducción, [háganoslo saber](translations.md)</p>
@@ -295,9 +295,9 @@ El Acceso (nombre de usuario y contraseña) del Suscriptor se le enviará por co
 
 ### 6. Compartir credenciales
 
-El acceso se proporciona al Suscriptor de forma estrictamente personal. Como tales, **son confidenciales e intransferibles. **No obstante, el Suscriptor podrá utilizarlos en uno o varios de sus propios dispositivos (ordenador, tableta, móvil, etc.).
+**El acceso se proporciona al Suscriptor de forma estrictamente personal. Como tales, son confidenciales e intransferibles. No obstante, el Suscriptor podrá utilizarlos en uno o varios de sus propios dispositivos (ordenador, tableta, móvil, etc.).**
 
-El Suscriptor se compromete irrevocablemente a no compartir ni distribuir su Acceso a terceros. Como tal, reconoce que tal intercambio constituye un fraude a los derechos del Editor.
+**El Suscriptor se compromete irrevocablemente a no compartir ni distribuir su Acceso a terceros. Como tal, reconoce que tal intercambio constituye un fraude a los derechos del Editor.**
 
 El Suscriptor reconoce tener pleno control sobre su Acceso y, por tanto, ser personalmente responsable frente al Editor de cualquier Uso no autorizado de los Servicios Reservados, en las condiciones previstas en **b. **de este artículo.
 
@@ -351,7 +351,7 @@ El Editor recuerda que, tal como se prevé en el contexto de los Servicios Gratu
 
 El acceso a las Aplicaciones y su uso están sujetos a las presentes Condiciones Particulares, así como a los T&C.
 
-### 9. Contribución y condiciones de pago
+### 9. Contribución, condiciones de pago y facturación
 
 La Contribución Mínima aplicable a la Suscripción es la que se muestra en el Sitio en el momento del pago.
 
@@ -364,6 +364,14 @@ En el momento del pago, el Suscriptor certifica que el país de residencia ingre
 El Suscriptor puede realizar el pago de la Aportación a través de los diversos medios de pago ofrecidos en el sitio.
 
 Cualquier pago realizado en línea es completamente seguro, toda la transacción se envía en modo encriptado al servidor de validación bancaria administrado por el socio del Editor. El Editor se reserva el derecho, en cualquier momento, de eliminar, suspender o modificar una u otra de las soluciones de pago ofrecidas.
+
+En la página siguiente al pago, se pedirá al Suscriptor que introduzca sus datos personales para recibir una factura. El Suscriptor debe asegurarse de que la información facilitada es correcta antes de validar el formulario.
+
+Dependiendo de la ubicación del Abonado, la factura puede contener el IVA sobre los servicios electrónicos previsto en la Directiva 2006/112/CE. El país de imposición se calcula de acuerdo con las disposiciones de esta directiva.
+
+Si un abonado sujeto al IVA intracomunitario desea efectuar un pago libre de impuestos, deberá ponerse en contacto con el servicio de atención al cliente para obtener un enlace de pago específico. Si no se sigue este procedimiento, se facturará automáticamente al Abonado sujeto al IVA el IVA indicado en el párrafo anterior.
+
+**Por razones legales, una vez emitida la factura, ya no será posible modificar la información ni cambiar el régimen de IVA.**
 
 La contribución también puede pagarse fuera de línea, en particular comprando un código de un solo uso a un revendedor. A partir de ese momento, son las condiciones de venta del revendedor las que se aplican a la transacción.
 

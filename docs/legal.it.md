@@ -227,7 +227,7 @@ Ai sensi dell'articolo L612-1 del Codice del Consumo, l'Editore offre ai propri 
 <a id="membership">&nbsp;</a>
 ## Condizioni di abbonamento specifiche
 
-*(02 marzo 2022)*
+*(24 gennaio 2024)*
 
 > <p>Questo documento è una traduzione automatica di un documento ufficiale francese. Questa traduzione è fornita per vostra comodità. In caso di incertezza, è la [versione originale francese](/fr/legal/) che ha valore vincolante.</p>
 > <p>Se noti un errore nella traduzione, [facci sapere](translations.md)</p>
@@ -296,9 +296,9 @@ L'Accesso (username e password) dell'Abbonato gli sarà inviato via email e via 
 
 ### 6. Condivisione delle credenziali
 
-L'accesso è fornito all'Abbonato su base strettamente personale. In quanto tali, **sono riservati e non trasferibili. **L'Abbonato potrà comunque utilizzarli su uno o più propri dispositivi (computer, tablet, cellulare, ecc.).
+**L'accesso è fornito all'Abbonato su base strettamente personale. In quanto tali, sono riservati e non trasferibili. L'Abbonato potrà comunque utilizzarli su uno o più propri dispositivi (computer, tablet, cellulare, ecc.).**
 
-L'Abbonato si impegna irrevocabilmente a non condividere o distribuire il proprio Accesso a terzi. In quanto tale, riconosce che tale condivisione costituisce una frode sui diritti dell'editore.
+**L'Abbonato si impegna irrevocabilmente a non condividere o distribuire il proprio Accesso a terzi. In quanto tale, riconosce che tale condivisione costituisce una frode sui diritti dell'editore.**
 
 L'Abbonato riconosce di avere il pieno controllo del proprio Accesso, e quindi di essere personalmente responsabile nei confronti dell'Editore per qualsiasi Uso Non Autorizzato dei Servizi Riservati, alle condizioni previste al **punto b. **di questo articolo.
 
@@ -352,7 +352,7 @@ L'Editore ricorda che, come previsto nell'ambito dei Servizi Gratuiti, la fornit
 
 L'accesso alle Applicazioni e il loro utilizzo sono soggetti alle presenti Condizioni Particolari, nonché ai T&C.
 
-### 9. Contributo e termini di pagamento
+### 9. Contributo, termini di pagamento e fatturazione
 
 Il Contributo Minimo applicabile all'Abbonamento è quello visualizzato sul Sito al momento del pagamento.
 
@@ -365,6 +365,14 @@ Al momento del pagamento, l'Abbonato attesta che il Paese di residenza inserito 
 L'Abbonato può effettuare il pagamento del Contributo attraverso i vari mezzi di pagamento offerti sul sito.
 
 Qualsiasi pagamento effettuato online è completamente sicuro, l'intera transazione viene inviata in modalità crittografata al server di convalida della banca gestito dal partner dell'editore. L'editore si riserva il diritto, in qualsiasi momento, di eliminare, sospendere o modificare l'una o l'altra delle soluzioni di pagamento offerte.
+
+Nella pagina successiva al pagamento, l'Abbonato dovrà inserire i propri dati personali per ricevere la fattura. L'Abbonato deve assicurarsi che le informazioni fornite siano corrette prima di convalidare il modulo.
+
+A seconda dell'ubicazione dell'Abbonato, la fattura può contenere l'IVA sui servizi elettronici, come previsto dalla Direttiva 2006/112/CE. Il paese di tassazione è calcolato in base alle disposizioni di questa direttiva.
+
+Se un Abbonato soggetto a IVA intracomunitaria desidera effettuare un pagamento in esenzione d'imposta, deve contattare l'assistenza clienti per ottenere un link di pagamento specifico. Se questa procedura non viene seguita, all'Abbonato con partita IVA verrà automaticamente fatturata l'IVA come indicato nel paragrafo precedente.
+
+**Per motivi legali, una volta emessa la fattura, non sarà più possibile modificare le informazioni o cambiare il regime IVA.**
 
 Il contributo può essere pagato anche offline, in particolare acquistando un codice monouso da un rivenditore. Da quel momento in poi, sono le condizioni di vendita del rivenditore che si applicano alla transazione.
 

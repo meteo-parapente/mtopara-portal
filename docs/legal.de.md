@@ -227,7 +227,7 @@ Gemäß Artikel L612-1 des Verbraucherschutzgesetzes bietet der Herausgeber sein
 <a id="membership">&nbsp;</a>
 ## Besondere Abonnementbedingungen
 
-*(02. März 2022)*
+*(24. Januar 2024)*
 
 > <p>Dieses Dokument ist eine maschinelle Übersetzung eines offiziellen französischen Dokuments. Diese Übersetzung wird zu Ihrem Nutzen bereitgestellt. Im Falle von Unklarheiten ist die [französische Originalfassung](/fr/legal/) verbindlich.</p>
 <p>Wenn Sie einen Fehler in der Übersetzung bemerken, [bitte teilen Sie uns dies mit](translations.md)</p>
@@ -296,9 +296,9 @@ Der Zugang (Benutzername und Passwort) des Abonnenten wird ihm per E-Mail und pe
 
 ### 6. Anmeldeinformationen teilen
 
-Der Zugang wird dem Abonnenten streng persönlich gewährt. Als solche sind **sie vertraulich und nicht übertragbar. **Der Abonnent kann sie jedoch auf einem oder mehreren seiner eigenen Geräte (Computer, Tablet, Handy usw.) verwenden.
+**Der Zugang wird dem Abonnenten streng persönlich gewährt. Als solche sind sie vertraulich und nicht übertragbar. Der Abonnent kann sie jedoch auf einem oder mehreren seiner eigenen Geräte (Computer, Tablet, Handy usw.) verwenden.**
 
-Der Abonnent stimmt unwiderruflich zu, seinen Zugang nicht an Dritte weiterzugeben oder zu verteilen. Als solcher erkennt er an, dass eine solche Weitergabe einen Betrug an den Rechten des Herausgebers darstellt.
+**Der Abonnent stimmt unwiderruflich zu, seinen Zugang nicht an Dritte weiterzugeben oder zu verteilen. Als solcher erkennt er an, dass eine solche Weitergabe einen Betrug an den Rechten des Herausgebers darstellt.**
 
 Der Abonnent erkennt an, die volle Kontrolle über seinen Zugang zu haben und somit persönlich gegenüber dem Herausgeber für jede unbefugte Nutzung der reservierten Dienste unter den in **b. **dieses Artikels.
 
@@ -352,7 +352,7 @@ Der Herausgeber erinnert daran, dass die Bereitstellung von Anwendungen durch de
 
 Der Zugriff auf die Anwendungen und ihre Nutzung unterliegen diesen Besonderen Bedingungen sowie den AGB.
 
-### 9. Beitrag und Zahlungsbedingungen
+### 9. Beitrag, Zahlungsbedingungen und Rechnungsstellung
 
 Der für das Abonnement geltende Mindestbeitrag ist derjenige, der zum Zeitpunkt der Zahlung auf der Website angezeigt wird.
 
@@ -365,6 +365,14 @@ Zum Zeitpunkt der Zahlung bestätigt der Abonnent, dass das eingegebene Wohnsitz
 Der Abonnent kann die Zahlung des Beitrags über die verschiedenen auf der Website angebotenen Zahlungsmittel vornehmen.
 
 Jede Online-Zahlung ist absolut sicher, da die gesamte Transaktion verschlüsselt an den vom Partner des Herausgebers verwalteten Bankvalidierungsserver gesendet wird. Der Herausgeber behält sich das Recht vor, die eine oder andere der angebotenen Zahlungslösungen jederzeit zu löschen, auszusetzen oder zu ändern.
+
+Auf der Seite, die auf die Zahlung folgt, wird der Abonnent aufgefordert, seine persönlichen Informationen zur Erstellung der Rechnung einzugeben. Der Abonnent muss sich vor der Bestätigung des Formulars vergewissern, dass die angegebenen Informationen korrekt sind.
+
+Je nachdem, wo sich der Abonnent befindet, kann die Rechnung Mehrwertsteuer auf elektronische Dienstleistungen enthalten, die in der Richtlinie 2006/112/EG vorgesehen ist. Das Land der Besteuerung wird gemäß den Bestimmungen dieser Richtlinie berechnet.
+
+Wenn ein Abonnent, der der innergemeinschaftlichen Mehrwertsteuer unterliegt, eine steuerfreie Zahlung vornehmen möchte, muss er sich mit dem Kundensupport in Verbindung setzen, um einen speziellen Zahlungslink zu erhalten. Wird dieses Verfahren nicht befolgt, wird dem steuerpflichtigen Abonnenten automatisch die Umsatzsteuer wie im vorherigen Absatz angegeben in Rechnung gestellt.
+
+**Aus rechtlichen Gründen ist es nach Ausstellung der Rechnung nicht mehr möglich, seine Angaben zu ändern oder die Mehrwertsteuerregelung zu wechseln.**
 
 Der Beitrag kann auch offline entrichtet werden, insbesondere durch Erwerb eines Einmalcodes bei einem Wiederverkäufer. Von da an gelten für die Transaktion die Verkaufsbedingungen des Wiederverkäufers.
 
