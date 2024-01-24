@@ -34,10 +34,17 @@
   <!-- Generator banner -->
   <meta
     name="generator"
-    content="mkdocs-1.2.3, $md-name$-$md-version$"
+    content="mkdocs-1.5.3, $md-name$-$md-version$"
   />
   
   <!-- Social preview -->
+  
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Win de paraglidervleugel naar keuze!" />
+    <meta property="og:description" content="Abonneer u op Meteo-Parapente voor 30 maart" />
+    
+      <meta property="og:image" content="https://portal.meteo-parapente.com/img/voile.png" />
+    
   
 
     
@@ -134,7 +141,7 @@
 
     <!-- Link to home -->
     <!--<a
-      href="../../.."
+      href="../../"
       title="Meteo-Parapente"
       class="md-header__button md-logo"
       aria-label="Meteo-Parapente"
@@ -196,12 +203,34 @@
                 
                 <li class="md-select__item">
                   <a
+                    href="../../../fr/users/contribute/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
                     href="../../../de/users/contribute/"
                     hreflang="de"
                     class="md-select__link lang-link"
                   >
                     <img src="/img/flag/de.svg" style="width: 24px;"/>
                     Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../it/users/contribute/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
                   </a>
                 </li>
                 
@@ -218,34 +247,12 @@
                 
                 <li class="md-select__item">
                   <a
-                    href="../../../fr/users/contribute/"
-                    hreflang="fr"
-                    class="md-select__link lang-link"
-                  >
-                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
-                    Français
-                  </a>
-                </li>
-                
-                <li class="md-select__item">
-                  <a
                     href="./"
                     hreflang="nl"
                     class="md-select__link lang-link"
                   >
                     <img src="/img/flag/nl.svg" style="width: 24px;"/>
                     Nederlands
-                  </a>
-                </li>
-                
-                <li class="md-select__item">
-                  <a
-                    href="../../../it/users/contribute/"
-                    hreflang="it"
-                    class="md-select__link lang-link"
-                  >
-                    <img src="/img/flag/it.svg" style="width: 24px;"/>
-                    Italiano
                   </a>
                 </li>
                 
@@ -266,11 +273,7 @@
     
 
     <!-- Repository information -->
-    <!--
-      <div class="md-header__source">
-        
-      </div>
-    -->
+    <!---->
   </nav>
 
   <!-- Navigation tabs (sticky) -->
@@ -299,7 +302,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="../../.." title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
+    <a href="../../" title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
@@ -307,10 +310,6 @@
     </a>
     Meteo-Parapente
   </label>
-  
-    <div class="md-nav__source">
-      
-    </div>
   
   <ul class="md-nav__list" data-md-scrollfix>
     
@@ -587,6 +586,19 @@
 <p>👋 <a href="/nl/about-us/" target="_blank">Ontdek wie we zijn</a></p>
 </li>
 </ul>
+<div style="border-left: 2px #303fa1 effen; padding-left: 10px; color: #303fa1;">
+<h3>Een paraglidervleugel te winnen!</h3>
+
+<p><strong>Om 10 jaar Meteo-Parapente te vieren, organiseren we een grote wedstrijd.</strong></p>
+
+<p><strong>Win de vleugel van uw keuze, uit de <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">Solo SUPAIR-reeks</a>.</strong></p>
+
+<p><strong>Als u wilt deelnemen aan de trekking, hoeft u zich alleen vóór 30 maart in te schrijven.</strong></p>
+
+<p>Vlieg je nog niet? Je kunt ruilen voor een initiatiecursus van een week.</strong></p>
+
+<p><a href="/nl/10years/">Bekijk details en regels ►</a></p>
+</div>
 <p><br></p>
 <script>
   const mp_form_locale = {
@@ -648,7 +660,7 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../../..", "features": [], "translations": {"clipboard.copy": "Kopi\u00ebren naar klembord", "clipboard.copied": "Gekopieerd naar klembord", "search.config.lang": "nl", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Zoeken", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../../assets/javascripts/workers/search.fcfe8b6d.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.config.lang": "nl", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Zoeken", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
     
     
   
@@ -664,6 +676,22 @@
       <script src="/js/contribute.js"></script>
     
   
+  <script>
+    if (window.location.search.includes('from=app')) {
+      document.querySelectorAll('a[href$="users/contribute/"]')
+      .forEach(link => link.parentNode.remove());
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+        if (link.href.includes('?')) {
+          if (!link.href.includes('from=app')) {
+            link.href += '&from=app';
+          }
+        } else {
+          link.href += '?from=app';
+        }
+      });
+    }
+  </script>
 
   </body>
 </html>

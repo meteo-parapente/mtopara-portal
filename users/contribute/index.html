@@ -34,10 +34,17 @@
   <!-- Generator banner -->
   <meta
     name="generator"
-    content="mkdocs-1.2.3, $md-name$-$md-version$"
+    content="mkdocs-1.5.3, $md-name$-$md-version$"
   />
   
   <!-- Social preview -->
+  
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Win the paraglider wing of your choice!" />
+    <meta property="og:description" content="Subscribe to Meteo-Parapente before March 30" />
+    
+      <meta property="og:image" content="https://portal.meteo-parapente.com/img/voile.png" />
+    
   
 
     
@@ -196,12 +203,34 @@
                 
                 <li class="md-select__item">
                   <a
+                    href="../../fr/users/contribute/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
                     href="../../de/users/contribute/"
                     hreflang="de"
                     class="md-select__link lang-link"
                   >
                     <img src="/img/flag/de.svg" style="width: 24px;"/>
                     Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../it/users/contribute/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
                   </a>
                 </li>
                 
@@ -218,34 +247,12 @@
                 
                 <li class="md-select__item">
                   <a
-                    href="../../fr/users/contribute/"
-                    hreflang="fr"
-                    class="md-select__link lang-link"
-                  >
-                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
-                    Français
-                  </a>
-                </li>
-                
-                <li class="md-select__item">
-                  <a
                     href="../../nl/users/contribute/"
                     hreflang="nl"
                     class="md-select__link lang-link"
                   >
                     <img src="/img/flag/nl.svg" style="width: 24px;"/>
                     Nederlands
-                  </a>
-                </li>
-                
-                <li class="md-select__item">
-                  <a
-                    href="../../it/users/contribute/"
-                    hreflang="it"
-                    class="md-select__link lang-link"
-                  >
-                    <img src="/img/flag/it.svg" style="width: 24px;"/>
-                    Italiano
                   </a>
                 </li>
                 
@@ -266,11 +273,7 @@
     
 
     <!-- Repository information -->
-    <!--
-      <div class="md-header__source">
-        
-      </div>
-    -->
+    <!---->
   </nav>
 
   <!-- Navigation tabs (sticky) -->
@@ -307,10 +310,6 @@
     </a>
     Meteo-Parapente
   </label>
-  
-    <div class="md-nav__source">
-      
-    </div>
   
   <ul class="md-nav__list" data-md-scrollfix>
     
@@ -587,6 +586,19 @@
 <p>👋 <a href="/about-us/" target="_blank">Discover who we are</a></p>
 </li>
 </ul>
+<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
+<h3>A paraglider wing to be won!</h3>
+
+<p><strong>To celebrate 10 years of Meteo-Parapente, we are organizing a big contest.</strong></p>
+
+<p><strong>Win the paraglider of your choice, from the <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">SUPAIR solo line</a>.</strong></p>
+
+<p><strong>To participate in the draw, all you have to do is subscribe before March 30.</strong></p>
+
+<p>Not flying yet? You can exchange for a one-week initiation course.</strong></p>
+
+<p><a href="/10years/">See details and rules ►</a></p>
+</div>
 <p><br></p>
 <script>
   const mp_form_locale = {
@@ -648,7 +660,7 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "search": "../../assets/javascripts/workers/search.fcfe8b6d.min.js", "version": null}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
     
     
   
@@ -664,6 +676,22 @@
       <script src="/js/contribute.js"></script>
     
   
+  <script>
+    if (window.location.search.includes('from=app')) {
+      document.querySelectorAll('a[href$="users/contribute/"]')
+      .forEach(link => link.parentNode.remove());
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+        if (link.href.includes('?')) {
+          if (!link.href.includes('from=app')) {
+            link.href += '&from=app';
+          }
+        } else {
+          link.href += '?from=app';
+        }
+      });
+    }
+  </script>
 
   </body>
 </html>
