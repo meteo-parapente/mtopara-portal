@@ -10,10 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Abbonati
-og:
-  title: Vinci la vela da parapendio di tua scelta!
-  description: Iscriversi a Meteo-Parapente entro il 30 marzo
-  image: https://portal.meteo-parapente.com/img/voile.png
+#og:
+#  title: Vinci la vela da parapendio di tua scelta!
+#  description: Iscriversi a Meteo-Parapente entro il 30 marzo
+#  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abbonarsi a Meteo-Parapente
@@ -27,21 +27,6 @@ og:
 - Incontrami una volta al mese per discutere di nuove funzionalità e miglioramenti
 
 - 👋 <a href="/it/about-us/" target="_blank">Scopri chi siamo</a>
-
-<div style="border-left: 2px #303fa1 solid; padding-left: 10px; color: #303fa1;">
-<h3>Una vela da parapendio da vincere!</h3>
-
-<p><strong>Per celebrare i 10 anni di Meteo-Parapente, stiamo organizzando un grande concorso.</strong></p>
-
-<p><strong>Vinci la vela a tua scelta, dalla <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamma SUPAIR da solista</a>.</strong></p>
-
-<p><strong>Per partecipare all'estrazione è sufficiente iscriversi entro il 30 marzo.</strong></p>
-
-<p>Non sei ancora in volo? Puoi scambiare con un corso di iniziazione di una settimana.</strong></p>
-
-<p><a href="/it/10years/">Vedi dettagli e regole ►</a></p>
-</div>
-<br>
 
 <script>
   const mp_form_locale = {

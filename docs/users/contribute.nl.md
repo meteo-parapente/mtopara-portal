@@ -10,10 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: Abonneren
-og:
-  title: Win de paraglidervleugel naar keuze!
-  description: Abonneer u op Meteo-Parapente voor 30 maart
-  image: https://portal.meteo-parapente.com/img/voile.png
+#og:
+#  title: Win de paraglidervleugel naar keuze!
+#  description: Abonneer u op Meteo-Parapente voor 30 maart
+#  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abonneren op Meteo-Parapente
@@ -27,21 +27,6 @@ og:
 - Ontmoet me één keer per maand om nieuwe functies en verbeteringen te bespreken
 
 - 👋 <a href="/nl/about-us/" target="_blank">Ontdek wie we zijn</a>
-
-<div style="border-left: 2px #303fa1 effen; padding-left: 10px; color: #303fa1;">
-<h3>Een paraglidervleugel te winnen!</h3>
-
-<p><strong>Om 10 jaar Meteo-Parapente te vieren, organiseren we een grote wedstrijd.</strong></p>
-
-<p><strong>Win de vleugel van uw keuze, uit de <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">Solo SUPAIR-reeks</a>.</strong></p>
-
-<p><strong>Als u wilt deelnemen aan de trekking, hoeft u zich alleen vóór 30 maart in te schrijven.</strong></p>
-
-<p>Vlieg je nog niet? Je kunt ruilen voor een initiatiecursus van een week.</strong></p>
-
-<p><a href="/nl/10years/">Bekijk details en regels ►</a></p>
-</div>
-<br>
 
 <script>
   const mp_form_locale = {

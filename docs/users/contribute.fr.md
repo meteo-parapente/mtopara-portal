@@ -10,10 +10,10 @@ extra_javascript:
   - /js/vendors.js
   - /js/contribute.js
 title: S'abonner
-og:
-  title: Gagnez l'aile de parapente de votre choix !
-  description: En vous abonnant à Météo-Parapente avant le 30 mars
-  image: https://portal.meteo-parapente.com/img/voile.png
+#og:
+#  title: Gagnez l'aile de parapente de votre choix !
+#  description: En vous abonnant à Météo-Parapente avant le 30 mars
+#  image: https://portal.meteo-parapente.com/img/voile.png
 ---
 
 # Abonnez-vous à Meteo-Parapente !</span>
@@ -28,20 +28,6 @@ og:
 
 - 👋 <a href="/fr/about-us/" target="_blank">Découvrez qui nous sommes</a>
 
-<div style="border-left : 2px #303fa1 solid; padding-left : 10px; color: #303fa1;">
-<h3>Une voile de parapente à gagner !</h3>
-
-<p><strong>Pour fêter les 10 ans de Météo-Parapente, nous organisons un grand concours.</strong></p>
-
-<p><strong>Gagnez la voile de votre choix, parmi la <a href="https://www.supair.com/voiles/#category_id_160" target="_blank">gamme Solo SUPAIR</a>.</strong></p>
-
-<p><strong>Pour participer au tirage au sort, il vous suffit de vous inscrire avant le 30 mars.</strong></p>
-
-<p>Vous ne volez pas encore ? Vous pouvez échanger contre un stage d'initiation d'une semaine.</strong></p>
-
-<p><a href="/fr/10years/">Voir les détails et les règles ►</a></p>
-</div>
-<br> 
 
 <script>
   const mp_form_locale = {
