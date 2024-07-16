@@ -34,7 +34,7 @@ Bien sûr, la fiabilité des prévisions diminue avec le temps. La haute résolu
 
 Le modèle est mis à jour 4 fois par jour.
 
-Voici les heures approximatives où les mise à jour sont disponibles :
+Voici les heures approximatives où les mises à jour sont disponibles :
 
 (Heure d'été d'Europe centrale, UTC+2. Enlevez 1h en hiver).
 
