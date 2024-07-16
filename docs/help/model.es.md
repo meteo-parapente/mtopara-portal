@@ -22,7 +22,7 @@ El área de alta resolución cubre una gran parte de Europa, desde Portugal hast
 
 El área de resolución media (7,5 km) se extiende desde las Islas Canarias hasta Islandia, y desde Libia hasta Moscú y San Petersburgo.
 
-### Visibilidad Hasta 5 Días
+### Visibilidad Hasta 5 Días (nuevo ✨)
 
 Los modelos nacionales disponibles en otras aplicaciones, como AROME o ICON, están limitados a 48 horas. Más allá de eso, es necesario consultar los modelos globales de baja resolución, que no captan detalles locales como valles o costas.
 

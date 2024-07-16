@@ -22,7 +22,7 @@ Das hochauflösende Gebiet umfasst einen großen Teil Europas, von Portugal bis 
 
 Das mittelauflösende Gebiet (7,5 km) erstreckt sich von den Kanarischen Inseln bis nach Island und von Libyen bis nach Moskau und Sankt Petersburg.
 
-### Sichtbarkeit bis zu 5 Tagen
+### Sichtbarkeit bis zu 5 Tagen (neu ✨)
 
 Nationale Modelle, die in anderen Anwendungen verfügbar sind, wie AROME oder ICON, sind auf 48 Stunden begrenzt. Darüber hinaus müssen globale Modelle mit niedriger Auflösung konsultiert werden, die lokale Details wie Täler oder Küstenlinien nicht erfassen.
 

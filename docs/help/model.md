@@ -22,7 +22,7 @@ The high-resolution area covers a large part of Europe, from Portugal to the Bri
 
 The medium-resolution area (7.5 km) extends from the Canary Islands to Iceland, and from Libya to Moscow and Saint Petersburg.
 
-### Visibility up to 5 Days
+### Visibility up to 5 Days (new ✨)
 
 National models available in other applications, such as AROME or ICON, are limited to 48 hours. Beyond that, global low-resolution models must be consulted, which do not capture local details like valleys or coastlines.
 

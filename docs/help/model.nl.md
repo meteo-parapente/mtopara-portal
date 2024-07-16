@@ -22,7 +22,7 @@ Het hoog-resolutiegebied bestrijkt een groot deel van Europa, van Portugal tot d
 
 Het middel-resolutiegebied (7,5 km) strekt zich uit van de Canarische Eilanden tot IJsland, en van Libië tot Moskou en Sint-Petersburg.
 
-### Zichtbaarheid Tot 5 Dagen
+### Zichtbaarheid Tot 5 Dagen (nieuw ✨)
 
 Nationale modellen beschikbaar in andere applicaties, zoals AROME of ICON, zijn beperkt tot 48 uur. Daarbuiten moeten globale modellen met lage resolutie worden geraadpleegd, die lokale details zoals valleien of kustlijnen niet vastleggen.
 
