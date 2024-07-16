@@ -16,18 +16,19 @@ Tenía instaladas cuatro líneas ADSL para conseguir un ancho de banda suficient
 
 ### Ahora
 
-Gracias a vuestras aportaciones, he podido multiplicar la potencia de cálculo por 33 veces respecto al principio.
-![2021 setup](/img/computing-power-evolution.png)
+Gracias a vuestras contribuciones, he podido multiplicar exponencialmente la potencia de cálculo.
 
-Esta nueva potencia de cálculo ha permitido ampliar la cobertura geográfica, elaborar las previsiones con varios días de antelación y mejorar la calidad de las predicciones con una resolución más fina y muchos más datos de entrada.
+Esto me ha permitido ampliar la cobertura geográfica, elaborar previsiones con varios días de antelación y mejorar la calidad de las previsiones con una resolución más fina y muchos más datos de entrada.
 
-Ahora los cálculos se realizan en un (pequeño) superordenador dedicado 24 horas al día a las previsiones de Meteo-Parapente. Este superordenador está alojado en un centro de datos real en París.
+Ahora disponemos de un superordenador completo en nuestro propio centro de cálculo.
 
-![2021 setup](/img/calculator-2021.jpg)
+Le ofrecemos un modelo único, a diferencia de otras aplicaciones que muestran modelos de centros nacionales (AROME, ICON, etc.).
 
-Es mucho más profesional que antes. Pero ten en cuenta que Meteo-Parapente sigue siendo un sitio web "artesanal" hecho en casa. Estoy solo para gestionar una enorme infraestructura informática. No soy Google, así que por favor perdonen cuando haya pequeños contratiempos. Como un buen vino, va mejorando con el tiempo 😉 .
+Más información en la siguiente página: [El modelo Meteo-Parapente](help/model.md)
 
-## El increíble equipo
+En cualquier caso, no lo olvides: Meteo-Parapente sigue siendo un sitio casero. Soy el único que gestiona una enorme infraestructura informática. No soy Google, así que por favor perdona cualquier pequeño contratiempo.
+
+## El increíble equipo familiar
 
 ![Nicolas](/img/nicolas.jpg){ align=left }
 
@@ -36,6 +37,8 @@ Es mucho más profesional que antes. Pero ten en cuenta que Meteo-Parapente sigu
 Piloto de parapente e instructor de vela, siempre he sido adicto al viento. Soy un programador informático autodidacta. Este doble interés por el viento y la codificación me llevó naturalmente a fundar Meteo-Parapente, en 2012. En ese momento tenía 21 años.
 
 He desempeñado un papel importante en la [apertura](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) de los datos del modelo Météo-France. Por este trabajo recibí el premio Dataconnexions de [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) y fui nominado [como Pionero de los Datos Abiertos](https://web.archive.org/web/20141107181214/http://summit.theodi.org/awards/) por el Open Data Institute.
+
+También soy el presidente de la Federación Francesa de Actores y Usuarios de la Meteorología.
 
 Como experto reconocido en datos meteorológicos, ofrezco consultoría y servicios a grandes empresas como Engie, Total, Renault, Windy, Windguru...
 

@@ -16,18 +16,19 @@ Ik had vier ADSL-lijnen geïnstalleerd om voldoende bandbreedte te krijgen, en e
 
 ### Nu
 
-Dankzij uw bijdragen kon ik de rekenkracht 33 keer zo groot maken als in het begin.
-2021 setup](/img/computing-power-evolution.png)
+Dankzij jullie bijdragen heb ik de rekenkracht exponentieel kunnen vergroten.
 
-Deze nieuwe rekenkracht maakte het mogelijk de geografische dekking uit te breiden, de voorspellingen voor meerdere dagen vooruit te produceren en de kwaliteit van de voorspellingen te verbeteren met een fijnere resolutie en veel meer invoergegevens.
+Hierdoor kon ik de geografische dekking uitbreiden, voorspellingen meerdere dagen vooruit produceren en de kwaliteit van de voorspellingen verbeteren met een fijnere resolutie en veel meer invoergegevens.
 
-De berekeningen worden nu uitgevoerd op een (kleine) supercomputer die 24 uur per dag voor de voorspellingen van Meteo-Parapente wordt gebruikt. Deze supercomputer wordt gehost in een echt datacentrum in Parijs.
+We hebben nu een volwaardige supercomputer in ons eigen rekencentrum.
 
-![2021 setup](/img/calculator-2021.jpg)
+We bieden je een model dat uniek is, in tegenstelling tot andere toepassingen die modellen van nationale centra weergeven (AROME, ICON, enz.).
 
-Het is veel professioneler dan voorheen. Maar houd in gedachten dat Meteo-Parapente nog steeds een zelfgemaakte "ambachtelijke" website is. Ik ben alleen om een enorme computer infrastructuur te beheren. Ik ben Google niet, dus vergeef me als er kleine haperingen zijn. Net als een goede wijn, wordt hij met de tijd steeds beter 😉
+Lees meer op de volgende pagina: [Het Meteo-Parapente-model](help/model.md)
 
-## Het geweldige team
+Vergeet in ieder geval niet: Meteo-Parapente blijft een zelfgemaakte site. Ik ben de enige die een enorme IT-infrastructuur beheert. Ik ben Google niet, dus vergeef me eventuele kleine haperingen.
+
+## Het geweldige familieteam
 
 ![Nicolas](/img/nicolas.jpg){ align=left }
 
@@ -36,6 +37,8 @@ Het is veel professioneler dan voorheen. Maar houd in gedachten dat Meteo-Parape
 Paraglider piloot en zeilinstructeur, ik ben altijd verslaafd geweest aan de wind. Ik ben een autodidact computer programmeur. Deze dubbele interesse in wind en codering natuurlijk leidde me naar Meteo-Parapente gevonden, in 2012. Ik was toen 21 jaar.
 
 Ik heb een belangrijke rol gespeeld bij de [opening](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) van de modelgegevens van Météo-France. Voor dit werk ontving ik de Dataconnexions award van [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) en werd ik aangewezen [als Open Data Pioneer](https://web.archive.org/web/20141107181214/http://summit.theodi.org/awards/) door het Open Data Institute.
+
+Ik ben ook de voorzitter van de Franse Federatie van Belanghebbenden en Gebruikers van de Meteorologie.
 
 Als erkend expert in meteorologische gegevens, lever ik consultancy en diensten aan grote bedrijven zoals Engie, Total, Renault, Windy, Windguru...
 

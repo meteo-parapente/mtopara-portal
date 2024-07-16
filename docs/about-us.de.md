@@ -16,18 +16,19 @@ Ich hatte vier ADSL-Leitungen installiert, um eine ausreichende Bandbreite zu er
 
 ### Jetzt...
 
-Dank Ihrer Beiträge konnte ich die Rechenleistung im Vergleich zum Anfang um das 33-fache steigern.
-![2021 setup](/img/computing-power-evolution.png)
+Dank Ihrer Beiträge konnte ich die Rechenleistung exponentiell vervielfachen.
 
-Diese neue Rechenleistung ermöglichte es, die geografische Abdeckung zu erweitern, die Vorhersagen für mehrere Tage im Voraus zu erstellen und die Qualität der Vorhersagen durch eine feinere Auflösung und viel mehr Eingabedaten zu verbessern.
+Dadurch konnte ich die geografische Abdeckung erweitern, Vorhersagen für mehrere Tage im Voraus erstellen und die Qualität der Vorhersagen mit einer feineren Auflösung und viel mehr Eingabedaten verbessern.
 
-Jetzt laufen die Berechnungen auf einem (kleinen) Supercomputer, der rund um die Uhr für die Vorhersagen von Meteo-Parapente eingesetzt wird. Dieser Supercomputer ist in einem echten Rechenzentrum in Paris untergebracht.
+Wir verfügen nun über einen echten Supercomputer in unserem eigenen Rechenzentrum.
 
-![2021 setup](/img/calculator-2021.jpg)
+Wir bieten Ihnen ein einzigartiges Modell an, im Gegensatz zu anderen Anwendungen, die die Modelle der nationalen Zentren anzeigen (AROME, ICON...).
 
-Er ist viel professioneller als früher. Aber bedenken Sie, dass Meteo-Parapente immer noch eine selbstgemachte "handwerkliche" Website ist. Ich bin allein, um eine riesige Computer-Infrastruktur zu verwalten. Ich bin nicht Google, also verzeihen Sie bitte, wenn es kleine Probleme gibt. Wie ein guter Wein, wird es mit der Zeit immer besser 😉 .
+Mehr dazu erfahren Sie auf der nächsten Seite: [Das Modell von Meteo-Parapente](help/model.md).
 
-## Das erstaunliche Team
+In jedem Fall sollten Sie daran denken: Meteo-Parapente bleibt eine handwerkliche Seite. Ich bin der einzige, der eine riesige IT-Infrastruktur verwaltet. Ich bin nicht Google, also verzeihen Sie kleine Hänger.
+
+## Das erstaunliche Familienteam
 
 ![Nicolas](/img/nicolas.jpg){ align=left }
 
@@ -36,6 +37,8 @@ Er ist viel professioneller als früher. Aber bedenken Sie, dass Meteo-Parapente
 Als Gleitschirmflieger und Segellehrer war ich schon immer süchtig nach dem Wind. Ich bin ein autodidaktischer Computerprogrammierer. Dieses doppelte Interesse am Wind und am Programmieren hat mich natürlich dazu gebracht, 2012 Meteo-Parapente zu gründen. Zu diesem Zeitpunkt war ich 21 Jahre alt.
 
 Ich habe eine wichtige Rolle bei der [Eröffnung](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) der Météo-France-Modelldaten gespielt. Für diese Arbeit wurde ich mit dem Dataconnexions-Preis von [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) ausgezeichnet und vom Open Data Institute [als Open Data Pioneer](https://web.archive.org/web/20141107181214/http://summit.theodi.org/awards/) nominiert.
+
+Ich bin auch der Präsident der Französischen Föderation der Akteure und Nutzer der Meteorologie.
 
 Als anerkannter Experte für meteorologische Daten biete ich Beratung und Dienstleistungen für große Unternehmen wie Engie, Total, Renault, Windy, Windguru...
 

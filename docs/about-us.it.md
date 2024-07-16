@@ -16,18 +16,19 @@ Avevo quattro linee ADSL installate per avere abbastanza larghezza di banda, e u
 
 ### Ora
 
-Grazie ai vostri contributi, ho potuto moltiplicare la potenza di calcolo di 33 volte rispetto all'inizio.
-2021 setup](/img/computing-power-evolution.png)
+Grazie ai vostri contributi, ho potuto moltiplicare la potenza di calcolo in modo esponenziale.
 
-Questa nuova potenza di calcolo ha permesso di estendere la copertura geografica, produrre le previsioni per diversi giorni avanti e migliorare la qualità delle previsioni con una risoluzione più fine e molti più dati di input.
+Questo mi ha permesso di estendere la copertura geografica, di produrre previsioni con diversi giorni di anticipo e di migliorare la qualità delle previsioni con una risoluzione più fine e un numero maggiore di dati di input.
 
-Ora i calcoli vengono eseguiti su un (piccolo) supercomputer dedicato 24h/24 alle previsioni di Meteo-Parapente. Questo supercomputer è ospitato in un vero e proprio datacenter a Parigi.
+Ora disponiamo di un vero e proprio supercomputer nel nostro centro di calcolo.
 
-![2021 setup](/img/calculator-2021.jpg)
+Vi offriamo un modello unico, a differenza di altre applicazioni che visualizzano modelli provenienti da centri nazionali (AROME, ICON, ecc.).
 
-È molto più professionale di prima. Ma tenete presente che Meteo-Parapente è ancora un sito "artigianale" fatto in casa. Sono solo a gestire un'enorme infrastruttura informatica. Non sono Google, quindi vi prego di perdonare quando ci sono piccoli intoppi. Come un buon vino, sta migliorando con il tempo 😉
+Per saperne di più, consultare la pagina seguente: [Il modello Meteo-Parapente](help/model.md)
 
-## Il fantastico team
+In ogni caso, non dimenticate: Meteo-Parapente rimane un sito fatto in casa. Sono l'unico a gestire un'enorme infrastruttura informatica. Non sono Google, quindi perdonate eventuali piccoli intoppi.
+
+## Il fantastico team della famiglia
 
 ![Nicolas](/img/nicolas.jpg){ align=left }
 
@@ -37,6 +38,8 @@ Pilota di parapendio e istruttore di vela, sono sempre stato dipendente dal vent
 
 Ho avuto un ruolo importante nell'[apertura](https://blog.bacpluszero.com/2014/06/comment-jai-failli-faire-doubler-le.html) dei dati del modello Météo-France. Per questo lavoro, ho ricevuto il premio Dataconnexions da [Etalab](https://www.etalab.gouv.fr/qui-sommes-nous) e sono stato designato [come Open Data Pioneer](https://web.archive.org/web/20141107181214/http://summit.theodi.org/awards/) dall'Open Data Institute.
 
+Sono anche il presidente della Federazione Francese degli Attori e degli Utenti della Meteorologia.
+ 
 Come esperto riconosciuto di dati meteorologici, fornisco consulenze e servizi a grandi aziende come Engie, Total, Renault, Windy, Windguru...
 
 <div style="clear: both"></div>
