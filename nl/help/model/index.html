@@ -1,0 +1,1039 @@
+
+<!doctype html>
+<html lang="nl" class="no-js">
+  <head>
+    
+  <script src="/js/mpdb.js"></script>
+
+  <meta charset="utf-8" />
+  <!--<meta name="viewport" content="width=device-width,initial-scale=1" />-->
+
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width,height=device-height">
+
+  <!-- Page description -->
+  
+    <meta name="description" content="Documentation for Meteo-Parapente" />
+  
+
+  <!-- Page keywords -->
+  
+
+  <!-- Page author -->
+  
+    <meta name="author" content="Meteo-Parapente" />
+  
+
+  <!-- Canonical -->
+  
+    <link rel="canonical" href="https://portal.meteo-parapente.com/nl/help/model/" />
+  
+
+  <!-- Favicon -->
+  <link rel="icon" href="../../../img/favicon.png" />
+
+  <!-- Generator banner -->
+  <meta
+    name="generator"
+    content="mkdocs-1.5.3, $md-name$-$md-version$"
+  />
+  
+  <!-- Social preview -->
+  
+
+    
+      
+        <title>Het Meteo-Parapente Model ✨ - Meteo-Parapente</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.a57b2b03.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+  <link rel="stylesheet" href="/css/fonts/roboto.css">
+  <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+
+    
+    
+    
+      
+
+
+    
+    
+  
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#het-meteo-parapente-model" class="md-skip">
+          Ga naar inhoud
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Determine class according to configuration -->
+
+
+
+<!-- Header -->
+<header class="md-header" data-md-component="header">
+  <nav
+    class="md-header__inner md-grid"
+    aria-label="Header"
+  >
+
+    <!-- Link to home -->
+    <!--<a
+      href="../../"
+      title="Meteo-Parapente"
+      class="md-header__button md-logo"
+      aria-label="Meteo-Parapente"
+      data-md-component="logo"
+    >
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>-->
+
+    
+      <!-- Button to open drawer -->
+      <label class="md-header__button md-icon" for="__drawer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      </label>
+    
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meteo-Parapente
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Het Meteo-Parapente Model ✨
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Color palette -->
+    
+
+    <!-- Site language selector -->
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button
+            class="md-header__button md-icon"
+            aria-label="Select language"
+          >            
+            <img src="/img/flag/nl.svg" style="width: 24px;"/>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a
+                    href="../../../help/model/"
+                    hreflang="en"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/en.svg" style="width: 24px;"/>
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../fr/help/model/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../de/help/model/"
+                    hreflang="de"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/de.svg" style="width: 24px;"/>
+                    Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../it/help/model/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../es/help/model/"
+                    hreflang="es"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/es.svg" style="width: 24px;"/>
+                    Español
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="./"
+                    hreflang="nl"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/nl.svg" style="width: 24px;"/>
+                    Nederlands
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+      <script>
+        const links = document.querySelectorAll('.lang-link')
+        links.forEach(a => {
+          const queryString = document.location.href.match(/\?.*$/) || ''
+          a.href = a.href + queryString
+        })
+      </script>
+    
+
+    <!-- Button to open search modal -->
+    
+      
+        <label class="md-header__button md-icon" for="__search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+
+    <!-- Repository information -->
+    <!---->
+  </nav>
+
+  <!-- Navigation tabs (sticky) -->
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../" title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Meteo-Parapente
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        Welkom
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about-us/" class="md-nav__link">
+        Over ons
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Help
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Help" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Help
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Index
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../emagram/" class="md-nav__link">
+        The Emagram / Sounding plot
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../faq/" class="md-nav__link">
+        Veel gestelde vragen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Het Meteo-Parapente Model ✨
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Het Meteo-Parapente Model ✨
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#de-andere-aanpak-van-meteo-parapente" class="md-nav__link">
+    De Andere Aanpak van Meteo-Parapente
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unieke-kenmerken" class="md-nav__link">
+    Unieke Kenmerken
+  </a>
+  
+    <nav class="md-nav" aria-label="Unieke Kenmerken">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hoge-resolutie" class="md-nav__link">
+    Hoge Resolutie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uitgebreide-geografische-dekking" class="md-nav__link">
+    Uitgebreide Geografische Dekking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zichtbaarheid-tot-5-dagen" class="md-nav__link">
+    Zichtbaarheid Tot 5 Dagen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#viermaal-daags-bijgewerkt" class="md-nav__link">
+    Viermaal daags Bijgewerkt
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#grote-middelen" class="md-nav__link">
+    Grote Middelen
+  </a>
+  
+    <nav class="md-nav" aria-label="Grote Middelen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#altijd-meer-doen-met-minder" class="md-nav__link">
+    Altijd Meer Doen met Minder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#een-milieuvriendelijk-model" class="md-nav__link">
+    Een Milieuvriendelijk Model
+  </a>
+  
+    <nav class="md-nav" aria-label="Een Milieuvriendelijk Model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gedecarboniseerde-energie" class="md-nav__link">
+    Gedecarboniseerde Energie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verminderen-en-hergebruiken" class="md-nav__link">
+    Verminderen en Hergebruiken
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#een-positieve-impact" class="md-nav__link">
+    Een Positieve Impact
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contact/" class="md-nav__link">
+        Contact
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tour/" class="md-nav__link">
+        Tour
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../users/contribute/" class="md-nav__link">
+        Abonneren
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../translations/" class="md-nav__link">
+        Translations
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../data-sources/" class="md-nav__link">
+        Data sources
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../privacy/" class="md-nav__link">
+        Privacybeleid
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legal/" class="md-nav__link">
+        Juridische informatie
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhoudsopgave">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhoudsopgave
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#de-andere-aanpak-van-meteo-parapente" class="md-nav__link">
+    De Andere Aanpak van Meteo-Parapente
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#unieke-kenmerken" class="md-nav__link">
+    Unieke Kenmerken
+  </a>
+  
+    <nav class="md-nav" aria-label="Unieke Kenmerken">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#hoge-resolutie" class="md-nav__link">
+    Hoge Resolutie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uitgebreide-geografische-dekking" class="md-nav__link">
+    Uitgebreide Geografische Dekking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#zichtbaarheid-tot-5-dagen" class="md-nav__link">
+    Zichtbaarheid Tot 5 Dagen
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#viermaal-daags-bijgewerkt" class="md-nav__link">
+    Viermaal daags Bijgewerkt
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#grote-middelen" class="md-nav__link">
+    Grote Middelen
+  </a>
+  
+    <nav class="md-nav" aria-label="Grote Middelen">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#altijd-meer-doen-met-minder" class="md-nav__link">
+    Altijd Meer Doen met Minder
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#een-milieuvriendelijk-model" class="md-nav__link">
+    Een Milieuvriendelijk Model
+  </a>
+  
+    <nav class="md-nav" aria-label="Een Milieuvriendelijk Model">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gedecarboniseerde-energie" class="md-nav__link">
+    Gedecarboniseerde Energie
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#verminderen-en-hergebruiken" class="md-nav__link">
+    Verminderen en Hergebruiken
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#een-positieve-impact" class="md-nav__link">
+    Een Positieve Impact
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+  
+    
+      <a href="https://github.com/meteo-parapente/mtopara-portal/edit/main/docs/help/model.nl.md" title="Wijzig deze pagina" class="md-content__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+      </a>
+    
+  
+  
+  <h1 id="het-meteo-parapente-model">Het Meteo-Parapente Model ✨</h1>
+<p>De meeste weer-apps tonen dezelfde voorspellingen: GFS, AROME, ICON, ECMWF... Deze modellen worden verspreid door de nationale meteorologische organisaties.</p>
+<h2 id="de-andere-aanpak-van-meteo-parapente">De Andere Aanpak van Meteo-Parapente</h2>
+<p>Onze voorspellingen komen van het HREM (High Resolution European Model), specifiek ontwikkeld voor Meteo-Parapente en geproduceerd door ons team.</p>
+<p>We vergelijken het met een gigantische Lego-set, een samenstelling van gegevensbronnen en codes uit de wetenschappelijke gemeenschap, geselecteerd en aangepast voor ons gebruik. Hieraan voegen we onze expertise in gegevensverwerking en -assimilatie toe, evenals innovaties met betrekking tot AI.</p>
+<h2 id="unieke-kenmerken">Unieke Kenmerken</h2>
+<p>Het HREM-model heeft unieke kenmerken op de markt:</p>
+<h3 id="hoge-resolutie">Hoge Resolutie</h3>
+<p>Het is een regionaal model dat convectie kan oplossen, vergelijkbaar met de modellen AROME, ICON-D2, COSMO, HIRLAM. De resolutie van het hoofdgebied is 2,5 km.</p>
+<h3 id="uitgebreide-geografische-dekking">Uitgebreide Geografische Dekking</h3>
+<p>Het hoog-resolutiegebied bestrijkt een groot deel van Europa, van Portugal tot de Britse eilanden, en van Sicilië tot Polen.</p>
+<p>Het middel-resolutiegebied (7,5 km) strekt zich uit van de Canarische Eilanden tot IJsland, en van Libië tot Moskou en Sint-Petersburg.</p>
+<h3 id="zichtbaarheid-tot-5-dagen">Zichtbaarheid Tot 5 Dagen</h3>
+<p>Nationale modellen beschikbaar in andere applicaties, zoals AROME of ICON, zijn beperkt tot 48 uur. Daarbuiten moeten globale modellen met lage resolutie worden geraadpleegd, die lokale details zoals valleien of kustlijnen niet vastleggen.</p>
+<p>Meteo-Parapente biedt voorspellingen tot 5 dagen, terwijl dezelfde hoge resolutie behouden blijft. Dit maakt een effectieve vergelijking van voorspellingen op verschillende tijdshorizonten mogelijk en helpt bij het begrijpen van het effect van de globale trend op de lokale situatie.</p>
+<p>Natuurlijk neemt de betrouwbaarheid van voorspellingen af naarmate de tijd vordert. Hoge resolutie kan ruis en afwijkingen introduceren, die elke dag worden versterkt. Om dit te beperken, gebruiken we exclusieve AI-gebaseerde technologie, die ons hoog-resolutiemodel synchroniseert met het globale model. Dit stelt ons in staat om hoog-resolutie voorspellingen tot 5 dagen te leveren, waarbij de afwijking wordt beperkt zonder compromissen.</p>
+<h3 id="viermaal-daags-bijgewerkt">Viermaal daags Bijgewerkt</h3>
+<p>Het model wordt vier keer per dag bijgewerkt.</p>
+<p>Hier zijn de geschatte tijden van updates:</p>
+<p>(Centrale Europese Zomertijd, UTC+2. Trek 1 uur af in de winter).</p>
+<p>Huidige dag:</p>
+<ul>
+<li>1:30 AM</li>
+<li>7:30 AM</li>
+<li>1:30 PM</li>
+</ul>
+<p>Dag+1:</p>
+<ul>
+<li>2:30 AM</li>
+<li>8:30 AM</li>
+<li>2:30 PM</li>
+<li>8:30 PM</li>
+</ul>
+<p>Dag+2:</p>
+<ul>
+<li>3:30 AM</li>
+<li>9:30 AM</li>
+<li>3:30 PM</li>
+<li>9:30 PM</li>
+</ul>
+<p>Dag+3:</p>
+<ul>
+<li>4:30 AM</li>
+<li>10:30 AM</li>
+<li>4:30 PM</li>
+<li>10:30 PM</li>
+</ul>
+<p>Dag+4:</p>
+<ul>
+<li>5:30 AM</li>
+<li>11:30 AM</li>
+<li>5:30 PM</li>
+<li>11:30 PM</li>
+</ul>
+<p>Deze tijden kunnen variëren met +/- 1 uur, afhankelijk van de weersomstandigheden. Berekeningen zijn complexer en duren langer wanneer het weer verstoord is.</p>
+<p>De updatetime voor elke dag is zichtbaar in de app door te klikken op het tandwiel voor tijdsinstellingen onderaan de kaart.</p>
+<h2 id="grote-middelen">Grote Middelen</h2>
+<p>Het runnen van ons systeem vereist een enorme hoeveelheid berekeningen. We hebben nu ons eigen high-performance rekencentrum, dankzij de acquisitie van een oude supercomputer van een Duitse universiteit. Dit biedt ons de nodige capaciteit.</p>
+<p>Wanneer je onze voorspellingen raadpleegt, weet dan dat meer dan honderd krachtige computers continu, 24/7, werken om deze te produceren. We hebben ook een cluster van GPU-machines die gewijd zijn aan kunstmatige intelligentie, gekoppeld aan 1 petabyte (1000 TB) aan verschillende meteorologische gegevensopslag, gebruikt voor het trainen en valideren van het systeem.</p>
+<h3 id="altijd-meer-doen-met-minder">Altijd Meer Doen met Minder</h3>
+<p>Ons motto is altijd geweest "meer doen met minder". We zetten al onze vindingrijkheid in om maximale middelen tot jouw beschikking te stellen.</p>
+<p>Het gaat niet om geld besparen, maar om extreem efficiënt te zijn. We optimaliseren veel, wat ons in staat stelt een zo geavanceerd model aan te bieden, ondanks dat we veel minder middelen hebben dan onze concurrenten en nationale organisaties. Deze inspanning stelt ons in staat om een lage en betaalbare prijs aan te bieden: slechts €3 per maand. Deze prijs is al bijna 10 jaar niet veranderd, ondanks de inflatie.</p>
+<h3 id="een-milieuvriendelijk-model">Een Milieuvriendelijk Model</h3>
+<h4 id="gedecarboniseerde-energie">Gedecarboniseerde Energie</h4>
+<p>Energieoptimalisatie is essentieel om onze middelen te vergroten.</p>
+<p>Ons elektriciteitsverbruik is zeer hoog, met een rekening van enkele duizenden euro's per maand.</p>
+<p>We hebben ervoor gekozen om onze berekeningen in Frankrijk uit te voeren, een van de landen in Europa met de minste koolstofemissies. De elektriciteit die onze berekeningen voedt, komt voornamelijk uit kernenergie, waterkracht (zeer aanwezig in onze regio) en zonne-energie.</p>
+<p>We hebben onze eigen 15 kW fotovoltaïsche centrale gebouwd, exclusief gewijd aan het voeden van de berekeningen. Dit stelt ons in staat om "meer te doen met minder", dankzij de besparingen en het verminderen van onze ecologische voetafdruk.</p>
+<h4 id="verminderen-en-hergebruiken">Verminderen en Hergebruiken</h4>
+<p>Onze rekenservers worden gekoeld met Immersion Cooling-technologie, waarbij de machines ondergedompeld zijn in een niet-geleidende vloeistof. Dit systeem vermindert het elektriciteitsverbruik van de servers met 10 tot 20% door het verwijderen van ventilatoren. Het vermijdt ook de noodzaak van airconditioning om de warmte van de machines af te voeren. We bereiken een uitzonderlijke PUE (Power Usage Effectiveness) van minder dan 1,05, vergeleken met het industriële gemiddelde van 1,58.</p>
+<p>En we gaan nog verder: de warmte wordt teruggewonnen in een warmwatercircuit, dankzij een warmtewisselaar, om verwarming en warm water te leveren aan het aangrenzende gebouw. Alles wordt gewaardeerd, om "meer te doen met minder".</p>
+<h4 id="een-positieve-impact">Een Positieve Impact</h4>
+<p>Ten slotte is onze impact op het milieu grotendeels positief...</p>
+<p>Onze voorspellingen helpen je je activiteiten te optimaliseren en onnodige reizen te vermijden. Elke kilometer die we je besparen is een overwinning voor het milieu.</p>
+
+  
+
+  
+
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+    
+
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../faq/" class="md-footer__link md-footer__link--prev" aria-label="Vorige: Veel gestelde vragen" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Vorige
+              </span>
+              Veel gestelde vragen
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../contact/" class="md-footer__link md-footer__link--next" aria-label="Volgende: Contact" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Volgende
+              </span>
+              Contact
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2023  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+          </div>
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.config.lang": "nl", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Zoeken", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
+    
+    
+  
+      <script src="../../../assets/javascripts/bundle.b1047164.min.js"></script>
+      
+    
+  
+  <script>
+    if (window.location.search.includes('from=app')) {
+      document.querySelectorAll('a[href$="users/contribute/"]')
+      .forEach(link => link.parentNode.remove());
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+        if (link.href.includes('?')) {
+          if (!link.href.includes('from=app')) {
+            link.href += '&from=app';
+          }
+        } else {
+          link.href += '?from=app';
+        }
+      });
+    }
+  </script>
+
+  </body>
+</html>
