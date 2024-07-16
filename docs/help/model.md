@@ -78,7 +78,7 @@ The update time for each day is visible in the app by clicking on the time setti
 
 ## Significant Resources
 
-Operating our system requires a massive amount of calculations. We now have our own high-performance computing center, thanks to the acquisition of an old supercomputer from a German university. This provides us with the necessary capacity.
+Operating our system requires a massive amount of calculations. We now have our own high-performance computing center, having purchased a supercomputer second-hand from a German university. This provides us with the necessary capacity.
 
 When you check our forecasts, know that more than a hundred powerful computers are working continuously, 24/7, to produce them. We also have a GPU machine cluster dedicated to artificial intelligence, coupled with 1 petabyte (1000 TB) of various meteorological data storage, used for training and validating the system.
 

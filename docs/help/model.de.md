@@ -78,7 +78,8 @@ Die Aktualisierungszeit für jeden Tag ist in der App sichtbar, indem man unten 
 
 ## Große Mittel
 
-Der Betrieb unseres Systems erfordert eine massive Menge an Berechnungen. Wir haben jetzt unser eigenes Hochleistungsrechenzentrum, dank des Erwerbs eines alten Supercomputers einer deutschen Universität. Dies bietet uns die notwendige Kapazität.
+Der Betrieb unseres Systems erfordert eine massive Menge an Berechnungen. Wir verfügen nun über ein eigenes Hochleistungsrechenzentrum, da wir den Supercomputer einer deutschen Universität gebraucht erworben haben.
+Dies bietet uns die notwendige Kapazität.
 
 Wenn Sie unsere Vorhersagen abrufen, wissen Sie, dass mehr als hundert leistungsstarke Computer kontinuierlich, 24/7, daran arbeiten, sie zu erstellen. Wir haben auch einen GPU-Maschinencluster, der der künstlichen Intelligenz gewidmet ist, gekoppelt mit einem Speicher von 1 Petabyte (1000 TB) verschiedener meteorologischer Daten, die zum Training und zur Validierung des Systems verwendet werden.
 

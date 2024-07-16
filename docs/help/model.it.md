@@ -78,7 +78,7 @@ L'orario di aggiornamento di ogni giorno è visibile nell'applicazione, cliccand
 
 ## Grandi Risorse
 
-L'operazione del nostro sistema richiede una quantità massiccia di calcoli. Ora abbiamo il nostro centro di calcolo ad alte prestazioni, grazie all'acquisizione di un vecchio supercomputer di un'università tedesca. Questo ci fornisce la capacità necessaria.
+L'operazione del nostro sistema richiede una quantità massiccia di calcoli. Ora abbiamo il nostro centro di calcolo ad alte prestazioni, avendo acquistato il supercomputer di seconda mano da un'università tedesca.Questo ci fornisce la capacità necessaria.
 
 Quando consulti le nostre previsioni, sappi che più di un centinaio di potenti computer lavorano continuamente, 24/7, per produrle. Abbiamo anche un cluster di macchine GPU dedicato all'intelligenza artificiale, accoppiato con 1 petabyte (1000 TB) di archiviazione di vari dati meteorologici, utilizzato per l'addestramento e la validazione del sistema.
 

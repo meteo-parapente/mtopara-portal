@@ -78,7 +78,7 @@ El tiempo de actualización de cada día es visible en la aplicación, haciendo 
 
 ## Grandes Recursos
 
-La operación de nuestro sistema requiere una enorme cantidad de cálculos. Ahora tenemos nuestro propio centro de computación de alto rendimiento, gracias a la adquisición de un viejo superordenador de una universidad alemana. Esto nos proporciona la capacidad necesaria.
+La operación de nuestro sistema requiere una enorme cantidad de cálculos. Ahora tenemos nuestro propio centro de computación de alto rendimiento, tras haber comprado el superordenador de segunda mano a una universidad alemana. Esto nos proporciona la capacidad necesaria.
 
 Cuando consultas nuestras previsiones, debes saber que más de un centenar de potentes ordenadores trabajan continuamente, 24/7, para producirlas. También tenemos un clúster de máquinas GPU dedicado a la inteligencia artificial, acoplado con 1 petabyte (1000 TB) de almacenamiento de datos meteorológicos diversos, utilizado para entrenar y validar el sistema.
 

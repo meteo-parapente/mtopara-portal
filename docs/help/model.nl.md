@@ -78,7 +78,9 @@ De updatetime voor elke dag is zichtbaar in de app door te klikken op het tandwi
 
 ## Grote Middelen
 
-Het runnen van ons systeem vereist een enorme hoeveelheid berekeningen. We hebben nu ons eigen high-performance rekencentrum, dankzij de acquisitie van een oude supercomputer van een Duitse universiteit. Dit biedt ons de nodige capaciteit.
+De werking van ons systeem vereist een enorme hoeveelheid berekeningen. 
+We hebben nu ons eigen High-Performance Computing centrum, omdat we de supercomputer tweedehands hebben gekocht van een Duitse universiteit.
+ Dit biedt ons de nodige capaciteit.
 
 Wanneer je onze voorspellingen raadpleegt, weet dan dat meer dan honderd krachtige computers continu, 24/7, werken om deze te produceren. We hebben ook een cluster van GPU-machines die gewijd zijn aan kunstmatige intelligentie, gekoppeld aan 1 petabyte (1000 TB) aan verschillende meteorologische gegevensopslag, gebruikt voor het trainen en valideren van het systeem.
 

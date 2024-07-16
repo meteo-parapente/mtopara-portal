@@ -22,7 +22,7 @@ La zone à haute résolution couvre une grande partie de l'Europe, du Portugal a
 
 La zone à moyenne résolution (7.5 km) s'étend des Îles Canaries jusqu'à l'Islande, et de la Libye jusqu'à Moscou et Saint-Pétersbourg.
 
-### Visibilité jusqu'à 5 jours
+### Visibilité jusqu'à 5 jours (nouveau ✨)
 
 Les modèles nationaux disponibles dans d'autres applications, tels qu'AROME ou ICON, se limitent à 48 heures. Au-delà, il est nécessaire de consulter les modèles globaux à faible résolution, qui ne captent pas les détails locaux comme les vallées ou le bord de mer.
 
@@ -80,7 +80,7 @@ L'heure de mise à jour de chaque journée est visible dans l'application, en cl
 
 ## De grands moyens
 
-L'exploitation de notre système nécessite une quantité massive de calculs. Nous disposons désormais de notre propre centre de calcul intensif, grâce à l'acquisition de l'ancien supercalculateur d'une université allemande. Cela nous fournit la capacité nécessaire.
+L'exploitation de notre système nécessite une quantité massive de calculs. Nous disposons désormais de notre propre centre de calcul haute performance, car nous avons acheté d'occasion le superordinateur d'une université allemande. Cela nous fournit la capacité nécessaire.
 
 Lorsque vous consultez nos prévisions, sachez que plus d'une centaine de puissants ordinateurs travaillent en permanence, 24h/24, pour les produire. Nous avons également un cluster de machines GPU dédié à l'intelligence artificielle, couplé à un stockage de 1 pétaoctet (1000 To) de données météorologiques diverses, utilisées pour l'entraînement et la validation du système.
 
