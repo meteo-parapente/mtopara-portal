@@ -31,7 +31,7 @@ title: Subscribe
 <p style="color: darkred; font-size: 110%">
   <strong>🎂 13th Anniversary of Meteo-Parapente</strong><br>
   To celebrate the occasion, we're offering 13 months for the price of 12!<br>
-  This offer is valid for all subscriptions purchased or extended during the month of February.
+  This offer is valid for all subscriptions purchased or extended until the end of February.
 </p>
 
 <script>

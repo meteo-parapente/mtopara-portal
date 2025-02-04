@@ -31,7 +31,7 @@ title: Abbonati
 <p style="color: darkred; font-size: 110%">
   <strong>🎂 13º anniversario di Meteo-Parapente</strong><br>
   Per celebrare l'occasione, offriamo 13 mesi al prezzo di 12!<br>
-  Questa offerta è valida per tutti gli abbonamenti acquistati o rinnovati durante il mese di febbraio.
+  Questa offerta è valida per tutti gli abbonamenti acquistati o rinnovati fino alla fine di febbraio.
 </p>
 
 <script>

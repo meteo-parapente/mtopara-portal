@@ -31,7 +31,7 @@ title: S'abonner
 <p style="color: darkred; font-size: 110%">
   <strong>🎂 13ème anniversaire de Meteo-Parapente</strong><br>
   Pour fêter l'occasion, nous vous offrons 13 mois pour le prix de 12 !<br>
-  Cette offre est valable pour tous les abonnements souscrits ou prolongés pendant le mois de février.
+  Cette offre est valable pour tous les abonnements souscrits ou prolongés jusqu'à la fin du mois de février.
 </p>
 
 <script>

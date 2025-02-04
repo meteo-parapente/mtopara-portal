@@ -31,7 +31,7 @@ title: Abonneren
 <p style="color: darkred; font-size: 110%">
   <strong>🎂 13e verjaardag van Meteo-Parapente</strong><br>
   Ter gelegenheid van dit jubileum bieden wij 13 maanden voor de prijs van 12!<br>
-  Deze aanbieding is geldig voor alle abonnementen die in de maand februari worden afgesloten of verlengd.
+  Deze aanbieding is geldig voor alle abonnementen die tot eind februari worden afgesloten of verlengd.
 </p>
 
 <script>
