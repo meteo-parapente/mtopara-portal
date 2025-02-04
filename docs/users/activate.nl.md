@@ -14,7 +14,7 @@ title: Meteo-Parapente
   const mp_form_locale = {
     locale: 'nl',
     fullname: `Achternaam en Voornaam`,
-    company: `Bedrijf <small>(optioneel)</small>`,
+    company: `[Optioneel] Alle informatie die u op de factuur wilt (bedrijfsnaam, btw-nummer...)`,
     address: `Adres`,
     city: `Stad`,
     country: `Land`,
@@ -42,7 +42,8 @@ title: Meteo-Parapente
     here_is_code: `Hier is uw code. Verlies hem niet!`,
     thank_for_payment: `Bedankt voor uw betaling`,
     sent_code: `We hebben je je toegangscode gestuurd`,
-    check_spam: `Als je niets hebt ontvangen, controleer dan je spammap.<br>Als je 10 minuten na betaling nog steeds niets hebt ontvangen, voer dan geen tweede betaling uit en neem contact met ons op via support@meteo&#8209;parapente.com`
+    check_spam: `Als je niets hebt ontvangen, controleer dan je spammap.<br>Als je 10 minuten na betaling nog steeds niets hebt ontvangen, voer dan geen tweede betaling uit en neem contact met ons op via support@meteo&#8209;parapente.com`,
+    warn_no_edits: `Let op! Na het verzenden van het formulier zijn er geen wijzigingen meer mogelijk op de factuur, in overeenstemming met de wet.`
   };
 </script>
 <div id="app">

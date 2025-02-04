@@ -310,6 +310,8 @@ new Vue({
         </select>
       </div>
       
+      <p>{{ l.warn_no_edits }}</p>
+
       <div class="submit">
         <div v-if="loading">
           <p><img src="/img/load.gif" class="loading" alt="loading..."/></p>

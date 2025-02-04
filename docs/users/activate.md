@@ -14,7 +14,7 @@ title: Meteo-Parapente
   const mp_form_locale = {
     locale: 'en',
     fullname: `Full name`,
-    company: `Company <small>(optional)</small>`,
+    company: `[Optional] Any information you want on the invoice (company name, vat number...)`,
     address: `Address`,
     city: `City`,
     country: `Country`,
@@ -42,7 +42,8 @@ title: Meteo-Parapente
     here_is_code: `Here is your code. Don't lose it!`,
     thank_for_payment: `Thank you for your payment`,
     sent_code: `We've sent you your access code`,
-    check_spam: `If you haven't received anything, check your spam folder.<br>If you still haven't received anything 10 minutes after payment, don't pay again and contact us at support@meteo&#8209;parapente.com`
+    check_spam: `If you haven't received anything, check your spam folder.<br>If you still haven't received anything 10 minutes after payment, don't pay again and contact us at support@meteo&#8209;parapente.com`,
+    warn_no_edits: `Warning! No modifications to the invoice will be possible after submitting the form, in accordance with the law.`
   };
 </script>
 <div id="app">

@@ -14,7 +14,7 @@ title: Meteo-Parapente
   const mp_form_locale = {
     locale: 'es',
     fullname: `Apellido y Nombre`,
-    company: `Empresa <small>(opcional)</small>`,
+    company: `[Opcional] Cualquier información que desee en la factura (nombre de la empresa, número de IVA...)`,
     address: `Dirección`,
     city: `Ciudad`,
     country: `País`,
@@ -42,7 +42,8 @@ title: Meteo-Parapente
     here_is_code: `Aquí está tu código. ¡No lo pierdas!`,
     thank_for_payment: `Gracias por su pago`,
     sent_code: `Le hemos enviado su código de acceso`,
-    check_spam: `Si no ha recibido nada, revise su carpeta de correo no deseado.<br>Si aún no ha recibido nada 10 minutos después del pago, no haga un segundo pago y contáctenos en support@meteo&#8209;parapente.com`
+    check_spam: `Si no ha recibido nada, revise su carpeta de correo no deseado.<br>Si aún no ha recibido nada 10 minutos después del pago, no haga un segundo pago y contáctenos en support@meteo&#8209;parapente.com`,
+    warn_no_edits: `¡Atención! No se podrán realizar modificaciones en la factura después de enviar el formulario, de acuerdo con la ley.`
   };
 </script>
 <div id="app">
