@@ -28,6 +28,11 @@ title: S'abonner
 
 - 👋 <a href="/fr/about-us/" target="_blank">Découvrez qui nous sommes</a>
 
+<p style="color: darkred; font-size: 110%">
+  <strong>🎂 13ème anniversaire de Meteo-Parapente</strong><br>
+  Pour fêter l'occasion, nous vous offrons 13 mois pour le prix de 12 !<br>
+  Cette offre est valable pour tous les abonnements souscrits ou prolongés pendant le mois de février.
+</p>
 
 <script>
   const mp_form_locale = {
@@ -35,10 +40,10 @@ title: S'abonner
     locale_paypal: `fr_FR`,
     default_country: `FR`,
     product_contributor_title: `Contributeur`,
-    product_contributor_description: `3 € par mois <small>(12 mois)</small>`,
+    product_contributor_description: `3 € par mois <small>(12 mois + 1 gratuit)</small>`,
     product_supporter_title: `Soutien`,
-    product_supporter_description: `5 € par mois <small>(12 mois)</small>`,
-    product_small_text: `Un seul paiement unique de €### pour 12 mois. Pas de renouvellement.`,
+    product_supporter_description: `5 € par mois <small>(12 mois + 1 gratuit)</small>`,
+    product_small_text: `Un seul paiement unique de €### pour 12 + 1 mois. Pas de renouvellement.`,
     header_coordinates: `À propos de vous`,
     email: `Email`,
     mobile_phone: `Téléphone portable`,

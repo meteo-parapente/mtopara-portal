@@ -28,16 +28,22 @@ title: Abonneren
 
 - 👋 <a href="/nl/about-us/" target="_blank">Ontdek wie we zijn</a>
 
+<p style="color: darkred; font-size: 110%">
+  <strong>🎂 13e verjaardag van Meteo-Parapente</strong><br>
+  Ter gelegenheid van dit jubileum bieden wij 13 maanden voor de prijs van 12!<br>
+  Deze aanbieding is geldig voor alle abonnementen die in de maand februari worden afgesloten of verlengd.
+</p>
+
 <script>
   const mp_form_locale = {
     locale: `nl`,
     locale_paypal: `nl_NL`,
     default_country: `NL`,
     product_contributor_title: `Bijdrager`,
-    product_contributor_description: `€3 per maand <small>(12 maanden)</small>`,
+    product_contributor_description: `€3 per maand <small>(12 maanden + 1 gratis)</small>`,
     product_supporter_title: `Supporter`,
-    product_supporter_description: `5€ per maand <small>(12 maanden)</small>`,
-    product_small_text: `Eenmalige betaling van €### voor 12 maanden. Geen verlenging.`,
+    product_supporter_description: `5€ per maand <small>(12 maanden + 1 gratis)</small>`,
+    product_small_text: `Eenmalige betaling van €### voor 12 + 1 maanden. Geen verlenging.`,
     header_coordinates: `Over u`,
     email: `Email`,
     mobile_phone: `Mobiele telefoon`,
