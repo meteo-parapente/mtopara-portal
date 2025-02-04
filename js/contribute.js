@@ -181,7 +181,7 @@ new Vue({
         'bancontact': ['Bancontact', ['BE']],
         'eps': ['EPS', ['AT']],
         'applepay': ['Apple Pay', ['*']],
-        'card-mollie': ['Google Pay', ['*']],
+        //'card-mollie': ['Google Pay', ['*']],
         'paypal': ['PayPal', ['*']],
         //'klarnapaynow': ['Klarna Pay Now', ['DE', 'AT', 'DK', 'FI', 'IE', 'IT', 'NO', 'NL', 'GB', 'CH', 'SE']],
         'belfius': ['Belfius', ['BE']],
