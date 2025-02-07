@@ -182,7 +182,7 @@ new Vue({
         'applepay': ['Apple Pay', ['*']],
         //'card-mollie': ['Google Pay', ['*']],
         'paypal': ['PayPal', ['*']],
-        'klarnapaynow': ['Klarna Pay Now', ['DE', 'AT', 'DK', 'FI', 'IE', 'IT', 'NO', 'NL', 'GB', 'CH', 'SE']],
+        //'klarnapaynow': ['Klarna Pay Now', ['DE', 'AT', 'DK', 'FI', 'IE', 'IT', 'NO', 'NL', 'GB', 'CH', 'SE']],
         'belfius': ['Belfius', ['BE']],
         'kbc': ['KBC', ['BE']],
         'przelewy24': ['Przelewy24', ['PL']],
