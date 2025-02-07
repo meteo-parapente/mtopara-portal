@@ -33,7 +33,9 @@ title: Abbonati
   Per celebrare l'occasione, offriamo 13 mesi al prezzo di 12!<br>
   Questa offerta è valida per tutti gli abbonamenti acquistati o rinnovati fino alla fine di febbraio.
 </p>
-
+<p style="color: darkred; font-size: 80%">
+  Se il tuo abbonamento è ancora attivo, i 13 mesi verranno aggiunti al periodo rimanente. Assicurati di inserire lo stesso indirizzo email.
+</p>
 <script>
   const mp_form_locale = {
     locale: `it`,

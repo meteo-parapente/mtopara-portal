@@ -33,7 +33,9 @@ title: S'abonner
   Pour fêter l'occasion, nous vous offrons 13 mois pour le prix de 12 !<br>
   Cette offre est valable pour tous les abonnements souscrits ou prolongés jusqu'à la fin du mois de février.
 </p>
-
+<p style="color: darkred; font-size: 80%">
+  Si votre abonnement est encore actif, les 13 mois viendront s'ajouter à la période restante. Pour cela, indiquez bien la même adresse email.
+</p>
 <script>
   const mp_form_locale = {
     locale: `fr`,
