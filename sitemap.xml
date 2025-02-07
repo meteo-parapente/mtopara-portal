@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://portal.meteo-parapente.com/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
@@ -13,7 +13,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/about-us/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
@@ -24,7 +24,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/contact/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
@@ -35,7 +35,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
@@ -46,7 +46,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/legal/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
@@ -57,7 +57,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/privacy/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
@@ -68,7 +68,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/translations/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
@@ -79,7 +79,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
@@ -90,7 +90,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
@@ -101,7 +101,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
@@ -112,7 +112,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/model/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
@@ -123,7 +123,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
@@ -134,7 +134,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/tour/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
@@ -145,7 +145,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
@@ -156,7 +156,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
@@ -167,7 +167,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
@@ -178,7 +178,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>
@@ -189,7 +189,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
@@ -200,7 +200,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/about-us/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
@@ -211,7 +211,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/contact/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
@@ -222,7 +222,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
@@ -233,7 +233,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/legal/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
@@ -244,7 +244,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/privacy/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
@@ -255,7 +255,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/translations/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
@@ -266,7 +266,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/help/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
@@ -277,7 +277,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
@@ -288,7 +288,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
@@ -299,7 +299,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/help/model/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
@@ -310,7 +310,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
@@ -321,7 +321,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/tour/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
@@ -332,7 +332,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
@@ -343,7 +343,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
@@ -354,7 +354,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
@@ -365,7 +365,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/fr/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="fr" href="https://portal.meteo-parapente.com/fr/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>
@@ -376,7 +376,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/"/>
@@ -387,7 +387,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/about-us/"/>
@@ -398,7 +398,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/contact/"/>
@@ -409,7 +409,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/data-sources/"/>
@@ -420,7 +420,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/legal/"/>
@@ -431,7 +431,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/privacy/"/>
@@ -442,7 +442,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/translations/"/>
@@ -453,7 +453,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/"/>
@@ -464,7 +464,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/emagram/"/>
@@ -475,7 +475,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/faq/"/>
@@ -486,7 +486,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/model/"/>
@@ -497,7 +497,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/help/additional/edit-the-map/"/>
@@ -508,7 +508,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/tour/"/>
@@ -519,7 +519,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/activate/"/>
@@ -530,7 +530,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/contribute/"/>
@@ -541,7 +541,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/coupon/"/>
@@ -552,7 +552,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/de/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://portal.meteo-parapente.com/users/sepa/"/>
@@ -563,7 +563,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
@@ -574,7 +574,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/about-us/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
@@ -585,7 +585,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/contact/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
@@ -596,7 +596,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
@@ -607,7 +607,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/legal/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
@@ -618,7 +618,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/privacy/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
@@ -629,7 +629,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/translations/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
@@ -640,7 +640,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/help/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
@@ -651,7 +651,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
@@ -662,7 +662,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
@@ -673,7 +673,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/help/model/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
@@ -684,7 +684,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
@@ -695,7 +695,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/tour/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
@@ -706,7 +706,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
@@ -717,7 +717,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
@@ -728,7 +728,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
@@ -739,7 +739,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/it/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="it" href="https://portal.meteo-parapente.com/it/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>
@@ -750,7 +750,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
@@ -761,7 +761,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/about-us/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
@@ -772,7 +772,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/contact/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
@@ -783,7 +783,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
@@ -794,7 +794,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/legal/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
@@ -805,7 +805,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/privacy/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
@@ -816,7 +816,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/translations/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
@@ -827,7 +827,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/help/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
@@ -838,7 +838,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
@@ -849,7 +849,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
@@ -860,7 +860,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/help/model/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
@@ -871,7 +871,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
@@ -882,7 +882,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/tour/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
@@ -893,7 +893,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
@@ -904,7 +904,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
@@ -915,7 +915,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
@@ -926,7 +926,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/es/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="es" href="https://portal.meteo-parapente.com/es/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>
@@ -937,7 +937,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/"/>
@@ -948,7 +948,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/about-us/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/about-us/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/about-us/"/>
@@ -959,7 +959,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/contact/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/contact/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/contact/"/>
@@ -970,7 +970,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/data-sources/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/data-sources/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/data-sources/"/>
@@ -981,7 +981,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/legal/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/legal/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/legal/"/>
@@ -992,7 +992,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/privacy/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/privacy/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/privacy/"/>
@@ -1003,7 +1003,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/translations/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/translations/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/translations/"/>
@@ -1014,7 +1014,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/help/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/help/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/"/>
@@ -1025,7 +1025,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/help/emagram/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/help/emagram/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/emagram/"/>
@@ -1036,7 +1036,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/help/faq/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/help/faq/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/faq/"/>
@@ -1047,7 +1047,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/help/model/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/help/model/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/model/"/>
@@ -1058,7 +1058,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/help/additional/edit-the-map/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/help/additional/edit-the-map/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/help/additional/edit-the-map/"/>
@@ -1069,7 +1069,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/tour/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/tour/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/tour/"/>
@@ -1080,7 +1080,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/users/activate/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/users/activate/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/activate/"/>
@@ -1091,7 +1091,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/users/contribute/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/users/contribute/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/contribute/"/>
@@ -1102,7 +1102,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/users/coupon/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/users/coupon/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/coupon/"/>
@@ -1113,7 +1113,7 @@
     </url>
     <url>
         <loc>https://portal.meteo-parapente.com/nl/users/sepa/</loc>
-        <lastmod>2025-02-04</lastmod>
+        <lastmod>2025-02-07</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="nl" href="https://portal.meteo-parapente.com/nl/users/sepa/"/>
         <xhtml:link rel="alternate" hreflang="de" href="https://portal.meteo-parapente.com/de/users/sepa/"/>

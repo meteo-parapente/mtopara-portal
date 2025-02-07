@@ -15,8 +15,7 @@ new Vue({
   el: '#app',
   template: `
   <form class="mp-form" @submit.prevent="submit" :class="{ ready }">
-
-  <div class="choice">
+    <div class="choice">
       <input type="radio" name="product" value="contributor" id="product_contributor" v-model="product">
       <label for="product_contributor" class="mp-inline">
         <strong><big>{{l.product_contributor_title}}</big></strong><br>
@@ -183,7 +182,7 @@ new Vue({
         'applepay': ['Apple Pay', ['*']],
         //'card-mollie': ['Google Pay', ['*']],
         'paypal': ['PayPal', ['*']],
-        //'klarnapaynow': ['Klarna Pay Now', ['DE', 'AT', 'DK', 'FI', 'IE', 'IT', 'NO', 'NL', 'GB', 'CH', 'SE']],
+        'klarnapaynow': ['Klarna Pay Now', ['DE', 'AT', 'DK', 'FI', 'IE', 'IT', 'NO', 'NL', 'GB', 'CH', 'SE']],
         'belfius': ['Belfius', ['BE']],
         'kbc': ['KBC', ['BE']],
         'przelewy24': ['Przelewy24', ['PL']],
