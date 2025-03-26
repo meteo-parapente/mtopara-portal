@@ -1,0 +1,66 @@
+        h1:not(:first-of-type), h2, h3 {
+            cursor: pointer;
+            position: relative;
+            padding-left: 25px;
+            margin: 10px 0px !important;
+        }
+
+
+        h1:not(:first-of-type)::before {
+            content: '▪';
+            position: absolute;
+            left: 0;
+        }
+
+	h1:not(:first-of-type).active, h2.active, h3.active {
+            color: var(--md-primary-fg-color)
+        }
+        
+       	h1:not(:first-of-type):hover, h2:hover, h3:hover {
+            color: var(--md-accent-fg-color)
+        }
+
+        h1.activse::before {
+            content: '▼';
+        }
+
+        h2::before, h2::before {
+            content: '•';
+            position: absolute;
+            left: 0;
+        }
+
+        h2.actsive::before {
+            content: '▿';
+        }
+
+        h3::before, h3::before {
+            content: '⁃';
+            position: absolute;
+            left: 0;
+        }
+
+        h3.o::before {
+            content: '▾';
+        }
+
+        .h1-content, .h2-content, .h3-content {
+            display: none;
+            overflow: hidden;
+            margin-left: 25px;
+        }
+
+        .h1-content.active, .h2-content.active, .h3-content.active {
+            display: block;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        .md-content__inner:not(.loaded) > * {
+            display: none;
+        }
+        .md-content__inner:not(.loaded)::before {
+            content: url('https://meteo-parapente.com/img/load.gif');
+        }

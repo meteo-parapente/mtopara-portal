@@ -1,0 +1,1576 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+  <script src="/js/mpdb.js"></script>
+
+  <meta charset="utf-8" />
+  <!--<meta name="viewport" content="width=device-width,initial-scale=1" />-->
+
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width,height=device-height">
+
+  <!-- Page description -->
+  
+    <meta name="description" content="Documentation for Meteo-Parapente" />
+  
+
+  <!-- Page keywords -->
+  
+
+  <!-- Page author -->
+  
+    <meta name="author" content="Meteo-Parapente" />
+  
+
+  <!-- Canonical -->
+  
+    <link rel="canonical" href="https://portal.meteo-parapente.com/help/user-manual/" />
+  
+
+  <!-- Favicon -->
+  <link rel="icon" href="../../img/favicon.png" />
+
+  <!-- Generator banner -->
+  <meta
+    name="generator"
+    content="mkdocs-1.5.3, $md-name$-$md-version$"
+  />
+  
+  <!-- Social preview -->
+  
+
+    
+      
+        <title>User manual - Meteo-Parapente</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.a57b2b03.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+  <link rel="stylesheet" href="/css/fonts/roboto.css">
+  <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+
+    
+    
+    
+      
+
+
+    
+    
+  
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#user-manual" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Determine class according to configuration -->
+
+
+
+<!-- Header -->
+<header class="md-header" data-md-component="header">
+  <nav
+    class="md-header__inner md-grid"
+    aria-label="Header"
+  >
+
+    <!-- Link to home -->
+    <!--<a
+      href="../.."
+      title="Meteo-Parapente"
+      class="md-header__button md-logo"
+      aria-label="Meteo-Parapente"
+      data-md-component="logo"
+    >
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>-->
+
+    
+      <!-- Button to open drawer -->
+      <label class="md-header__button md-icon" for="__drawer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      </label>
+    
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meteo-Parapente
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              User manual
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Color palette -->
+    
+
+    <!-- Site language selector -->
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button
+            class="md-header__button md-icon"
+            aria-label="Select language"
+          >            
+            <img src="/img/flag/en.svg" style="width: 24px;"/>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a
+                    href="./"
+                    hreflang="en"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/en.svg" style="width: 24px;"/>
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../fr/help/user-manual/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../de/help/user-manual/"
+                    hreflang="de"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/de.svg" style="width: 24px;"/>
+                    Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../it/help/user-manual/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../es/help/user-manual/"
+                    hreflang="es"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/es.svg" style="width: 24px;"/>
+                    Español
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../nl/help/user-manual/"
+                    hreflang="nl"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/nl.svg" style="width: 24px;"/>
+                    Nederlands
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+      <script>
+        const links = document.querySelectorAll('.lang-link')
+        links.forEach(a => {
+          const queryString = document.location.href.match(/\?.*$/) || ''
+          a.href = a.href + queryString
+        })
+      </script>
+    
+
+    <!-- Button to open search modal -->
+    
+      
+        <label class="md-header__button md-icon" for="__search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+
+    <!-- Repository information -->
+    <!---->
+  </nav>
+
+  <!-- Navigation tabs (sticky) -->
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Meteo-Parapente
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Welcome
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        About us
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/model/" class="md-nav__link">
+        The Meteo-Parapente Model
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          User manual
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        User manual
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-windgram" class="md-nav__link">
+    Understanding the Windgram
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Windgram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#navigating-the-windgram-time-and-altitude" class="md-nav__link">
+    Navigating the windgram: time and altitude
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clouds" class="md-nav__link">
+    Clouds
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thermals-and-instability" class="md-nav__link">
+    Thermals and instability
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wind" class="md-nav__link">
+    Wind
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ground-level" class="md-nav__link">
+    Ground level
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precipitations" class="md-nav__link">
+    Precipitations
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-sounding-plot" class="md-nav__link">
+    Understanding the Sounding Plot
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Sounding Plot">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-temperature-profiles" class="md-nav__link">
+    1. Temperature Profiles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-thermal-stability-instability-zones" class="md-nav__link">
+    2. Thermal Stability &amp; Instability Zones
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-wind-profile" class="md-nav__link">
+    3. Wind Profile
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-key-observations" class="md-nav__link">
+    4. Key Observations
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-wind-maps" class="md-nav__link">
+    Understanding the Wind maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Wind maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-wind-at-ground-level-map" class="md-nav__link">
+    Understanding the Wind at Ground Level Map
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Wind at Ground Level Map">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-wind-direction-arrows" class="md-nav__link">
+    1. Wind Direction (Arrows)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-wind-speed-colors-scale" class="md-nav__link">
+    2. Wind Speed (Colors &amp; Scale)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-wind-at-various-altitudes-map" class="md-nav__link">
+    Understanding the Wind at Various Altitudes Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-mean-sea-level-pressure-map" class="md-nav__link">
+    Understanding the Mean Sea Level Pressure Map
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Mean Sea Level Pressure Map">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-color-coded-pressure-levels" class="md-nav__link">
+    1. Color-Coded Pressure Levels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-how-to-interpret-this-map" class="md-nav__link">
+    2. How to Interpret This Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-dynamic-time-navigation" class="md-nav__link">
+    3. Dynamic Time Navigation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-thermals-maps" class="md-nav__link">
+    Understanding Thermals Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Thermals Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-thermals-velocity-map" class="md-nav__link">
+    Understanding Thermals Velocity Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-thermals-shearing" class="md-nav__link">
+    Understanding Thermals Shearing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-boundary-layer-thickness-map" class="md-nav__link">
+    Understanding Boundary Layer Thickness Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-humidity-maps" class="md-nav__link">
+    Understanding Humidity Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Humidity Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-precipitations-map" class="md-nav__link">
+    Understanding Precipitations Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-clouds-map" class="md-nav__link">
+    Understanding Clouds Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-temperature-maps" class="md-nav__link">
+    Understanding Temperature Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Temperature Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-temperature-at-ground-level-map" class="md-nav__link">
+    Understanding the Temperature at Ground Level Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-temperature-at-various-altitudes-map" class="md-nav__link">
+    Understanding the Temperature at Various Altitudes Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Support
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Support" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Support
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/account/" class="md-nav__link">
+        Account & Login
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/contact/" class="md-nav__link">
+        Contact
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/issues/" class="md-nav__link">
+        Troubleshooting & Issues
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/subscription/" class="md-nav__link">
+        Subscription & Payment
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tour/" class="md-nav__link">
+        Tour
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../users/contribute/" class="md-nav__link">
+        Subscribe
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/data-sources/" class="md-nav__link">
+        Data sources
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../translations/" class="md-nav__link">
+        Translations
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../privacy/" class="md-nav__link">
+        Privacy policy
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legal/" class="md-nav__link">
+        Legal and contractual information
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-windgram" class="md-nav__link">
+    Understanding the Windgram
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Windgram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#navigating-the-windgram-time-and-altitude" class="md-nav__link">
+    Navigating the windgram: time and altitude
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#clouds" class="md-nav__link">
+    Clouds
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#thermals-and-instability" class="md-nav__link">
+    Thermals and instability
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#wind" class="md-nav__link">
+    Wind
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ground-level" class="md-nav__link">
+    Ground level
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precipitations" class="md-nav__link">
+    Precipitations
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-sounding-plot" class="md-nav__link">
+    Understanding the Sounding Plot
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Sounding Plot">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-temperature-profiles" class="md-nav__link">
+    1. Temperature Profiles
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-thermal-stability-instability-zones" class="md-nav__link">
+    2. Thermal Stability &amp; Instability Zones
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-wind-profile" class="md-nav__link">
+    3. Wind Profile
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-key-observations" class="md-nav__link">
+    4. Key Observations
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-the-wind-maps" class="md-nav__link">
+    Understanding the Wind maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Wind maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-wind-at-ground-level-map" class="md-nav__link">
+    Understanding the Wind at Ground Level Map
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Wind at Ground Level Map">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-wind-direction-arrows" class="md-nav__link">
+    1. Wind Direction (Arrows)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-wind-speed-colors-scale" class="md-nav__link">
+    2. Wind Speed (Colors &amp; Scale)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-wind-at-various-altitudes-map" class="md-nav__link">
+    Understanding the Wind at Various Altitudes Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-mean-sea-level-pressure-map" class="md-nav__link">
+    Understanding the Mean Sea Level Pressure Map
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding the Mean Sea Level Pressure Map">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-color-coded-pressure-levels" class="md-nav__link">
+    1. Color-Coded Pressure Levels
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-how-to-interpret-this-map" class="md-nav__link">
+    2. How to Interpret This Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-dynamic-time-navigation" class="md-nav__link">
+    3. Dynamic Time Navigation
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-thermals-maps" class="md-nav__link">
+    Understanding Thermals Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Thermals Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-thermals-velocity-map" class="md-nav__link">
+    Understanding Thermals Velocity Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-thermals-shearing" class="md-nav__link">
+    Understanding Thermals Shearing
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-boundary-layer-thickness-map" class="md-nav__link">
+    Understanding Boundary Layer Thickness Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-humidity-maps" class="md-nav__link">
+    Understanding Humidity Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Humidity Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-precipitations-map" class="md-nav__link">
+    Understanding Precipitations Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-clouds-map" class="md-nav__link">
+    Understanding Clouds Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#understanding-temperature-maps" class="md-nav__link">
+    Understanding Temperature Maps
+  </a>
+  
+    <nav class="md-nav" aria-label="Understanding Temperature Maps">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-temperature-at-ground-level-map" class="md-nav__link">
+    Understanding the Temperature at Ground Level Map
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#understanding-the-temperature-at-various-altitudes-map" class="md-nav__link">
+    Understanding the Temperature at Various Altitudes Map
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+  
+    
+      <a href="https://github.com/meteo-parapente/mtopara-portal/edit/main/docs/help/user-manual.md" title="Edit this page" class="md-content__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+      </a>
+    
+  
+  
+  <h1 id="user-manual">User manual</h1>
+<h2 id="understanding-the-windgram"><strong>Understanding the Windgram</strong></h2>
+<p>When you have clicked on your location on the map (right-side pane), the <strong>windgram</strong> corresponding to this location appears on the left.</p>
+<h3 id="navigating-the-windgram-time-and-altitude">Navigating the windgram: time and altitude</h3>
+<p>The Windgram vertical scale is at <strong>4000m</strong> by default, but it can go till <strong>10000 m</strong>.</p>
+<p><img alt="Windgram" src="../../img/scr01.png" /></p>
+<p>Note that <strong>the hour in bold</strong> on the bottom is the hour you have chosen on the map. You can change it using the <strong>scroller</strong> or the <strong>buttons</strong> on the bottom of the map.</p>
+<p><img alt="Map: Wind at surface" src="../../img/scr04_01.png" /></p>
+<h3 id="clouds">Clouds</h3>
+<p>It is important to understand the global atmospheric conditions, including <strong>cloud coverage</strong> at all levels.  </p>
+<p>The <strong>clouds</strong> are schematically represented at the top of the windgram across three atmospheric levels, low, medium and high. The <strong>darker the shade of grey</strong>, the <strong>denser</strong> the predicted cloud coverage at that level.  </p>
+<p>When we talk about cloud altitudes, the definition is as follows:</p>
+<ul>
+<li><strong>low clouds: &lt;2000m</strong></li>
+<li><strong>mid-level clouds: 2000 to 6000m</strong></li>
+<li><strong>high clouds: &gt;6000m</strong></li>
+</ul>
+<p>Additionally, clouds appear as <strong>grey shades</strong> within the windgram at their corresponding altitudes. As before, a <strong>darker shade</strong> indicates <strong>thicker cloud cover</strong>.</p>
+<p><img alt="Windgram" src="../../img/scr01_01.png" /></p>
+<h3 id="thermals-and-instability">Thermals and instability</h3>
+<p>After this global overview, it makes sense to <strong>zoom in at the flight level</strong>. Here, we’ve selected a scale up to <strong>4000 m</strong>, even though thermals are unlikely to exceed <strong>2250 m</strong> today.  </p>
+<p>To ensure safe flying, it is crucial to study the <strong>conditions above the instability level</strong>.</p>
+<p><img alt="Windgram - Thermals" src="../../img/scr02.png" /></p>
+<p>The varying shades of yellow on the windgram represent <strong>atmospheric instability: the darker the yellow, the more unstable the air</strong>.</p>
+<p>Thermal activity typically follows a <strong>bell curve</strong>: as the day progresses, the air warms up, reaching peak thermal activity around 3 to 4 PM before rapidly fading after sunset.</p>
+<p>One might notice that the <strong>presence of the clouds</strong> slows down or even reverses this process (compare 8 am and 9 am, for example).</p>
+<h3 id="wind">Wind</h3>
+<p><img alt="Windgram - Wind" src="../../img/scr02_01.png" /></p>
+<p>Of course, the primary purpose of the <strong>windgram</strong> is to visualize <strong>the wind</strong>. The arrows indicate both <strong>wind strength and wind direction</strong> — the thicker the arrow, the stronger the wind. Additionally, a <strong>color scale</strong> enhances this representation, transitioning from <strong>green</strong> (light wind) to <strong>purple</strong> (very strong wind), with intermediate shades of <strong>yellow</strong> and <strong>red</strong> to reflect increasing intensity.</p>
+<h3 id="ground-level">Ground level</h3>
+<p>The last but not least, notice the <strong>absence of any data below 600 m</strong> (represented in grey). This is the <strong>ground level as seen by the model</strong>. It doesn't necessarily correspond to <strong>actual altitude</strong> of this flying spot.</p>
+<p>This discrepancy is completely normal. Weather models work by <strong>approximation</strong> and use a grid with pixels a few kilometers wide. The altitude displayed is a <strong>calculated average</strong> over that area. <strong>This is not specific to Meteo-Parapente. There is the same behavior on all weather models: GFS, ECMWF, AROME, ICON...</strong>.</p>
+<h3 id="precipitations">Precipitations</h3>
+<p>Sometimes at the bottom of the Windgram, just above the hours, a line of values appear. These are precipitations (to see an example, please visit <em>Understanding Humidity Maps</em>).</p>
+<hr />
+<h2 id="understanding-the-sounding-plot"><strong>Understanding the Sounding Plot</strong></h2>
+<p>By clicking on <strong>Sounding</strong> next to the <strong>Windgram</strong>, one can switch to the <strong>sounding diagram</strong>.</p>
+<p>It provides <strong>critical insights for free-flight pilots</strong>. By analyzing <strong>thermal activity, stability zones and wind strength</strong>, pilots can determine <strong>safe and optimal flight altitudes</strong> for <strong>soaring and thermal use</strong>.</p>
+<p>Compared to a <strong>classic sounding plot</strong>, Meteo-Parapente version is <strong>simplified</strong> and more <strong>comprehensive</strong>:</p>
+<ul>
+<li>
+<p>The <strong>altitude</strong> is displayed in <strong>meters</strong> instead of hPa (pressure levels).</p>
+</li>
+<li>
+<p>The <strong>scale is linear</strong>, making interpretation easier.</p>
+</li>
+<li>
+<p>Both the <strong>wind arrows (right-hand side)</strong> and the <strong>sounding curves</strong> are shown for the selected time (e.g., <strong>1 PM</strong> in this case).</p>
+</li>
+<li>
+<p>As the user <strong>scrolls through the time scale</strong> at the bottom of the map, the <strong>sounding curves and wind data dynamically update</strong>.</p>
+</li>
+</ul>
+<p><img alt="Sounding" src="../../img/scr03.png" /></p>
+<hr />
+<h3 id="1-temperature-profiles"><strong>1. Temperature Profiles</strong></h3>
+<ul>
+<li>The <strong>black line</strong> represents the <strong>actual temperature profile</strong> of the atmosphere.</li>
+<li>The <strong>blue line</strong> represents the <strong>dew point temperature</strong>, indicating humidity levels and the likelihood of cloud formation.</li>
+<li>The area where <strong>both curves touch</strong> indicate precipitations (for more details, see <em>Understanding Humidity Maps</em>).</li>
+</ul>
+<h3 id="2-thermal-stability-instability-zones"><strong>2. Thermal Stability &amp; Instability Zones</strong></h3>
+<ul>
+<li><strong>Absolute Instability - (yellow shaded area - sounding curve is red)</strong>  </li>
+</ul>
+<p>In this region, the temperature decreases rapidly with altitude, promoting strong thermal activity.</p>
+<ul>
+<li>
+<p><strong>Conditional Instability (yellow shaded area - sounding curve is green)</strong><br />
+  Here, instability depends on moisture content. If the air is dry, it remains stable; if saturated, it can rise further, forming clouds.</p>
+</li>
+<li>
+<p><strong>Stability (white unshaded area - sounding curve is black)</strong><br />
+  This region resists vertical movement, limiting further thermal development.</p>
+</li>
+<li>
+<p><strong>Top of the Atmospheric Boundary Layer</strong><br />
+  Marks the upper limit of significant thermal activity.</p>
+</li>
+<li>
+<p><strong>Vertical slanted lines</strong> represent <strong>isotherms</strong> (-20°C, -10°C, 0°C, 10°C, 20°C, 30°C, etc.).</p>
+</li>
+</ul>
+<h3 id="3-wind-profile"><strong>3. Wind Profile</strong></h3>
+<ul>
+<li><strong>Wind speed and direction</strong> are shown by <strong>arrows</strong> on the right-hand side.</li>
+<li><strong>Thicker arrows indicate stronger winds</strong>.</li>
+<li>The <strong>color scale</strong> represents wind strength, transitioning from <strong>green (light wind) to purple (very strong wind)</strong>.</li>
+<li>At this example, <strong>~2000m altitude</strong>, wind speed is <strong>29 km/h</strong>; at <strong>~4000m altitude</strong>, wind reaches <strong>65 km/h</strong>.</li>
+</ul>
+<h3 id="4-key-observations"><strong>4. Key Observations</strong></h3>
+<p>In this example, the pilot might draw the following conclusions:</p>
+<ul>
+<li>
+<p><strong>Thermals are unlikely to exceed ~2250m</strong>, as the stability layer starts beyond this altitude.</p>
+</li>
+<li>
+<p><strong>Wind increases with altitude</strong>, which can significantly impact flight conditions. Overall, this day might already be too windy for paragliding.</p>
+</li>
+<li>
+<p><strong>The conditional instability layer</strong> suggests a potential for <strong>cumulus cloud formation</strong>.</p>
+</li>
+</ul>
+<hr />
+<h2 id="understanding-the-wind-maps"><strong>Understanding the Wind maps</strong></h2>
+<p>All <strong>wind maps</strong> provide a visual representation of <strong>wind conditions</strong> using <strong>arrows</strong> for wind direction and a <strong>color-coded scale</strong> for the wind strength.</p>
+<p>To switch between various wind maps, click on the <strong>Menu</strong> button on the top right of the screen, then choose the right representation from the <strong>Wind</strong> drop-down list.</p>
+<p><img alt="Wind" src="../../img/scr_menu.png" /></p>
+<p>The most commonly used maps are <strong>Wind at ground level</strong> and <strong>Wind at various altitudes</strong>.</p>
+<h3 id="understanding-the-wind-at-ground-level-map"><strong>Understanding the Wind at Ground Level Map</strong></h3>
+<p><img alt="Wind at surface level" src="../../img/scr04.png" /></p>
+<h4 id="1-wind-direction-arrows"><strong>1. Wind Direction (Arrows)</strong></h4>
+<ul>
+<li>
+<p>The <strong>black arrows</strong> indicate <strong>wind direction</strong> (in this example, at the surface level).</p>
+</li>
+<li>
+<p>The arrows <strong>point in the direction the wind is moving</strong>. The wind is following the arrows.</p>
+</li>
+</ul>
+<h4 id="2-wind-speed-colors-scale"><strong>2. Wind Speed (Colors &amp; Scale)</strong></h4>
+<p>The background colors represent <strong>wind speed</strong>, with a <strong>legend on the left</strong> showing values in <strong>km/h</strong>.</p>
+<p><strong>You can change the speed unit in the windgram or in the <em>settings</em> menu</strong>.</p>
+<ul>
+<li>
+<p><strong>Green shades</strong> → Indicate <strong>lighter winds</strong> (below ~20 km/h).</p>
+</li>
+<li>
+<p><strong>Yellow to orange shades</strong> → Represent <strong>moderate winds</strong> (between ~20 to 40 km/h).</p>
+</li>
+<li>
+<p><strong>Red shades</strong> → Indicate <strong>stronger winds</strong> (above ~40 km/h).</p>
+</li>
+<li>
+<p><strong>Dark red or purple areas</strong> (if present) → Represent <strong>very strong winds</strong>, potentially exceeding 50 km/h.</p>
+</li>
+</ul>
+<p>The color scale is designed for paragliding: green is safe, red is danger.</p>
+<p>As the user <strong>scrolls through the time scale</strong> at the bottom of the map, the <strong>wind data dynamically updates</strong>.</p>
+<h3 id="understanding-the-wind-at-various-altitudes-map"><strong>Understanding the Wind at Various Altitudes Map</strong></h3>
+<p><img alt="Wind at various altitudes" src="../../img/scr05.png" /></p>
+<p>The <strong>wind at various altitudes</strong> map functions similarly to the <strong>wind at ground level</strong> map.<br />
+To navigate between altitudes, use the <strong>right-hand vertical scroller</strong>, which allows switching in <strong>250 m increments</strong>.  </p>
+<ul>
+<li>
+<p>The <strong>current altitude</strong> is displayed in the <strong>top left corner</strong> of the page (here, <strong>750 m</strong>).  </p>
+</li>
+<li>
+<p>A <strong>grey-shaded area</strong> illustrates the <strong>mountain terrain as estimated by the model</strong>, signifying regions where wind data is unavailable, as <strong>there is no wind within the rocks</strong>. While some other websites may display wind data within the mountains, this is merely an unreliable interpolation intended to enhance visual appeal, and should not be trusted.</p>
+</li>
+<li>
+<p>Naturally, as altitude increases, the <strong>mountain's footprint decreases</strong>, revealing more wind data at higher levels.  </p>
+</li>
+</ul>
+<p><img alt="Wind at various altitudes" src="../../img/scr06.png" /></p>
+<p>This visualization helps in better flight planning and understanding atmospheric dynamics.  </p>
+<hr />
+<h3 id="understanding-the-mean-sea-level-pressure-map"><strong>Understanding the Mean Sea Level Pressure Map</strong></h3>
+<p>This visualization represents <strong>mean sea level pressure (MSLP)</strong>, a key meteorological parameter used to analyze atmospheric pressure patterns.</p>
+<p><img alt="Pressure Mean Sea Level" src="../../img/scr07.png" /></p>
+<h4 id="1-color-coded-pressure-levels"><strong>1. Color-Coded Pressure Levels</strong></h4>
+<ul>
+<li>The background <strong>color gradient</strong> represents <strong>sea-level pressure in hPa</strong>, as shown on the <strong>legend on the left</strong>.</li>
+<li><strong>Higher pressure</strong> is indicated by <strong>warmer colors</strong> (orange, red).</li>
+<li><strong>Lower pressure</strong> is represented by <strong>cooler colors</strong> (yellow, green, blue).</li>
+<li>The values on the scale (e.g., <strong>995 hPa to 1027 hPa</strong>) indicate the pressure at sea level, not at ground level.</li>
+</ul>
+<h4 id="2-how-to-interpret-this-map"><strong>2. How to Interpret This Map</strong></h4>
+<ul>
+<li><strong>Higher pressure areas (warmer shades, orange-red)</strong><br />
+Typically associated with <strong>stable weather</strong>, clearer skies, and lower wind activity.</li>
+<li><strong>Lower pressure areas (cooler shades, yellow-light brown)</strong><br />
+Indicate regions of potential <strong>instability</strong>, possibly leading to increased cloud cover, wind, and precipitation.</li>
+<li><strong>Gradual transitions between colors</strong> reflect changes in atmospheric pressure across a region.</li>
+</ul>
+<h4 id="3-dynamic-time-navigation"><strong>3. Dynamic Time Navigation</strong></h4>
+<ul>
+<li>The <strong>bottom time slider</strong> allows users to scroll through the forecast, visualizing how <strong>pressure systems evolve over time</strong>.</li>
+<li>This helps in predicting <strong>weather changes, wind shifts and potential storm developments</strong>.</li>
+</ul>
+<p>By analyzing <strong>pressure values and their spatial variations</strong>, users can anticipate <strong>weather trends, wind patterns and potential changes in atmospheric stability</strong>.</p>
+<hr />
+<h2 id="understanding-thermals-maps"><strong>Understanding Thermals Maps</strong></h2>
+<p>All <strong>thermal maps</strong> provide a visual representation of <strong>thermal conditions</strong> (updrafts and atmospheric boundary layer), helping the pilots <strong>identify the best lift areas</strong>, with <strong>stronger thermals typically forming over sun-exposed ridges and valleys</strong>.
+They are crucial for planning cross-country flights and understanding the day's soaring potential.</p>
+<p>To switch between various thermals maps, click on the <strong>Menu</strong> button on the top right of the screen, then choose the right representation from the <strong>Updrafts</strong> drop-down list.</p>
+<p><img alt="Thermals" src="../../img/scr_menu_thermals.png" /></p>
+<h3 id="understanding-thermals-velocity-map"><strong>Understanding Thermals Velocity Map</strong></h3>
+<p><img alt="Thermals Velocity Map" src="../../img/scr10.png" /></p>
+<p>The <strong>Thermals Velocity Map</strong> displays the <strong>vertical speed of thermals</strong> (in m/s) at different flight levels, as indicated by the <strong>legend on the left</strong>.<br />
+- <strong>Yellow and light green shades</strong> represent <strong>weak thermals</strong> (0 to ~2 m/s).<br />
+- <strong>Darker green to blue shades</strong> indicate <strong>moderate thermals</strong> (~2 to 5 m/s).<br />
+- <strong>Purple and pink shades</strong> correspond to <strong>strong thermals</strong> (above ~5 m/s), which can provide significant lift.  </p>
+<p>Use the <strong>time slider at the bottom</strong> to analyze how thermal activity evolves throughout the day.</p>
+<p>It is important to understand that this represents the <strong>average thermal intensity in the area</strong>. It is not the maximum speed you would see on the variometer in a specific thermal. This indicator is reliable, but it should be interpreted as a <strong>relative value rather than an absolute one</strong>.</p>
+<h3 id="understanding-thermals-shearing"><strong>Understanding Thermals Shearing</strong></h3>
+<p><img alt="Thermals Shearing" src="../../img/scr09.png" /></p>
+<p>Thermals shearing map is dimensionless. <strong>Shear</strong> is a subjective indicator that evaluates the <strong>ratio between thermal speed and wind speed</strong>. It helps estimate whether the lift will be <strong>smooth and pleasant</strong> or <strong>turbulent and bumpy</strong>.</p>
+<p>A <strong>green color</strong> (higher value) indicates the presence of thermals with little wind, resulting in more stable and comfortable lift conditions.</p>
+<hr />
+<h3 id="understanding-boundary-layer-thickness-map"><strong>Understanding Boundary Layer Thickness Map</strong></h3>
+<p><img alt="Boundary Layer Thickness" src="../../img/scr11.png" /></p>
+<p>The <strong>Boundary Layer Thickness Map</strong> represents the <strong>height of the atmospheric boundary layer</strong> (in meters above ground level, AGL), as shown in the <strong>legend on the left</strong>.  </p>
+<p>The boundary layer represents the part of the atmosphere that is influenced by ground turbulence. This turbulence is created by wind or thermal activity. Under thermal conditions, one can consider that the thickness of the boundary layer is approximately equal to the height of the cloud ceiling and the base of the clouds (relative to the ground altitude).</p>
+<p>The <em>Boundary Layer Ceiling</em> Map displays the absolute altitude of the top of the Boundary Layer (ground altitude + thickness).</p>
+<ul>
+<li><strong>Green and light blue shades</strong> indicate a <strong>lower boundary layer</strong> (~500 to 2000 m AGL), where thermal activity is more limited.  </li>
+<li><strong>Yellow to red shades</strong> represent a <strong>higher boundary layer</strong> (~2000 to 4000 m AGL), allowing for stronger and more sustained thermals.  </li>
+</ul>
+<p>The <strong>time slider at the bottom</strong> allows tracking of boundary layer evolution throughout the day.</p>
+<hr />
+<h2 id="understanding-humidity-maps"><strong>Understanding Humidity Maps</strong></h2>
+<p><strong>Humidity maps</strong> provide an overview of expected overcast and precipitations.</p>
+<p>To switch between various humidity maps, click on the <strong>Menu</strong> button on the top right of the screen, then choose the right representation from the <strong>Humidity</strong> drop-down list.</p>
+<p><img alt="Humidity" src="../../img/scr_menu_humidity.png" /></p>
+<h3 id="understanding-precipitations-map"><strong>Understanding Precipitations Map</strong></h3>
+<p><img alt="Precipitations" src="../../img/scr13.png" /></p>
+<p>This map displays <strong>hourly precipitation (mm/h)</strong>, indicating areas with expected rainfall.</p>
+<p><strong>It is important to understand that accurately predicting rainfall is quite challenging, and ALL models, including Meteo-Parapente, ICON, AROME, ECMWF, and GFS, struggle with this aspect.</strong> It should rather be considered as an indicator of the risk of rain rather than an absolute value.</p>
+<p>It helps pilots <strong>avoid areas with rain</strong> that could affect flight safety. It also identifies <strong>moist zones</strong> where cloud formation may impact thermal activity and limit the possibility to take off or land.  </p>
+<ul>
+<li><strong>Light blue shades</strong> → Indicate <strong>light precipitation</strong> (~0 to 5 mm/h).  </li>
+<li><strong>Darker blue to purple shades</strong> → Represent <strong>moderate to heavy precipitation</strong> (&gt;5 mm/h).  </li>
+</ul>
+<p>The <strong>time slider</strong> allows tracking of precipitation changes over the day.</p>
+<p>The precipitations also show up at the bottom of the <strong>Windgram</strong>:</p>
+<p><img alt="Windgram - Rain" src="../../img/scr14.png" /></p>
+<h3 id="understanding-clouds-map"><strong>Understanding Clouds Map</strong></h3>
+<p>All <strong>Clouds</strong> maps are similar, but the <strong>Clouds at Various Altitudes map</strong> allows you to navigate different altitude levels, whereas the other maps focus on specific altitude zones. We will therefore only discuss one of these maps.</p>
+<p><img alt="Cloud Cover 1750 m" src="../../img/scr16.png" /></p>
+<p>This map displays <strong>cloud cover percentage</strong> at various altitudes. It identifies <strong>potential cloud layers</strong> ☁️  that could affect visibility and helps locate clear areas with better thermal development.</p>
+<p>To navigate between altitudes, use the <strong>right-hand vertical scroller</strong>, which allows switching in <strong>250 m increments</strong>.  </p>
+<p>The <strong>current altitude</strong> is displayed in the <strong>top left corner</strong> of the page (here, <strong>1750 m</strong>).  </p>
+<p>The color legend is as follows:</p>
+<ul>
+<li><strong>Light gray</strong> → <strong>Clear sky</strong> or very low cloud cover (~0-20%).  </li>
+<li><strong>Light blue to dark blue</strong> → Increasing cloud cover (~20-80%).  </li>
+<li><strong>Darker blue shades</strong> → Indicate <strong>dense cloud coverage</strong> (~80-100%).  </li>
+</ul>
+<p>As usual, the <strong>time slider</strong> helps track cloud evolution during the day.</p>
+<hr />
+<h2 id="understanding-temperature-maps"><strong>Understanding Temperature Maps</strong></h2>
+<p>Just like with the wind maps, there are two temperature maps, one at varying altitudes and another one at ground level.</p>
+<p>As usual, in order to switch between two, click on the <strong>Menu</strong> button on the top right of the screen, then choose the right visualisation from the <strong>Temperature</strong> drop-down list.</p>
+<h3 id="understanding-the-temperature-at-ground-level-map"><strong>Understanding the Temperature at Ground Level Map</strong></h3>
+<p>This map shows <strong>air temperature at 2 meters above ground level (AGL)</strong>, crucial for understanding surface heating and thermal activity.</p>
+<p><img alt="Temperature at Ground Level" src="../../img/scr20.png" /></p>
+<p>The legend is as follows:</p>
+<ul>
+<li><strong>Dark blue to cyan</strong> → <strong>Cold temperatures</strong> (~0-10°C).  </li>
+<li><strong>Green to yellow</strong> → <strong>Mild to warm temperatures</strong> (~10-25°C).  </li>
+<li><strong>Orange to red</strong> → <strong>Hot temperatures</strong> (30°C and above).  </li>
+</ul>
+<p>As the user <strong>scrolls through the time scale</strong> at the bottom of the map, the <strong>temperature data dynamically updates</strong>, showing the evolution during the day.</p>
+<h3 id="understanding-the-temperature-at-various-altitudes-map"><strong>Understanding the Temperature at Various Altitudes Map</strong></h3>
+<p><img alt="Temperature" src="../../img/scr19.png" /></p>
+<p>The <strong>temperature at various altitudes</strong> map is very similar to the <strong>wind at ground level</strong> map.</p>
+<p>Here are the main differences:  </p>
+<ul>
+<li>
+<p>To navigate between altitudes, use the <strong>right-hand vertical scroller</strong>, which allows switching in <strong>250 m increments</strong>.  </p>
+</li>
+<li>
+<p>The <strong>current altitude</strong> is displayed in the <strong>top left corner</strong> of the page (here, <strong>750 m</strong>).  </p>
+</li>
+<li>
+<p>A <strong>grey-shaded area</strong> represents the <strong>mountain terrain as seen by the model</strong>, indicating regions where <strong>no temperature data is available</strong>.  </p>
+</li>
+<li>
+<p>Naturally, as altitude increases, the <strong>mountain's footprint decreases</strong>, revealing more data at higher levels.  </p>
+</li>
+</ul>
+
+  
+
+  
+
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+    
+
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../../about/model/" class="md-footer__link md-footer__link--prev" aria-label="Previous: The Meteo-Parapente Model" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              The Meteo-Parapente Model
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../support/account/" class="md-footer__link md-footer__link--next" aria-label="Next: Account &amp; Login" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Account & Login
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2023  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+          </div>
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
+    
+    
+  
+      <script src="../../assets/javascripts/bundle.b1047164.min.js"></script>
+      
+    
+  
+  <script>
+    if (window.location.search.includes('from=app')) {
+      document.querySelectorAll('a[href$="users/contribute/"]')
+      .forEach(link => link.parentNode.remove());
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+        if (link.href.includes('?')) {
+          if (!link.href.includes('from=app')) {
+            link.href += '&from=app';
+          }
+        } else {
+          link.href += '?from=app';
+        }
+      });
+    }
+  </script>
+
+  </body>
+</html>

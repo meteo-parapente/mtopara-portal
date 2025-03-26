@@ -1,0 +1,1578 @@
+
+<!doctype html>
+<html lang="it" class="no-js">
+  <head>
+    
+  <script src="/js/mpdb.js"></script>
+
+  <meta charset="utf-8" />
+  <!--<meta name="viewport" content="width=device-width,initial-scale=1" />-->
+
+  <meta name="viewport" content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width,height=device-height">
+
+  <!-- Page description -->
+  
+    <meta name="description" content="Documentation for Meteo-Parapente" />
+  
+
+  <!-- Page keywords -->
+  
+
+  <!-- Page author -->
+  
+    <meta name="author" content="Meteo-Parapente" />
+  
+
+  <!-- Canonical -->
+  
+    <link rel="canonical" href="https://portal.meteo-parapente.com/it/help/user-manual/" />
+  
+
+  <!-- Favicon -->
+  <link rel="icon" href="../../../img/favicon.png" />
+
+  <!-- Generator banner -->
+  <meta
+    name="generator"
+    content="mkdocs-1.5.3, $md-name$-$md-version$"
+  />
+  
+  <!-- Social preview -->
+  
+
+    
+      
+        <title>Manuale utente - Meteo-Parapente</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.a57b2b03.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.3f5d1f46.min.css">
+        
+      
+    
+    
+    
+  <link rel="stylesheet" href="/css/fonts/roboto.css">
+  <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+
+    
+    
+    
+      
+
+
+    
+    
+  
+
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="none" data-md-color-accent="none">
+  
+    
+    <script>function __prefix(e){return new URL("../../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#manuale-utente" class="md-skip">
+          Vai al contenuto
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Determine class according to configuration -->
+
+
+
+<!-- Header -->
+<header class="md-header" data-md-component="header">
+  <nav
+    class="md-header__inner md-grid"
+    aria-label="Header"
+  >
+
+    <!-- Link to home -->
+    <!--<a
+      href="../../"
+      title="Meteo-Parapente"
+      class="md-header__button md-logo"
+      aria-label="Meteo-Parapente"
+      data-md-component="logo"
+    >
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>-->
+
+    
+      <!-- Button to open drawer -->
+      <label class="md-header__button md-icon" for="__drawer">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+      </label>
+    
+
+    <!-- Header title -->
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Meteo-Parapente
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Manuale utente
+            
+          </span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Color palette -->
+    
+
+    <!-- Site language selector -->
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button
+            class="md-header__button md-icon"
+            aria-label="Select language"
+          >            
+            <img src="/img/flag/it.svg" style="width: 24px;"/>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a
+                    href="../../../help/user-manual/"
+                    hreflang="en"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/en.svg" style="width: 24px;"/>
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../fr/help/user-manual/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../de/help/user-manual/"
+                    hreflang="de"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/de.svg" style="width: 24px;"/>
+                    Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="./"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../es/help/user-manual/"
+                    hreflang="es"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/es.svg" style="width: 24px;"/>
+                    Español
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../nl/help/user-manual/"
+                    hreflang="nl"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/nl.svg" style="width: 24px;"/>
+                    Nederlands
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+      <script>
+        const links = document.querySelectorAll('.lang-link')
+        links.forEach(a => {
+          const queryString = document.location.href.match(/\?.*$/) || ''
+          a.href = a.href + queryString
+        })
+      </script>
+    
+
+    <!-- Button to open search modal -->
+    
+      
+        <label class="md-header__button md-icon" for="__search">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        </label>
+
+        <!-- Search interface -->
+        
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Cerca" placeholder="Cerca" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+
+    <!-- Repository information -->
+    <!---->
+  </nav>
+
+  <!-- Navigation tabs (sticky) -->
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../" title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Meteo-Parapente
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        Benvenuto
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/" class="md-nav__link">
+        Chi siamo
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/model/" class="md-nav__link">
+        Il Modello di Meteo-Parapente
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Manuale utente
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Manuale utente
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Indice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-del-windgram" class="md-nav__link">
+    Comprensione del Windgram
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione del Windgram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#navigazione-del-windgram-tempo-e-altitudine" class="md-nav__link">
+    Navigazione del windgram: tempo e altitudine
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nuvole" class="md-nav__link">
+    Nuvole
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#termiche-e-instabilita" class="md-nav__link">
+    Termiche e instabilità
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vento" class="md-nav__link">
+    Vento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#livello-del-suolo" class="md-nav__link">
+    Livello del suolo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precipitazioni" class="md-nav__link">
+    Precipitazioni
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-del-diagramma-di-sondaggio" class="md-nav__link">
+    Comprensione del Diagramma di Sondaggio
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione del Diagramma di Sondaggio">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-profili-di-temperatura" class="md-nav__link">
+    1. Profili di Temperatura
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-zone-di-stabilita-e-instabilita-termica" class="md-nav__link">
+    2. Zone di Stabilità e Instabilità Termica
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-profilo-del-vento" class="md-nav__link">
+    3. Profilo del Vento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-osservazioni-chiave" class="md-nav__link">
+    4. Osservazioni Chiave
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-dei-venti" class="md-nav__link">
+    Comprensione delle mappe dei venti
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle mappe dei venti">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-del-vento-a-livello-del-suolo" class="md-nav__link">
+    Comprensione della mappa del vento a livello del suolo
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione della mappa del vento a livello del suolo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-direzione-del-vento-frecce" class="md-nav__link">
+    1. Direzione del vento (Frecce)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-velocita-del-vento-colori-e-scala" class="md-nav__link">
+    2. Velocità del vento (Colori e scala)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-del-vento-a-varie-quote" class="md-nav__link">
+    Comprensione della mappa del vento a varie quote
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-della-pressione-media-a-livello-del-mare" class="md-nav__link">
+    Comprensione della mappa della pressione media a livello del mare
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione della mappa della pressione media a livello del mare">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-livelli-di-pressione-codificati-a-colori" class="md-nav__link">
+    1. Livelli di pressione codificati a colori
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-come-interpretare-questa-mappa" class="md-nav__link">
+    2. Come interpretare questa mappa
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-navigazione-temporale-dinamica" class="md-nav__link">
+    3. Navigazione temporale dinamica
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-termiche" class="md-nav__link">
+    Comprensione delle Mappe Termiche
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe Termiche">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-della-velocita-delle-termiche" class="md-nav__link">
+    Comprensione della Mappa della Velocità delle Termiche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-del-taglio-delle-termiche" class="md-nav__link">
+    Comprensione del Taglio delle Termiche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-dello-spessore-dello-strato-limite" class="md-nav__link">
+    Comprensione della Mappa dello Spessore dello Strato Limite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-di-umidita" class="md-nav__link">
+    Comprensione delle Mappe di Umidità
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe di Umidità">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-precipitazioni" class="md-nav__link">
+    Comprensione della Mappa delle Precipitazioni
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-nuvole" class="md-nav__link">
+    Comprensione della Mappa delle Nuvole
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-delle-temperature" class="md-nav__link">
+    Comprensione delle Mappe delle Temperature
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe delle Temperature">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-temperature-al-livello-del-suolo" class="md-nav__link">
+    Comprensione della Mappa delle Temperature al Livello del Suolo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-temperature-a-varie-quote" class="md-nav__link">
+    Comprensione della Mappa delle Temperature a Varie Quote
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Support
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Support" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Support
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/account/" class="md-nav__link">
+        Account e Login
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/contact/" class="md-nav__link">
+        Contatto
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/issues/" class="md-nav__link">
+        Risoluzione dei problemi e Issues
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support/subscription/" class="md-nav__link">
+        Abbonamento e Pagamento
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../tour/" class="md-nav__link">
+        Tour
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../users/contribute/" class="md-nav__link">
+        Abbonati
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../about/data-sources/" class="md-nav__link">
+        Fonti dei dati
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../translations/" class="md-nav__link">
+        Traduzioni
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../privacy/" class="md-nav__link">
+        Politica sulla riservatezza
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../legal/" class="md-nav__link">
+        Informazione legale
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="Indice">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Indice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-del-windgram" class="md-nav__link">
+    Comprensione del Windgram
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione del Windgram">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#navigazione-del-windgram-tempo-e-altitudine" class="md-nav__link">
+    Navigazione del windgram: tempo e altitudine
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nuvole" class="md-nav__link">
+    Nuvole
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#termiche-e-instabilita" class="md-nav__link">
+    Termiche e instabilità
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#vento" class="md-nav__link">
+    Vento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#livello-del-suolo" class="md-nav__link">
+    Livello del suolo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#precipitazioni" class="md-nav__link">
+    Precipitazioni
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-del-diagramma-di-sondaggio" class="md-nav__link">
+    Comprensione del Diagramma di Sondaggio
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione del Diagramma di Sondaggio">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-profili-di-temperatura" class="md-nav__link">
+    1. Profili di Temperatura
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-zone-di-stabilita-e-instabilita-termica" class="md-nav__link">
+    2. Zone di Stabilità e Instabilità Termica
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-profilo-del-vento" class="md-nav__link">
+    3. Profilo del Vento
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-osservazioni-chiave" class="md-nav__link">
+    4. Osservazioni Chiave
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-dei-venti" class="md-nav__link">
+    Comprensione delle mappe dei venti
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle mappe dei venti">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-del-vento-a-livello-del-suolo" class="md-nav__link">
+    Comprensione della mappa del vento a livello del suolo
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione della mappa del vento a livello del suolo">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-direzione-del-vento-frecce" class="md-nav__link">
+    1. Direzione del vento (Frecce)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-velocita-del-vento-colori-e-scala" class="md-nav__link">
+    2. Velocità del vento (Colori e scala)
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-del-vento-a-varie-quote" class="md-nav__link">
+    Comprensione della mappa del vento a varie quote
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-della-pressione-media-a-livello-del-mare" class="md-nav__link">
+    Comprensione della mappa della pressione media a livello del mare
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione della mappa della pressione media a livello del mare">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-livelli-di-pressione-codificati-a-colori" class="md-nav__link">
+    1. Livelli di pressione codificati a colori
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-come-interpretare-questa-mappa" class="md-nav__link">
+    2. Come interpretare questa mappa
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-navigazione-temporale-dinamica" class="md-nav__link">
+    3. Navigazione temporale dinamica
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-termiche" class="md-nav__link">
+    Comprensione delle Mappe Termiche
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe Termiche">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-della-velocita-delle-termiche" class="md-nav__link">
+    Comprensione della Mappa della Velocità delle Termiche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-del-taglio-delle-termiche" class="md-nav__link">
+    Comprensione del Taglio delle Termiche
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-dello-spessore-dello-strato-limite" class="md-nav__link">
+    Comprensione della Mappa dello Spessore dello Strato Limite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-di-umidita" class="md-nav__link">
+    Comprensione delle Mappe di Umidità
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe di Umidità">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-precipitazioni" class="md-nav__link">
+    Comprensione della Mappa delle Precipitazioni
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-nuvole" class="md-nav__link">
+    Comprensione della Mappa delle Nuvole
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comprensione-delle-mappe-delle-temperature" class="md-nav__link">
+    Comprensione delle Mappe delle Temperature
+  </a>
+  
+    <nav class="md-nav" aria-label="Comprensione delle Mappe delle Temperature">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-temperature-al-livello-del-suolo" class="md-nav__link">
+    Comprensione della Mappa delle Temperature al Livello del Suolo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#comprensione-della-mappa-delle-temperature-a-varie-quote" class="md-nav__link">
+    Comprensione della Mappa delle Temperature a Varie Quote
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+  
+    
+      <a href="https://github.com/meteo-parapente/mtopara-portal/edit/main/docs/help/user-manual.it.md" title="Modifica" class="md-content__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+      </a>
+    
+  
+  
+  <h1 id="manuale-utente">Manuale utente</h1>
+<h2 id="comprensione-del-windgram"><strong>Comprensione del Windgram</strong></h2>
+<p>Quando si fa clic sulla propria posizione sulla mappa (riquadro a destra), il <strong>windgram</strong> corrispondente a questa posizione appare a sinistra.</p>
+<h3 id="navigazione-del-windgram-tempo-e-altitudine">Navigazione del windgram: tempo e altitudine</h3>
+<p>La scala verticale del Windgram è impostata su <strong>4000m</strong> per impostazione predefinita, ma può arrivare fino a <strong>10000 m</strong>.</p>
+<p><img alt="Windgram" src="../../../img/scr01.png" /></p>
+<p>Nota che <strong>l'ora in grassetto</strong> in basso è l'ora che hai scelto sulla mappa. Puoi modificarla utilizzando lo <strong>scroller</strong> o i <strong>pulsanti</strong> in basso sulla mappa.</p>
+<p><img alt="Mappa: Vento a superficie" src="../../../img/scr04_01.png" /></p>
+<h3 id="nuvole">Nuvole</h3>
+<p>È importante comprendere le condizioni atmosferiche globali, inclusa la <strong>copertura nuvolosa</strong> a tutti i livelli.  </p>
+<p>Le <strong>nuvole</strong> sono rappresentate schematicamente in alto nel windgram su tre livelli atmosferici, basso, medio e alto. Più <strong>scura è la tonalità di grigio</strong>, più <strong>densa</strong> è la copertura nuvolosa prevista a quel livello.  </p>
+<p>Quando parliamo di altitudini delle nuvole, la definizione è la seguente:</p>
+<ul>
+<li><strong>nuvole basse: &lt;2000m</strong></li>
+<li><strong>nuvole di medio livello: da 2000 a 6000m</strong></li>
+<li><strong>nuvole alte: &gt;6000m</strong></li>
+</ul>
+<p>Inoltre, le nuvole appaiono come <strong>sfumature di grigio</strong> all'interno del windgram alle loro corrispondenti altitudini. Come prima, una <strong>tonalità più scura</strong> indica una <strong>copertura nuvolosa più spessa</strong>.</p>
+<p><img alt="Windgram" src="../../../img/scr01_01.png" /></p>
+<h3 id="termiche-e-instabilita">Termiche e instabilità</h3>
+<p>Dopo questa panoramica globale, ha senso fare uno <strong>zoom al livello di volo</strong>. Qui, abbiamo selezionato una scala fino a <strong>4000 m</strong>, anche se oggi è improbabile che le termiche superino <strong>2250 m</strong>.  </p>
+<p>Per garantire un volo sicuro, è cruciale studiare le <strong>condizioni sopra il livello di instabilità</strong>.</p>
+<p><img alt="Windgram - Termiche" src="../../../img/scr02.png" /></p>
+<p>Le varianti sfumature di giallo sul windgram rappresentano <strong>l'instabilità atmosferica: più scuro è il giallo, più instabile è l'aria</strong>.</p>
+<p>L'attività termica segue tipicamente una <strong>curva a campana</strong>: durante il giorno, l'aria si riscalda, raggiungendo il picco di attività termica intorno alle 3-4 del pomeriggio, per poi svanire rapidamente dopo il tramonto.</p>
+<p>Si può notare che la <strong>presenza delle nuvole</strong> rallenta o addirittura inverte questo processo (confrontare le 8 e le 9 del mattino, ad esempio).</p>
+<h3 id="vento">Vento</h3>
+<p><img alt="Windgram - Vento" src="../../../img/scr02_01.png" /></p>
+<p>Naturalmente, lo scopo principale del <strong>windgram</strong> è visualizzare il <strong>vento</strong>. Le frecce indicano sia la <strong>forza che la direzione del vento</strong> — più spessa è la freccia, più forte è il vento. Inoltre, una <strong>scala di colori</strong> migliora questa rappresentazione, passando dal <strong>verde</strong> (vento leggero) al <strong>viola</strong> (vento molto forte), con tonalità intermedie di <strong>giallo</strong> e <strong>rosso</strong> per riflettere l'intensità crescente.</p>
+<h3 id="livello-del-suolo">Livello del suolo</h3>
+<p>Non da ultimo, notare l'<strong>assenza di dati sotto i 600 m</strong> (rappresentati in grigio). Questo è il <strong>livello del suolo come visto dal modello</strong>. Non corrisponde necessariamente all'<strong>altitudine effettiva</strong> di questo punto di volo.</p>
+<p>Questa discrepanza è completamente normale. I modelli meteorologici funzionano per <strong>approssimazione</strong> e utilizzano una griglia con pixel larghi alcuni chilometri. L'altitudine visualizzata è una <strong>media calcolata</strong> su quell'area. <strong>Questo non è specifico di Meteo-Parapente. C'è lo stesso comportamento su tutti i modelli meteorologici: GFS, ECMWF, AROME, ICON...</strong>.</p>
+<h3 id="precipitazioni">Precipitazioni</h3>
+<p>A volte in fondo al Windgram, proprio sopra le ore, appare una riga di valori. Questi sono le precipitazioni (per vedere un esempio, visitare <em>Comprensione delle Mappe di Umidità</em>).</p>
+<hr />
+<h2 id="comprensione-del-diagramma-di-sondaggio"><strong>Comprensione del Diagramma di Sondaggio</strong></h2>
+<p>Facendo clic su <strong>Sondaggio</strong> accanto al <strong>Windgram</strong>, è possibile passare al <strong>diagramma di sondaggio</strong>.</p>
+<p>Fornisce <strong>approfondimenti critici per i piloti di volo libero</strong>. Analizzando <strong>attività termica, zone di stabilità e intensità del vento</strong>, i piloti possono determinare <strong>altitudini di volo sicure e ottimali</strong> per <strong>planata e uso termico</strong>.</p>
+<p>Rispetto a un <strong>diagramma di sondaggio classico</strong>, la versione di Meteo-Parapente è <strong>semplificata</strong> e più <strong>esaustiva</strong>:</p>
+<ul>
+<li>
+<p>L'<strong>altitudine</strong> è visualizzata in <strong>metri</strong> invece che in hPa (livelli di pressione).</p>
+</li>
+<li>
+<p>La <strong>scala è lineare</strong>, rendendo l'interpretazione più facile.</p>
+</li>
+<li>
+<p>Sia le <strong>frecce del vento (lato destro)</strong> che le <strong>curve di sondaggio</strong> sono mostrate per l'ora selezionata (ad esempio, <strong>1 PM</strong> in questo caso).</p>
+</li>
+<li>
+<p>Scorrendo la <strong>scala temporale</strong> in basso sulla mappa, le <strong>curve di sondaggio e i dati del vento si aggiornano dinamicamente</strong>.</p>
+</li>
+</ul>
+<p><img alt="Sondaggio" src="../../../img/scr03.png" /></p>
+<hr />
+<h3 id="1-profili-di-temperatura"><strong>1. Profili di Temperatura</strong></h3>
+<ul>
+<li>La <strong>linea nera</strong> rappresenta il <strong>profilo di temperatura effettivo</strong> dell'atmosfera.</li>
+<li>La <strong>linea blu</strong> rappresenta la <strong>temperatura del punto di rugiada</strong>, che indica i livelli di umidità e la probabilità di formazione di nuvole.</li>
+<li>L'area in cui <strong>entrambe le curve si toccano</strong> indica precipitazioni (per maggiori dettagli, vedi <em>Comprensione delle Mappe di Umidità</em>).</li>
+</ul>
+<h3 id="2-zone-di-stabilita-e-instabilita-termica"><strong>2. Zone di Stabilità e Instabilità Termica</strong></h3>
+<ul>
+<li><strong>Instabilità Assoluta - (area ombreggiata gialla - curva di sondaggio rossa)</strong>  </li>
+</ul>
+<p>In questa regione, la temperatura diminuisce rapidamente con l'altitudine, promuovendo una forte attività termica.</p>
+<ul>
+<li>
+<p><strong>Instabilità Condizionale (area ombreggiata gialla - curva di sondaggio verde)</strong><br />
+  Qui, l'instabilità dipende dal contenuto di umidità. Se l'aria è secca, rimane stabile; se satura, può salire ulteriormente, formando nuvole.</p>
+</li>
+<li>
+<p><strong>Stabilità (area non ombreggiata bianca - curva di sondaggio nera)</strong><br />
+  Questa regione resiste al movimento verticale, limitando l'ulteriore sviluppo termico.</p>
+</li>
+<li>
+<p><strong>Sommità dello Strato Limite Atmosferico</strong><br />
+  Segna il limite superiore dell'attività termica significativa.</p>
+</li>
+<li>
+<p>Le <strong>linee verticali inclinate</strong> rappresentano gli <strong>isotermi</strong> (-20°C, -10°C, 0°C, 10°C, 20°C, 30°C, ecc.).</p>
+</li>
+</ul>
+<h3 id="3-profilo-del-vento"><strong>3. Profilo del Vento</strong></h3>
+<ul>
+<li><strong>Velocità e direzione del vento</strong> sono mostrate da <strong>frecce</strong> sul lato destro.</li>
+<li><strong>Frecce più spesse indicano venti più forti</strong>.</li>
+<li>La <strong>scala dei colori</strong> rappresenta l'intensità del vento, passando da <strong>verde (vento leggero) a viola (vento molto forte)</strong>.</li>
+<li>In questo esempio, a <strong>~2000m di altitudine</strong>, la velocità del vento è di <strong>29 km/h</strong>; a <strong>~4000m di altitudine</strong>, il vento raggiunge <strong>65 km/h</strong>.</li>
+</ul>
+<h3 id="4-osservazioni-chiave"><strong>4. Osservazioni Chiave</strong></h3>
+<p>In questo esempio, il pilota potrebbe trarre le seguenti conclusioni:</p>
+<ul>
+<li>
+<p><strong>I termi probabilmente non supereranno ~2250m</strong>, poiché lo strato di stabilità inizia oltre questa altitudine.</p>
+</li>
+<li>
+<p><strong>Il vento aumenta con l'altitudine</strong>, il che può influenzare significativamente le condizioni di volo. Complessivamente, questa giornata potrebbe già essere troppo ventosa per il parapendio.</p>
+</li>
+<li>
+<p><strong>Lo strato di instabilità condizionale</strong> suggerisce una potenziale formazione di <strong>nuvole cumuliformi</strong>.</p>
+</li>
+</ul>
+<hr />
+<h2 id="comprensione-delle-mappe-dei-venti"><strong>Comprensione delle mappe dei venti</strong></h2>
+<p>Tutte le <strong>mappe dei venti</strong> forniscono una rappresentazione visiva delle <strong>condizioni di vento</strong> utilizzando <strong>frecce</strong> per la direzione del vento e una <strong>scala cromatica</strong> per l'intensità del vento.</p>
+<p>Per passare tra le varie mappe dei venti, fare clic sul pulsante <strong>Menu</strong> in alto a destra dello schermo, quindi scegliere la rappresentazione corretta dall'elenco a discesa <strong>Vento</strong>.</p>
+<p><img alt="Vento" src="../../../img/scr_menu.png" /></p>
+<p>Le mappe più comunemente utilizzate sono <strong>Vento a livello del suolo</strong> e <strong>Vento a varie quote</strong>.</p>
+<h3 id="comprensione-della-mappa-del-vento-a-livello-del-suolo"><strong>Comprensione della mappa del vento a livello del suolo</strong></h3>
+<p><img alt="Vento a livello della superficie" src="../../../img/scr04.png" /></p>
+<h4 id="1-direzione-del-vento-frecce"><strong>1. Direzione del vento (Frecce)</strong></h4>
+<ul>
+<li>
+<p>Le <strong>frecce nere</strong> indicano la <strong>direzione del vento</strong> (in questo esempio, a livello della superficie).</p>
+</li>
+<li>
+<p>Le frecce <strong>puntano nella direzione in cui il vento si sta muovendo</strong>. Il vento segue le frecce.</p>
+</li>
+</ul>
+<h4 id="2-velocita-del-vento-colori-e-scala"><strong>2. Velocità del vento (Colori e scala)</strong></h4>
+<p>I colori di sfondo rappresentano la <strong>velocità del vento</strong>, con una <strong>legenda a sinistra</strong> che mostra i valori in <strong>km/h</strong>.</p>
+<p><strong>È possibile modificare l'unità di velocità nel windgram o nel menu <em>impostazioni</em></strong>.</p>
+<ul>
+<li>
+<p><strong>Sfumature verdi</strong> → Indicano <strong>venti leggeri</strong> (sotto ~20 km/h).</p>
+</li>
+<li>
+<p><strong>Sfumature da giallo ad arancione</strong> → Rappresentano <strong>venti moderati</strong> (tra ~20 e 40 km/h).</p>
+</li>
+<li>
+<p><strong>Sfumature rosse</strong> → Indicano <strong>venti più forti</strong> (sopra ~40 km/h).</p>
+</li>
+<li>
+<p><strong>Aree rosso scuro o viola</strong> (se presenti) → Rappresentano <strong>venti molto forti</strong>, potenzialmente superiori a 50 km/h.</p>
+</li>
+</ul>
+<p>La scala dei colori è progettata per il parapendio: verde è sicuro, rosso è pericoloso.</p>
+<p>Scorrendo la <strong>scala temporale</strong> in basso sulla mappa, i <strong>dati del vento si aggiornano dinamicamente</strong>.</p>
+<h3 id="comprensione-della-mappa-del-vento-a-varie-quote"><strong>Comprensione della mappa del vento a varie quote</strong></h3>
+<p><img alt="Vento a varie quote" src="../../../img/scr05.png" /></p>
+<p>La mappa del <strong>vento a varie quote</strong> funziona in modo simile alla mappa del <strong>vento a livello del suolo</strong>.<br />
+Per spostarsi tra le quote, utilizzare lo <strong>scorrimento verticale a destra</strong>, che consente di passare in <strong>incrementi di 250 m</strong>.  </p>
+<ul>
+<li>
+<p>La <strong>quota attuale</strong> è visualizzata nell'<strong>angolo in alto a sinistra della pagina</strong> (qui, <strong>750 m</strong>).  </p>
+</li>
+<li>
+<p>Un'<strong>area ombreggiata in grigio</strong> illustra il <strong>terreno montano come stimato dal modello</strong>, indicando le regioni in cui i dati del vento non sono disponibili, poiché <strong>non c'è vento all'interno delle rocce</strong>. Mentre alcuni altri siti web possono visualizzare i dati del vento all'interno delle montagne, si tratta semplicemente di un'interpolazione inaffidabile destinata a migliorare l'aspetto visivo e non dovrebbe essere considerata attendibile.</p>
+</li>
+<li>
+<p>Naturalmente, all'aumentare della quota, l'<strong>impronta della montagna diminuisce</strong>, rivelando più dati sul vento a quote più elevate.  </p>
+</li>
+</ul>
+<p><img alt="Vento a varie quote" src="../../../img/scr06.png" /></p>
+<p>Questa visualizzazione aiuta nella migliore pianificazione del volo e nella comprensione della dinamica atmosferica.  </p>
+<hr />
+<h3 id="comprensione-della-mappa-della-pressione-media-a-livello-del-mare"><strong>Comprensione della mappa della pressione media a livello del mare</strong></h3>
+<p>Questa visualizzazione rappresenta la <strong>pressione media a livello del mare (MSLP)</strong>, un parametro meteorologico chiave utilizzato per analizzare i modelli di pressione atmosferica.</p>
+<p><img alt="Pressione media a livello del mare" src="../../../img/scr07.png" /></p>
+<h4 id="1-livelli-di-pressione-codificati-a-colori"><strong>1. Livelli di pressione codificati a colori</strong></h4>
+<ul>
+<li>Il <strong>gradiente di colore di sfondo</strong> rappresenta la <strong>pressione a livello del mare in hPa</strong>, come mostrato nella <strong>legenda a sinistra</strong>.</li>
+<li><strong>Pressione più alta</strong> è indicata da <strong>colori caldi</strong> (arancione, rosso).</li>
+<li><strong>Pressione più bassa</strong> è rappresentata da <strong>colori freddi</strong> (giallo, verde, blu).</li>
+<li>I valori sulla scala (ad esempio, <strong>995 hPa a 1027 hPa</strong>) indicano la pressione a livello del mare, non a livello del suolo.</li>
+</ul>
+<h4 id="2-come-interpretare-questa-mappa"><strong>2. Come interpretare questa mappa</strong></h4>
+<ul>
+<li><strong>Aree di alta pressione (sfumature calde, arancione-rosso)</strong><br />
+Tipicamente associate a <strong>tempo stabile</strong>, cieli più chiari e bassa attività di vento.</li>
+<li><strong>Aree di bassa pressione (sfumature fredde, giallo-marrone chiaro)</strong><br />
+Indicano regioni di potenziale <strong>instabilità</strong>, che possono portare a un aumento della copertura nuvolosa, del vento e delle precipitazioni.</li>
+<li><strong>Transizioni graduali tra i colori</strong> riflettono i cambiamenti della pressione atmosferica in una regione.</li>
+</ul>
+<h4 id="3-navigazione-temporale-dinamica"><strong>3. Navigazione temporale dinamica</strong></h4>
+<ul>
+<li>Il <strong>dispositivo di scorrimento temporale in basso</strong> consente agli utenti di scorrere le previsioni, visualizzando l'evoluzione dei <strong>sistemi di pressione nel tempo</strong>.</li>
+<li>Questo aiuta a prevedere <strong>cambiamenti meteorologici, spostamenti di vento e potenziali sviluppi di tempeste</strong>.</li>
+</ul>
+<p>Analizzando <strong>i valori di pressione e le loro variazioni spaziali</strong>, gli utenti possono anticipare <strong>tendenze meteorologiche, modelli di vento e potenziali cambiamenti di stabilità atmosferica</strong>.</p>
+<hr />
+<h2 id="comprensione-delle-mappe-termiche"><strong>Comprensione delle Mappe Termiche</strong></h2>
+<p>Tutte le <strong>mappe termiche</strong> forniscono una rappresentazione visiva delle <strong>condizioni termiche</strong> (correnti ascensionali e strato limite atmosferico), aiutando i piloti a <strong>identificare le migliori aree di sollevamento</strong>, con <strong>termiche più forti che si formano tipicamente su creste e valli esposte al sole</strong>.
+Sono cruciali per pianificare voli cross-country e comprendere il potenziale di veleggiamento della giornata.</p>
+<p>Per passare tra le varie mappe termiche, fare clic sul pulsante <strong>Menu</strong> in alto a destra dello schermo, quindi scegliere la rappresentazione corretta dall'elenco a discesa <strong>Correnti ascensionali</strong>.</p>
+<p><img alt="Termiche" src="../../../img/scr_menu_thermals.png" /></p>
+<h3 id="comprensione-della-mappa-della-velocita-delle-termiche"><strong>Comprensione della Mappa della Velocità delle Termiche</strong></h3>
+<p><img alt="Mappa Velocità Termiche" src="../../../img/scr10.png" /></p>
+<p>La <strong>Mappa della Velocità delle Termiche</strong> mostra la <strong>velocità verticale delle termiche</strong> (in m/s) a diversi livelli di volo, come indicato dalla <strong>legenda a sinistra</strong>.<br />
+- <strong>Sfumature gialle e verde chiaro</strong> rappresentano <strong>termiche deboli</strong> (0 a ~2 m/s).<br />
+- <strong>Sfumature dal verde scuro al blu</strong> indicano <strong>termiche moderate</strong> (~2 a 5 m/s).<br />
+- <strong>Sfumature viola e rosa</strong> corrispondono a <strong>termiche forti</strong> (sopra ~5 m/s), che possono fornire un sollevamento significativo.  </p>
+<p>Utilizzare il <strong>cursore temporale in basso</strong> per analizzare come l'attività termica evolve durante la giornata.</p>
+<p>È importante capire che questo rappresenta l'<strong>intensità termica media nell'area</strong>. Non è la velocità massima che si vedrebbe sul variometro in una termica specifica. Questo indicatore è affidabile, ma dovrebbe essere interpretato come un <strong>valore relativo piuttosto che assoluto</strong>.</p>
+<h3 id="comprensione-del-taglio-delle-termiche"><strong>Comprensione del Taglio delle Termiche</strong></h3>
+<p><img alt="Taglio delle Termiche" src="../../../img/scr09.png" /></p>
+<p>La mappa del taglio delle termiche è adimensionale. Il <strong>taglio</strong> è un indicatore soggettivo che valuta il <strong>rapporto tra velocità termica e velocità del vento</strong>. Aiuta a stimare se il sollevamento sarà <strong>liscio e piacevole</strong> o <strong>turbolento e irregolare</strong>.</p>
+<p>Un colore <strong>verde</strong> (valore più alto) indica la presenza di termiche con poco vento, risultando in condizioni di sollevamento più stabili e confortevoli.</p>
+<hr />
+<h3 id="comprensione-della-mappa-dello-spessore-dello-strato-limite"><strong>Comprensione della Mappa dello Spessore dello Strato Limite</strong></h3>
+<p><img alt="Spessore Strato Limite" src="../../../img/scr11.png" /></p>
+<p>La <strong>Mappa dello Spessore dello Strato Limite</strong> rappresenta l'<strong>altezza dello strato limite atmosferico</strong> (in metri sopra il livello del suolo, AGL), come mostrato nella <strong>legenda a sinistra</strong>.  </p>
+<p>Lo strato limite rappresenta la parte dell'atmosfera influenzata dalla turbolenza del suolo. Questa turbolenza è creata dal vento o dall'attività termica. In condizioni termiche, si può considerare che lo spessore dello strato limite sia approssimativamente uguale all'altezza del soffitto nuvoloso e della base delle nuvole (rispetto all'altitudine del suolo).</p>
+<p>La Mappa del <em>Soffitto dello Strato Limite</em> mostra l'altitudine assoluta della sommità dello Strato Limite (altitudine del suolo + spessore).</p>
+<ul>
+<li><strong>Sfumature verdi e blu chiare</strong> indicano uno <strong>strato limite inferiore</strong> (~500 a 2000 m AGL), dove l'attività termica è più limitata.  </li>
+<li><strong>Sfumature dal giallo al rosso</strong> rappresentano uno <strong>strato limite più alto</strong> (~2000 a 4000 m AGL), che consente termiche più forti e sostenute.  </li>
+</ul>
+<p>Il <strong>cursore temporale in basso</strong> consente di tracciare l'evoluzione dello strato limite durante la giornata.</p>
+<hr />
+<p>TRAUZIONE_COMPLETA</p>
+<h2 id="comprensione-delle-mappe-di-umidita"><strong>Comprensione delle Mappe di Umidità</strong></h2>
+<p>Le <strong>mappe di umidità</strong> forniscono una panoramica della copertura nuvolosa e delle precipitazioni previste.</p>
+<p>Per passare tra le varie mappe di umidità, fare clic sul pulsante <strong>Menu</strong> in alto a destra dello schermo, quindi scegliere la rappresentazione corretta dall'elenco a discesa <strong>Umidità</strong>.</p>
+<p><img alt="Umidità" src="../../../img/scr_menu_humidity.png" /></p>
+<h3 id="comprensione-della-mappa-delle-precipitazioni"><strong>Comprensione della Mappa delle Precipitazioni</strong></h3>
+<p><img alt="Precipitazioni" src="../../../img/scr13.png" /></p>
+<p>Questa mappa mostra le <strong>precipitazioni orarie (mm/h)</strong>, indicando le aree con pioggia prevista.</p>
+<p><strong>È importante capire che prevedere con precisione la pioggia è molto difficile, e TUTTI i modelli, inclusi Meteo-Parapente, ICON, AROME, ECMWF e GFS, faticano in questo aspetto.</strong> Dovrebbe essere considerato piuttosto come un indicatore del rischio di pioggia che come un valore assoluto.</p>
+<p>Aiuta i piloti a <strong>evitare aree con pioggia</strong> che potrebbero compromettere la sicurezza del volo. Identifica inoltre <strong>zone umide</strong> dove la formazione di nuvole può influenzare l'attività termica e limitare la possibilità di decollo o atterraggio.</p>
+<ul>
+<li><strong>Sfumature blu chiare</strong> → Indicano <strong>precipitazioni leggere</strong> (~0-5 mm/h).</li>
+<li><strong>Sfumature blu scure fino al viola</strong> → Rappresentano <strong>precipitazioni moderate o intense</strong> (&gt;5 mm/h).</li>
+</ul>
+<p>Il <strong>cursore temporale</strong> consente di tracciare i cambiamenti delle precipitazioni durante la giornata.</p>
+<p>Le precipitazioni compaiono anche in fondo al <strong>Windgram</strong>:</p>
+<p><img alt="Windgram - Pioggia" src="../../../img/scr14.png" /></p>
+<h3 id="comprensione-della-mappa-delle-nuvole"><strong>Comprensione della Mappa delle Nuvole</strong></h3>
+<p>Tutte le mappe delle <strong>Nuvole</strong> sono simili, ma la mappa <strong>Nuvole a Varie Altitudini</strong> consente di navigare tra diversi livelli di altitudine, mentre le altre mappe si concentrano su zone di altitudine specifiche. Quindi discuteremo solo una di queste mappe.</p>
+<p><img alt="Copertura Nuvolosa 1750 m" src="../../../img/scr16.png" /></p>
+<p>Questa mappa mostra la <strong>percentuale di copertura nuvolosa</strong> a varie altitudini. Identifica <strong>potenziali strati nuvolosi</strong> ☁️ che potrebbero influenzare la visibilità e aiuta a individuare aree chiare con migliore sviluppo termico.</p>
+<p>Per navigare tra le altitudini, utilizzare lo <strong>scorrimento verticale sul lato destro</strong>, che consente di passare con incrementi di <strong>250 m</strong>.</p>
+<p>L'<strong>altitudine corrente</strong> è visualizzata nell'<strong>angolo in alto a sinistra</strong> della pagina (qui, <strong>1750 m</strong>).</p>
+<p>La legenda dei colori è la seguente:</p>
+<ul>
+<li><strong>Grigio chiaro</strong> → <strong>Cielo sereno</strong> o copertura nuvolosa molto bassa (~0-20%).</li>
+<li><strong>Blu chiaro fino al blu scuro</strong> → Copertura nuvolosa crescente (~20-80%).</li>
+<li><strong>Sfumature di blu più scure</strong> → Indicano <strong>copertura nuvolosa densa</strong> (~80-100%).</li>
+</ul>
+<p>Come al solito, il <strong>cursore temporale</strong> aiuta a tracciare l'evoluzione delle nuvole durante la giornata.</p>
+<hr />
+<p>TRAUZIONE_COMPLETA</p>
+<h2 id="comprensione-delle-mappe-delle-temperature"><strong>Comprensione delle Mappe delle Temperature</strong></h2>
+<p>Come per le mappe dei venti, ci sono due mappe delle temperature, una a quote variabili e un'altra a livello del suolo.</p>
+<p>Come al solito, per passare da una all'altra, fare clic sul pulsante <strong>Menu</strong> in alto a destra dello schermo, quindi scegliere la visualizzazione corretta dall'elenco a discesa <strong>Temperatura</strong>.</p>
+<h3 id="comprensione-della-mappa-delle-temperature-al-livello-del-suolo"><strong>Comprensione della Mappa delle Temperature al Livello del Suolo</strong></h3>
+<p>Questa mappa mostra la <strong>temperatura dell'aria a 2 metri sopra il livello del suolo (AGL)</strong>, cruciale per comprendere il riscaldamento superficiale e l'attività termica.</p>
+<p><img alt="Temperatura al Livello del Suolo" src="../../../img/scr20.png" /></p>
+<p>La legenda è la seguente:</p>
+<ul>
+<li><strong>Dal blu scuro al ciano</strong> → <strong>Temperature fredde</strong> (~0-10°C).  </li>
+<li><strong>Dal verde al giallo</strong> → <strong>Temperature miti e calde</strong> (~10-25°C).  </li>
+<li><strong>Dall'arancione al rosso</strong> → <strong>Temperature calde</strong> (30°C e oltre).  </li>
+</ul>
+<p>Scorrendo la <strong>scala temporale</strong> in basso sulla mappa, i <strong>dati di temperatura si aggiornano dinamicamente</strong>, mostrando l'evoluzione durante la giornata.</p>
+<h3 id="comprensione-della-mappa-delle-temperature-a-varie-quote"><strong>Comprensione della Mappa delle Temperature a Varie Quote</strong></h3>
+<p><img alt="Temperatura" src="../../../img/scr19.png" /></p>
+<p>La mappa delle <strong>temperature a varie quote</strong> è molto simile alla mappa dei venti al livello del suolo.</p>
+<p>Ecco le principali differenze:  </p>
+<ul>
+<li>
+<p>Per spostarsi tra le quote, utilizzare lo <strong>scorrimento verticale sulla destra</strong>, che consente di passare a incrementi di <strong>250 m</strong>.  </p>
+</li>
+<li>
+<p>La <strong>quota attuale</strong> è visualizzata in <strong>alto a sinistra della pagina</strong> (qui, <strong>750 m</strong>).  </p>
+</li>
+<li>
+<p>Un'<strong>area ombreggiata in grigio</strong> rappresenta il <strong>terreno montano come visto dal modello</strong>, indicando le regioni in cui <strong>non sono disponibili dati di temperatura</strong>.  </p>
+</li>
+<li>
+<p>Naturalmente, all'aumentare della quota, l'<strong>impronta della montagna diminuisce</strong>, rivelando più dati a quote più elevate.</p>
+</li>
+</ul>
+
+  
+
+  
+
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+    
+
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        
+        <a href="../../about/model/" class="md-footer__link md-footer__link--prev" aria-label="Precedente: Il Modello di Meteo-Parapente" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Precedente
+              </span>
+              Il Modello di Meteo-Parapente
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../support/account/" class="md-footer__link md-footer__link--next" aria-label="Prossimo: Account e Login" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Prossimo
+              </span>
+              Account e Login
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            © 2023  <a href="https://meteo-parapente.com" target="_blank">Meteo-Parapente</a> and contributors.<br> Licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/deed" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+          </div>
+        
+        
+          Made with
+          <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+            Material for MkDocs
+          </a>
+        
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Copiato", "clipboard.copy": "Copia", "search.config.lang": "it", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Cerca", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Nessun documento trovato", "search.result.one": "1 documento trovato", "search.result.other": "# documenti trovati", "search.result.placeholder": "Scrivi per iniziare a cercare", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
+    
+    
+  
+      <script src="../../../assets/javascripts/bundle.b1047164.min.js"></script>
+      
+    
+  
+  <script>
+    if (window.location.search.includes('from=app')) {
+      document.querySelectorAll('a[href$="users/contribute/"]')
+      .forEach(link => link.parentNode.remove());
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+        if (link.href.includes('?')) {
+          if (!link.href.includes('from=app')) {
+            link.href += '&from=app';
+          }
+        } else {
+          link.href += '?from=app';
+        }
+      });
+    }
+  </script>
+
+  </body>
+</html>
