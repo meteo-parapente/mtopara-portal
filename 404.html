@@ -1,6 +1,6 @@
 
 <!doctype html>
-<html lang="en" class="no-js">
+<html lang="nl" class="no-js">
   <head>
     
   <meta charset="utf-8" />
@@ -119,7 +119,7 @@
 
     <!-- Link to home -->
     <!--<a
-      href="/."
+      href="/nl/"
       title="Meteo-Parapente"
       class="md-header__button md-logo"
       aria-label="Meteo-Parapente"
@@ -161,6 +161,96 @@
 
     <!-- Site language selector -->
     
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button
+            class="md-header__button md-icon"
+            aria-label="Select language"
+          >            
+            <img src="/img/flag/nl.svg" style="width: 24px;"/>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a
+                    href="/users/sepa/"
+                    hreflang="en"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/en.svg" style="width: 24px;"/>
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="/fr/users/sepa/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="/de/users/sepa/"
+                    hreflang="de"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/de.svg" style="width: 24px;"/>
+                    Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="/it/users/sepa/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="/es/users/sepa/"
+                    hreflang="es"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/es.svg" style="width: 24px;"/>
+                    Español
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="/nl/users/sepa/"
+                    hreflang="nl"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/nl.svg" style="width: 24px;"/>
+                    Nederlands
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+      <script>
+        const links = document.querySelectorAll('.lang-link')
+        links.forEach(a => {
+          const queryString = document.location.href.match(/\?.*$/) || ''
+          a.href = a.href + queryString
+        })
+      </script>
+    
 
     <!-- Button to open search modal -->
     
@@ -175,7 +265,7 @@
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Zoeken" placeholder="Zoeken" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
@@ -231,7 +321,7 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="/." title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
+    <a href="/nl/" title="Meteo-Parapente" class="md-nav__button md-logo" aria-label="Meteo-Parapente" data-md-component="logo">
       
   
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
@@ -250,8 +340,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/." class="md-nav__link">
-        Welcome
+      <a href="/nl/" class="md-nav__link">
+        Welkom
       </a>
     </li>
   
@@ -265,8 +355,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/about/" class="md-nav__link">
-        About us
+      <a href="/nl/about/" class="md-nav__link">
+        Over ons
       </a>
     </li>
   
@@ -280,8 +370,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/about/model/" class="md-nav__link">
-        The Meteo-Parapente Model
+      <a href="/nl/about/model/" class="md-nav__link">
+        Het Meteo-Parapente Model
       </a>
     </li>
   
@@ -295,8 +385,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/help/user-manual/" class="md-nav__link">
-        User manual
+      <a href="/nl/help/user-manual/" class="md-nav__link">
+        Gebruikershandleiding
       </a>
     </li>
   
@@ -310,7 +400,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/users/contribute/" class="md-nav__link">
+      <a href="/nl/users/contribute/" class="md-nav__link">
         WIN A PARAGLIDER
       </a>
     </li>
@@ -351,8 +441,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/support/account/" class="md-nav__link">
-        Account & Login
+      <a href="/nl/support/account/" class="md-nav__link">
+        Account & Inloggen
       </a>
     </li>
   
@@ -365,7 +455,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/support/contact/" class="md-nav__link">
+      <a href="/nl/support/contact/" class="md-nav__link">
         Contact
       </a>
     </li>
@@ -379,8 +469,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/support/issues/" class="md-nav__link">
-        Troubleshooting & Issues
+      <a href="/nl/support/issues/" class="md-nav__link">
+        Probleemoplossing & Problemen
       </a>
     </li>
   
@@ -393,8 +483,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/support/subscription/" class="md-nav__link">
-        Subscription & Payment
+      <a href="/nl/support/subscription/" class="md-nav__link">
+        Abonnement & Betaling
       </a>
     </li>
   
@@ -415,7 +505,7 @@
   
   
     <li class="md-nav__item">
-      <a href="/tour/" class="md-nav__link">
+      <a href="/nl/tour/" class="md-nav__link">
         Tour
       </a>
     </li>
@@ -430,8 +520,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/users/contribute/" class="md-nav__link">
-        Subscribe
+      <a href="/nl/users/contribute/" class="md-nav__link">
+        Abonneren
       </a>
     </li>
   
@@ -445,8 +535,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/about/data-sources/" class="md-nav__link">
-        Data sources
+      <a href="/nl/about/data-sources/" class="md-nav__link">
+        Gegevensbronnen
       </a>
     </li>
   
@@ -460,8 +550,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/translations/" class="md-nav__link">
-        Translations
+      <a href="/nl/translations/" class="md-nav__link">
+        Vertalingen
       </a>
     </li>
   
@@ -475,8 +565,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/privacy/" class="md-nav__link">
-        Privacy policy
+      <a href="/nl/privacy/" class="md-nav__link">
+        Privacybeleid
       </a>
     </li>
   
@@ -490,8 +580,8 @@
   
   
     <li class="md-nav__item">
-      <a href="/legal/" class="md-nav__link">
-        Legal and contractual information
+      <a href="/nl/legal/" class="md-nav__link">
+        Juridische informatie
       </a>
     </li>
   
@@ -549,7 +639,7 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": "/", "features": [], "search": "/assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
+    <script id="__config" type="application/json">{"base": "/", "features": [], "search": "/assets/javascripts/workers/search.fcfe8b6d.min.js", "translations": {"clipboard.copied": "Gekopieerd naar klembord", "clipboard.copy": "Kopi\u00ebren naar klembord", "search.config.lang": "nl", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Zoeken", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "Geen overeenkomende documenten", "search.result.one": "1 overeenkomende document", "search.result.other": "# overeenkomende documenten", "search.result.placeholder": "Typ om te beginnen met zoeken", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": null}</script>
     
     
   

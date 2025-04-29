@@ -168,6 +168,96 @@
 
     <!-- Site language selector -->
     
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button
+            class="md-header__button md-icon"
+            aria-label="Select language"
+          >            
+            <img src="/img/flag/en.svg" style="width: 24px;"/>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a
+                    href="./"
+                    hreflang="en"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/en.svg" style="width: 24px;"/>
+                    English
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../fr/help/additional/edit-the-map/"
+                    hreflang="fr"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/fr.svg" style="width: 24px;"/>
+                    Français
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../de/help/additional/edit-the-map/"
+                    hreflang="de"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/de.svg" style="width: 24px;"/>
+                    Deutsch
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../it/help/additional/edit-the-map/"
+                    hreflang="it"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/it.svg" style="width: 24px;"/>
+                    Italiano
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../es/help/additional/edit-the-map/"
+                    hreflang="es"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/es.svg" style="width: 24px;"/>
+                    Español
+                  </a>
+                </li>
+                
+                <li class="md-select__item">
+                  <a
+                    href="../../../nl/help/additional/edit-the-map/"
+                    hreflang="nl"
+                    class="md-select__link lang-link"
+                  >
+                    <img src="/img/flag/nl.svg" style="width: 24px;"/>
+                    Nederlands
+                  </a>
+                </li>
+                
+            </ul>
+          </div>
+        </div>
+      </div>
+      <script>
+        const links = document.querySelectorAll('.lang-link')
+        links.forEach(a => {
+          const queryString = document.location.href.match(/\?.*$/) || ''
+          a.href = a.href + queryString
+        })
+      </script>
+    
 
     <!-- Button to open search modal -->
     
