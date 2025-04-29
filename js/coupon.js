@@ -1,5 +1,3 @@
-mpdb.hookVue(Vue)
-
 Vue.use(window['vue-tel-input'])
 
 const getParameterByName = (name, url = window.location.href) => {

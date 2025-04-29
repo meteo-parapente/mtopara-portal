@@ -1,5 +1,3 @@
-mpdb.hookVue(Vue)
-
 const countries = {
   'af': '🇦🇫 Afghanistan (‫افغانستان‬‎)',
   'al': '🇦🇱 Albania (Shqipëri)',
@@ -60,7 +58,7 @@ const countries = {
   'cy': '🇨🇾 Cyprus (Κύπρος)',
   'cz': '🇨🇿 Czech Republic (Česká republika)',
   'dk': '🇩🇰 Denmark (Danmark)',
-  'dj': '🇩🇰 Djibouti',
+  'dj': '🇩🇯 Djibouti',
   'dm': '🇩🇲 Dominica',
   'do': '🇩🇴 Dominican Republic (República Dominicana)',
   'ec': '🇪🇨 Ecuador',

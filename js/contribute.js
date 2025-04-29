@@ -1,5 +1,3 @@
-mpdb.hookVue(Vue)
-
 Vue.use(window['vue-tel-input'])
 
 const getParameterByName = (name, url = window.location.href) => {
@@ -15,19 +13,33 @@ new Vue({
   el: '#app',
   template: `
   <form class="mp-form" @submit.prevent="submit" :class="{ ready }">
+
     <div class="choice">
-      <input type="radio" name="product" value="contributor" id="product_contributor" v-model="product">
-      <label for="product_contributor" class="mp-inline">
-        <strong><big>{{l.product_contributor_title}}</big></strong><br>
-        <span v-html="l.product_contributor_description"></span>
+      <input type="radio" value="1y" id="product_1y" v-model="baseProduct">
+      <label for="product_1y" class="mp-inline">
+        <strong><big>{{l.product_1y_title}}</big></strong><br>
+        <span v-html="l.product_1y_description"></span>
       </label>
       
-      <input type="radio" name="product" value="supporter" id="product_supporter" v-model="product">
-      <label for="product_supporter" class="mp-inline">
-        <strong><big>{{l.product_supporter_title}}</big></strong><br>
-        <span v-html="l.product_supporter_description"></span>
+      <input type="radio" value="1m" id="product_1m" v-model="baseProduct">
+      <label for="product_1m" class="mp-inline">
+        <strong><big>{{l.product_1m_title}}</big></strong><br>
+        <span v-html="l.product_1m_description"></span>
       </label>
     </div>
+
+    <h2>{{ l.header_options }}</h2>
+
+    <div class="row">
+      <div class="field">
+        <label><input type="checkbox" v-model="optionSupport"> <span v-html="l.option_support"></span></label>
+      </div>
+    </div>
+    <!--<div class="row">
+      <div class="field">
+        <label><input type="checkbox" v-model="optionStl"> <span v-html="l.option_stl"></span></label>
+      </div>
+    </div>-->
 
     <p><small class="faded">{{ productSmallText }}</small></p>
 
@@ -36,7 +48,21 @@ new Vue({
     <div class="row">
       <div class="field" :class="{error: emailError}">
         <label>{{ l.email }}</label>
-        <input type="email" class="input" v-model="email" @focus="emailError = emailConfirm = false" @blur="validateEmail">
+        <input type="email" class="input" v-model="email" @focus="emailError = false" @blur="validateEmail">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field" :class="{error: emailConfirmationError || emailError}">
+        <label>{{ l.email_confirmation }}</label>
+        <input
+          type="email"
+          class="input"
+          v-model="emailConfirmation"
+          @focus="emailConfirmationError = false" @blur="validateEmail"
+          @paste.prevent
+          autocomplete="off"
+        >
       </div>
     </div>
 
@@ -96,14 +122,6 @@ new Vue({
       </div>
     </div>
 
-    <div class="row">
-      <div class="field" :class="{error: emailConfirmError}">
-        <strong>{{ email.toUpperCase() }}</strong><br>
-        <label><input type="checkbox" v-model="emailConfirm" @change="emailConfirmError = false"> {{ l.email_confirm }}
-        </label>
-      </div>
-    </div>
-
     <div class="submit">
       <p v-show="loading"><img src="/img/load.gif" class="loading" alt="loading..."/></p>
       <p v-if="paymentMethod === 'paypal' && formErrorDisplay" style="color: red;">{{ formErrorDisplay }}</p>
@@ -121,10 +139,12 @@ new Vue({
   data: () => ({      
     l: mp_form_locale,
     ready: false,
-    product: getParameterByName('product') == 'supporter' ? 'supporter' : 'contributor',
+    baseProduct: getParameterByName('product') == '1m' ? '1m' : '1y',
     paymentMethod: 'card',
     email: getParameterByName('email') || '',
+    emailConfirmation: '',
     emailError: false,
+    emailConfirmationError: false,
     phone: '',
     phoneTmp: getParameterByName('phone') || '',
     phoneError: false,
@@ -151,12 +171,27 @@ new Vue({
     paypalPromiseResolve: null,
     paypalPromiseReject: null,
     country: (getParameterByName('country') || window.mp_country || mp_form_locale.default_country).toUpperCase(),
-    emailConfirm: false,
-    emailConfirmError: false
+    optionSupport: false,
+    optionStl: false
   }),
   computed: {
     price: function() {
-      return this.product == 'contributor' ? 36 : 60
+      return {
+        '1y': 36,
+        '1m': 15,
+        '1y-support': 36+2*12,
+        '1m-support': 15+2,
+        '1y-stl': 36+24,
+        '1m-stl': 15+24,
+        '1y-support-stl': 36+2*12+24,
+        '1m-support-stl': 15+2+24
+      }[this.product]
+    },
+    product: function () {
+      let product = this.baseProduct
+      if (this.optionSupport) product += '-support'
+      if (this.optionStl) product += '-stl'
+      return product
     },
     productSmallText: function() {
       return this.l.product_small_text.replace('###', this.price)
@@ -164,10 +199,10 @@ new Vue({
     formError: function() {
       if (this.emailError) {
         return this.l.error_email
+      } if (this.emailConfirmationError) {
+        return this.l.error_email_confirmation
       } else if (this.phoneError) {
         return this.l.error_phone
-      } else if (this.emailConfirmError) {
-        return this.l.error_email_confirm
       } else {
         return false
       }
@@ -214,7 +249,6 @@ new Vue({
         const script = document.createElement('script')
         script.onerror = () => {
           this.loading = false
-          mpdb.sendError(new Error('error loading paypal'))
           this.formErrorDisplay = `Error loading PayPal. Try another payment method`
           setTimeout(() => {
             this.formErrorDisplay = false
@@ -248,7 +282,6 @@ new Vue({
             },
             onError: (e) => {
               console.error(e)
-              mpdb.sendError(new Error('error in paypal'))
               this.formErrorDisplay = `Error. Please try again`
               this.loading = false
             },
@@ -284,11 +317,11 @@ new Vue({
       this.$nextTick(() => location.hash = 'paymentMethod')
     }
     this.mollie = getParameterByName('mollie') || this.refused // || (Math.random() < 0.5)
-    if (!getParameterByName('dev') && document.location.host !== '127.0.0.1:8000') {
-      Vue.http.options.root = 'https://meteo-parapente.com/api/order/'
-    } else {
+    if (getParameterByName('dev') && document.location.host === '127.0.0.1:8000') {
       Vue.http.options.root = 'http://127.0.0.1:4200/order/'
       console.log('dev api')
+    } else {
+      Vue.http.options.root = 'https://meteo-parapente.com/api/order/'
     }
     this.ready = true
   },
@@ -306,12 +339,12 @@ new Vue({
     },
     validateEmail: function() {
       this.emailError = !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(this.email);
+      this.emailConfirmationError = this.email != this.emailConfirmation
     },
     validateForm: function () {
       this.requestError = false
       this.validatePhone()
       this.validateEmail()
-      if (!this.emailConfirm) this.emailConfirmError = true
       this.formErrorDisplay = this.formError
     },
     submit: function() {
@@ -353,7 +386,6 @@ new Vue({
         })
         .catch(e => {
           console.error(e)
-          mpdb.sendError(new Error('error in prepare'))
           if (payload.paymentMethod === 'paypal') this.paypalPromiseReject(e)
           this.requestError = true
           this.loading = false
