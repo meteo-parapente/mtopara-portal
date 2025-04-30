@@ -35,11 +35,11 @@ new Vue({
         <label><input type="checkbox" v-model="optionSupport"> <span v-html="l.option_support"></span></label>
       </div>
     </div>
-    <!--<div class="row">
+    <div class="row">
       <div class="field">
         <label><input type="checkbox" v-model="optionStl"> <span v-html="l.option_stl"></span></label>
       </div>
-    </div>-->
+    </div>
 
     <p><small class="faded">{{ productSmallText }}</small></p>
 
